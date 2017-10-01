@@ -1,5 +1,5 @@
 {
-    "max_tasks": 100,
+    "max_fetchers": 100,
     "max_redirect": 10,
     "max_retries": 4,
     "root_urls": [],
