@@ -2,6 +2,6 @@
     "max_tasks": 100,
     "max_redirect": 10,
     "max_retries": 4,
-    "root_urls": []
-
+    "root_urls": [],
+    "loggin_level": 2
 }
