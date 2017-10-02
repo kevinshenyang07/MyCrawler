@@ -34,7 +34,7 @@ class Crawler(object):
         self._url_filter = UrlFilter()
 
         self._loop = loop or asyncio.get_event_loop
-        self._queue = asyncio.Queue(loop=self._loop)
+        self._queue = Queue(loop=self._loop)
 
         self._num_fetchers = num_fetchers
         self._max_redirect = max_redirect
@@ -98,7 +98,7 @@ class Crawler(object):
 
             try:
                 # fetch the content of a url
-                fetch_result, content = await self._fetcher.fetch(url)
+                fetch_result, content = await self._fetcher.fetch(url, max_redirect)
                 if fetch_result == 1:
 
                     # parse the content of a url

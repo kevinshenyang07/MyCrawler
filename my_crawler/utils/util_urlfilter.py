@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 
 import re
-from pybloom_live import ScalableBloomFilter
 from .util_config import CONFIG_URL_FILTER_PATTERN
 
 
@@ -19,15 +18,19 @@ class UrlFilter(object):
         """
         constructor, use variable of BloomFilter if capacity else variable of set
         """
-        self._re_black_list = [re.compile(pattern, flags=re.IGNORECASE)
-                                  for pattern in black_patterns] 
+        self._re_black_list = [re.compile(pattern, flags=re.IGNORECASE) \
+                                  for pattern in black_patterns] \
                               if black_patterns else []
-        self._re_white_list = [re.compile(pattern, flags=re.IGNORECASE)
-                                  for pattern in white_patterns] 
+        self._re_white_list = [re.compile(pattern, flags=re.IGNORECASE) \
+                                  for pattern in white_patterns] \
                               if white_patterns else []
 
         # bloom filter share the same interface with set()
-        self._url_set = ScalableBloomFilter(capacity, error_rate=0.001) if capacity else set()
+        if capacity:
+            from pybloom_live import ScalableBloomFilter
+            self._url_set = ScalableBloomFilter(capacity, error_rate=0.001)
+        else:
+            self._url_set = set()
         return
 
     def check(self, url):

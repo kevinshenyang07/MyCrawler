@@ -4,7 +4,7 @@ import sys
 import json
 import logging
 import asyncio
-from crawler import Fetcher, Parser, Saver, Crawler
+from my_crawler import Fetcher, Parser, Saver, Crawler
 
 
 def test_crawler(config_path):
@@ -24,14 +24,21 @@ def test_crawler(config_path):
     loop = asyncio.get_event_loop()
 
     # initialize fetcher, parser and saver, get crawler ready
-    fetcher = Fetcher(max_repeat=3, sleep_time=0)
-    parser = Parser(max_deep=-1)
+    fetcher = Fetcher(
+        max_tries=configs['max_tries'], 
+        sleep_interval=configs['sleep_interval']
+    )
+    parser = Parser(max_depth=configs['max_depth'])
     saver = Saver(save_pipe=open("my_crawler_output.txt", "w"))
 
     crawler = Crawler(
-        fetcher, parser, saver, url_filter=None, loop=loop, num_fetchers=configs['max_fetchers']
+        fetcher, parser, saver, loop=loop,
+        root_urls=configs['root_urls'],
+        num_fetchers=configs['num_fetchers'],
+        max_redirect=configs['max_redirect']
     )
 
+    crawler.start_work_and_wait()
 
 
 if __name__ == '__main__':

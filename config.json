@@ -1,7 +1,9 @@
 {
-    "max_fetchers": 100,
+    "num_fetchers": 100,
     "max_redirect": 10,
-    "max_retries": 4,
+    "max_tries": 4,
+    "sleep_interval": 0,
+    "max_depth": -1,
     "root_urls": [],
     "loggin_level": 2
 }
