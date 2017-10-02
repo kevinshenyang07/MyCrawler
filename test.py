@@ -32,7 +32,7 @@ def test_crawler(config_path):
         sleep_interval=configs['sleep_interval']
     )
     parser = Parser(max_depth=configs['max_depth'])
-    saver = Saver(save_pipe=open("my_crawler_output.txt", "w"))
+    saver = Saver(save_configs=configs['save'])
 
     crawler = Crawler(
         fetcher, parser, saver, loop=loop,
@@ -43,5 +43,5 @@ def test_crawler(config_path):
 
 
 if __name__ == '__main__':
-    test_crawler('./config.json')
+    test_crawler(config_path='./config.json')
     exit()
