@@ -3,7 +3,6 @@
 import sys
 import logging
 import asyncio
-from .utils import UrlFilter
 
 try:
     # Python 3.4.
@@ -31,7 +30,7 @@ class Crawler(object):
         self._parser = parser      # parser instance
         self._saver = saver        # saver instance
         
-        self._url_filter = UrlFilter()
+
 
         self._loop = loop or asyncio.get_event_loop
         self._queue = Queue(loop=self._loop)
@@ -86,7 +85,7 @@ class Crawler(object):
         """
         working process, fetching --> parsing --> saving
         """
-        logging.warning("%s[worker-%s] start...", self.__class__.__name__, index)
+        logging.warning("%r[worker-%r] start...", self.__class__.__name__, index)
         self._running_tasks += 1
 
         while True:
@@ -122,13 +121,13 @@ class Crawler(object):
 
             # TODO: change to more specific Exception
             except Exception as e:
-                logging.error("%s[worker-%s] error: %s", self.__class__.__name__, index, e)
+                logging.error("%r[worker-%r] error: %r", self.__class__.__name__, index, e)
             finally:
                 # finish a task
                 self._queue.task_done()
                 if fetch_result == -2:
                     logging.error(
-                        "%s[worker-%s] error: fetch failed and try to stop",
+                        "%r[worker-%r] error: fetch failed and try to stop",
                         self.__class__.__name__, index
                     )
                     break
@@ -140,7 +139,7 @@ class Crawler(object):
             await self._queue.get()
             self._queue.task_done()
 
-        logging.warning("%s[worker-%s] end...", self.__class__.__name__, index)
+        logging.warning("%r[worker-%r] end...", self.__class__.__name__, index)
         return
 
 

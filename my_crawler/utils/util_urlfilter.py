@@ -55,7 +55,7 @@ class UrlFilter(object):
         check the url to make sure that the url hasn't been fetched, and add url to urlfilter
         """
         is_new_url = False
-        if self.check(url):
-            is_new_url = url not in self._url_set
+        if self.check(url) and (url not in self._url_set):
+            is_new_url = True
             self._url_set.add(url)
         return is_new_url
