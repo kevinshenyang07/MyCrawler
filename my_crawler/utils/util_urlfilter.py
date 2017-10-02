@@ -9,12 +9,8 @@ class UrlFilter(object):
     class of UrlFilter, to filter url by regexs and (bloomfilter or set)
     """
 
-    def __init__(
-            self, 
-            black_patterns=(CONFIG_URL_FILTER_PATTERN,), 
-            white_patterns=(r"^http",), 
-            capacity=None):
-        
+    def __init__(self, black_patterns=(CONFIG_URL_FILTER_PATTERN,), 
+                 white_patterns=(r"^http",), capacity=None):
         """
         constructor, use variable of BloomFilter if capacity else variable of set
         """
@@ -33,29 +29,26 @@ class UrlFilter(object):
             self._url_set = set()
         return
 
-    def check(self, url):
+    def should_add(self, url):
         """
-        check the url based on self._re_black_list and self._re_white_list
+        check if a url should be added to URL queue
+        based on black list, white list and if that url in set
         """
-        # if url in black_list, return False
+        # if url in any pattern of black_list, return False
         for re_black in self._re_black_list:
             if re_black.search(url):
                 return False
 
-        # if url in white_list, return True
+        # if url in any pattern of white_list, do further check
         for re_white in self._re_white_list:
-            if re_white.search(url):
+            if re_white.search(url) and (url not in self._url_set):
                 return True
 
-        # if url not in either list, depend on if white list exists
-        return False if self._re_white_list else True
+        # if no patterns in white list match url, then return False
+        return False
 
-    def check_and_add(self, url):
+    def add(self, url):
         """
-        check the url to make sure that the url hasn't been fetched, and add url to urlfilter
+        simply add url to set
         """
-        is_new_url = False
-        if self.check(url) and (url not in self._url_set):
-            is_new_url = True
-            self._url_set.add(url)
-        return is_new_url
+        self._url_set.add(url)

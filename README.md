@@ -9,6 +9,10 @@ An async web crawler using coroutines.
 
 Fetcher, Parser Saver not necessarily needed, since a coroutines triggered is able to store its state in local variables like a function does. In fact, function is a special case of coroutine.
 
+Fetcher: I/O bound, one process, many coroutines
+Parser: CPU bound, number of process depending on the workload of parsing
+Saver: I/O bound, one process, many coroutines
+
 #### How coroutines are used to minimize wait on I/O 
 
 1. asyncio.Task(coro) wraps the coroutine in a future, and there will only be one task running in one event loop.

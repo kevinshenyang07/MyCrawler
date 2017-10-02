@@ -4,13 +4,6 @@ import sys
 import logging
 import asyncio
 
-try:
-    # Python 3.4.
-    from asyncio import JoinableQueue as Queue
-except ImportError:
-    # Python 3.5.
-    from asyncio import Queue
-
 # provide command line support
 # import argparse
 # ARGS = argparse.ArgumentParser(description="Web crawler")
@@ -19,29 +12,21 @@ except ImportError:
 #     default='./config.json', help='path to load configs'
 # )
 
+
 class Crawler(object):
 
     """
     a crawler class that takes necessary helpers
     """
-    def __init__(self, fetcher, parser, saver, root_urls, loop=None, num_fetchers=10, max_redirect=10):
+    def __init__(self, fetcher, parser, saver, loop=None, num_tasks=10):
 
         self._fetcher = fetcher    # fetcher instance
         self._parser = parser      # parser instance
         self._saver = saver        # saver instance
         
-
-
         self._loop = loop or asyncio.get_event_loop
-        self._queue = Queue(loop=self._loop)
 
-        self._num_fetchers = num_fetchers
-        self._max_redirect = max_redirect
-
-        self._running_tasks = 0
-
-        for url in root_urls:
-            self.add_a_task(url, max_redirect)
+        self._num_tasks = num_tasks
         return
 
 
@@ -67,12 +52,13 @@ class Crawler(object):
         start the tasks, and wait for finishing
         """
         # initialize fetcher session
-        self._fetcher.init_session(self._loop)
+        self._fetcher.init_session()
 
         # start tasks and wait done
         tasks_list = [asyncio.Task(self._work(index + 1), loop=self._loop)
-                      for index in range(self._num_fetchers)]
-        await self._queue.join()
+                      for index in range(self._num_tasks)]
+
+        self._fetcher.init_url_queue(self._loop)
         for task in tasks_list:
             task.cancel()
 
@@ -83,71 +69,40 @@ class Crawler(object):
 
     async def _work(self, index):
         """
-        working process, fetching --> parsing --> saving
+        working process, fetching -> parsing -> saving
         """
         logging.warning("%r[worker-%r] start...", self.__class__.__name__, index)
-        self._running_tasks += 1
 
         while True:
             try:
-                # get a task
-                url, max_redirect = await self._queue.get()
-            except asyncio.CancelledError:
-                break
-
-            try:
+                url, redirects = await self._fetcher.get_a_task()
+                
                 # fetch the content of a url
-                fetch_result, content = await self._fetcher.fetch(url, max_redirect)
-                if fetch_result == 1:
-
+                status, fetch_result = await self._fetcher.fetch(url, redirects)
+                
+                # if fetch result is html
+                if status == 0:
                     # parse the content of a url
-                    parse_result, url_list, save_list = await self._parser.parse(url, content)
+                    parse_result, url_list, save_list = await self._parser.parse(url, fetch_result)
 
                     if parse_result == 1:
 
                         # add new task to self._queue
-                        for _url in url_list:
-                            self.add_a_task(_url, 0)
+                        for url in url_list:
+                            self._fetcher.add_a_task(url, 0)
 
                         # save the item of a url
                         for item in save_list:
                             await self._saver.save(url, item)
+                
+                self._fetcher.finish_a_task()
 
-                    # end of if parse_result > 0
-                # TODO: change to be handled inside fetcher
-                elif fetch_result == 0:
-                    self.add_a_task(url, max_redirect)
-                # end of if fetch_result == 1
-
-            # TODO: change to more specific Exception
-            except Exception as e:
+            except asyncio.CancelledError as e:
                 logging.error("%r[worker-%r] error: %r", self.__class__.__name__, index, e)
-            finally:
-                # finish a task
-                self._queue.task_done()
-                if fetch_result == -2:
-                    logging.error(
-                        "%r[worker-%r] error: fetch failed and try to stop",
-                        self.__class__.__name__, index
-                    )
-                    break
         # end of while True
-
-        # stop tasks according to self._running_tasks
-        self._running_tasks -= 1
-        while (not self._running_tasks) and (not self._queue.empty()):
-            await self._queue.get()
-            self._queue.task_done()
 
         logging.warning("%r[worker-%r] end...", self.__class__.__name__, index)
         return
 
 
-    def add_a_task(self, url, max_redirect):
-        """
-        add a task based on task_name
-        """
-        # TODO: try to avoid calling check_and_add() in if statement
-        if (max_redirect > 0) or (not self._url_filter) or self._url_filter.check_and_add(url):
-            self._queue.put_nowait((url, max_redirect))
-        return
+

@@ -25,7 +25,10 @@ def test_crawler(config_path):
 
     # initialize fetcher, parser and saver, get crawler ready
     fetcher = Fetcher(
+        loop=loop,
+        root_urls=configs['root_urls'],
         max_tries=configs['max_tries'], 
+        max_redirect=configs['max_redirect'],
         sleep_interval=configs['sleep_interval']
     )
     parser = Parser(max_depth=configs['max_depth'])
@@ -33,9 +36,7 @@ def test_crawler(config_path):
 
     crawler = Crawler(
         fetcher, parser, saver, loop=loop,
-        root_urls=configs['root_urls'],
-        num_fetchers=configs['num_fetchers'],
-        max_redirect=configs['max_redirect']
+        num_tasks=configs['num_tasks']
     )
 
     crawler.start_work_and_wait()

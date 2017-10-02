@@ -1,5 +1,5 @@
 {
-    "num_fetchers": 100,
+    "num_tasks": 10,
     "max_redirect": 10,
     "max_tries": 4,
     "sleep_interval": 0,
