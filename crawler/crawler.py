@@ -3,6 +3,14 @@
 import sys
 import logging
 import asyncio
+from .utils import UrlFilter
+
+try:
+    # Python 3.4.
+    from asyncio import JoinableQueue as Queue
+except ImportError:
+    # Python 3.5.
+    from asyncio import Queue
 
 # provide command line support
 # import argparse
@@ -17,19 +25,24 @@ class Crawler(object):
     """
     a crawler class that takes necessary helpers
     """
-    def __init__(self, fetcher, parser, saver, url_filter=None, loop=None, num_fetchers=10):
+    def __init__(self, fetcher, parser, saver, root_urls, loop=None, num_fetchers=10, max_redirect=10):
 
         self._fetcher = fetcher    # fetcher instance
         self._parser = parser      # parser instance
         self._saver = saver        # saver instance
         
-        self._url_filter = url_filter    # default: None, also can be UrlFilter()
+        self._url_filter = UrlFilter()
 
         self._loop = loop or asyncio.get_event_loop
-        self._queue = asyncio.PriorityQueue(loop=self._loop)
+        self._queue = asyncio.Queue(loop=self._loop)
 
         self._num_fetchers = num_fetchers
+        self._max_redirect = max_redirect
+
         self._running_tasks = 0
+
+        for url in root_urls:
+            self.add_a_task(url, max_redirect)
         return
 
 
@@ -42,8 +55,6 @@ class Crawler(object):
         except KeyboardInterrupt:
             sys.stderr.flush()
             print('\nInterrupted by user\n')
-        except Exception as e:
-            logging.error("%s start_work_and_wait_done error: %s", self.__class__.__name__, e)
         finally:
             # next two lines are required for actual aiohttp resource cleanup
             self._loop.stop()
@@ -81,32 +92,32 @@ class Crawler(object):
         while True:
             try:
                 # get a task
-                priority, url, keys, deep, repeat = await self._queue.get()
+                url, max_redirect = await self._queue.get()
             except asyncio.CancelledError:
                 break
 
             try:
-                # fetch the content of a url ================================================================
-                fetch_result, content = await self._fetcher.fetch(url, keys, repeat)
+                # fetch the content of a url
+                fetch_result, content = await self._fetcher.fetch(url)
                 if fetch_result == 1:
 
-                    # parse the content of a url ============================================================
-                    parse_result, url_list, save_list = await self._parser.parse(priority, url, keys, deep, content)
+                    # parse the content of a url
+                    parse_result, url_list, save_list = await self._parser.parse(url, content)
 
                     if parse_result == 1:
 
                         # add new task to self._queue
-                        for _url, _keys, _priority in url_list:
-                            self.add_a_task((_priority, _url, _keys, deep + 1, 0))
+                        for _url in url_list:
+                            self.add_a_task(_url, 0)
 
-                        # save the item of a url ============================================================
+                        # save the item of a url
                         for item in save_list:
-                            save_result = await self._saver.save(url, keys, item)
+                            await self._saver.save(url, item)
 
                     # end of if parse_result > 0
                 # TODO: change to be handled inside fetcher
                 elif fetch_result == 0:
-                    self.add_a_task((priority + 1, url, keys, deep, repeat + 1))
+                    self.add_a_task(url, max_redirect)
                 # end of if fetch_result == 1
 
             # TODO: change to more specific Exception
@@ -133,11 +144,11 @@ class Crawler(object):
         return
 
 
-    def add_a_task(self, task_content):
+    def add_a_task(self, url, max_redirect):
         """
         add a task based on task_name
         """
         # TODO: try to avoid calling check_and_add() in if statement
-        if (task_content[-1] > 0) or (not self._url_filter) or self._url_filter.check_and_add(task_content[1]):
-            self._queue.put_nowait(task_content)
+        if (max_redirect > 0) or (not self._url_filter) or self._url_filter.check_and_add(url):
+            self._queue.put_nowait((url, max_redirect))
         return
