@@ -75,21 +75,21 @@ class Crawler(object):
 
         while True:
             try:
-                url, redirects = await self._fetcher.get_a_task()
+                url, redirects, depth = await self._fetcher.get_a_task()
                 
                 # fetch the content of a url
-                status, fetch_result = await self._fetcher.fetch(url, redirects)
+                status, fetch_result = await self._fetcher.fetch(url, redirects, depth)
                 
                 # if fetch result is html
                 if status == 0:
                     # parse the content of a url
-                    parse_result, url_list, save_list = await self._parser.parse(url, fetch_result)
+                    parse_result, url_list, item = await self._parser.parse(url, fetch_result)
 
                     if parse_result == 1:
 
                         # add new task to self._queue
                         for url in url_list:
-                            self._fetcher.add_a_task(url, 0)
+                            self._fetcher.add_a_task(url, 0, depth + 1)
 
                         # save the item of a url
                         for item in save_list:

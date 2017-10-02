@@ -19,5 +19,5 @@ def make_random_useragent(ua_type="all"):
     return random.choice(CONFIG_USERAGENT_PC if ua_type == "pc" else CONFIG_USERAGENT_PHONE if ua_type == "phone" else CONFIG_USERAGENT_ALL)
 
 
-def is_redirect(self, response):
+def is_redirect(response):
     return response.status in (300, 301, 302, 303, 307)

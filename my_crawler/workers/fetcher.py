@@ -52,13 +52,13 @@ class Fetcher(object):
         self._url_queue = Queue(loop=self._loop)
         # add root URLs to URL queue
         for url in self._root_urls:
-            self.add_a_task(url, 0)
+            self.add_a_task(url, 0, 0)
         # block until task_done() is called
         await self._url_queue.join()  
         return
 
 
-    async def fetch(self, url, redirects):
+    async def fetch(self, url, redirects, depth):
         """
         fetch content of one URL, there are 3 possible outcomes
         1. fetch successful, response is not a redirect (0)
@@ -94,13 +94,6 @@ class Fetcher(object):
             return -1, None
 
         # when it's not an error response
-        return self._handle_response(response)
-
-
-    def _handle_response(self, response):
-        """
-        take a non-error response and returns its content
-        """
         status, result = 0, None
         try:
             if is_redirect(response):
@@ -110,7 +103,7 @@ class Fetcher(object):
                 if redirects <= self._max_redirects:
                     if self._url_filter.should_add(next_url):
                         self._url_filter.add(next_url)
-                        self.add_a_task(url, redirects + 1)
+                        self.add_a_task(url, redirects + 1, depth)
                         logging.info('redirect to %r from %r', next_url, url)
                 else:
                     logging.error('redirect limit reached for %r from %r',
@@ -119,18 +112,19 @@ class Fetcher(object):
             else:
                 result = (response.status, response.url, await response.text())
         finally:
+            status = -1
             await response.release()
         
         return status, result
 
 
-    def add_a_task(self, url, redirects):
+    def add_a_task(self, url, redirects, depth):
         """
         add a (url, redirects) pair to URL queue
         'task' is a conventional term of item for async queue
         """
         if redirects <= self._max_redirects and self._url_filter.should_add(url):
-            self._url_queue.put_nowait((url, redirects))
+            self._url_queue.put_nowait((url, redirects, depth))
         return
 
     async def get_a_task(self):
