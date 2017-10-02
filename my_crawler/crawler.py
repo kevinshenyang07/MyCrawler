@@ -58,7 +58,7 @@ class Crawler(object):
         tasks_list = [asyncio.Task(self._work(index + 1), loop=self._loop)
                       for index in range(self._num_tasks)]
 
-        self._fetcher.init_url_queue(self._loop)
+        await self._fetcher.queue_join()
         for task in tasks_list:
             task.cancel()
 
@@ -92,8 +92,7 @@ class Crawler(object):
                             self._fetcher.add_a_task(url, 0, depth + 1)
 
                         # save the item of a url
-                        for item in save_list:
-                            await self._saver.save(url, item)
+                        await self._saver.save(url, item)
                 
                 self._fetcher.finish_a_task()
 

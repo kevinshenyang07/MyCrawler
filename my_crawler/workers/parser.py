@@ -3,7 +3,7 @@
 import re
 import logging
 import datetime
-from ..utilities import get_url_legal
+from ..utils import get_url_legal
 
 
 class Parser(object):
@@ -31,13 +31,13 @@ class Parser(object):
                     r"<a[\w\W]+?href=\"(?P<url>[\w\W]{5,}?)\"[\w\W]*?>[\w\W]+?</a>",
                     html_text, flags=re.IGNORECASE)
 
-                url_list = [get_url_legal(url, href) for href in href_list]]
+                url_list = [get_url_legal(url, href) for href in href_list]
 
-            item = self.construct_item(html_next)
+            item = self.construct_item(html_text)
 
         # TODO: substitute to more specific exception
         except Exception as e:
-            parse_result, url_list, item = -1, [], (,)
+            parse_result, url_list, item = -1, [], ()
             logging.error("%r error: %r, url=%r, depth=%r",
                           self.__class__.__name__, e, url, depth)
 

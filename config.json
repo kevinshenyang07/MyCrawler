@@ -1,11 +1,11 @@
 {
     "num_tasks": 10,
-    "max_redirect": 10,
+    "max_redirects": 10,
     "max_tries": 4,
     "sleep_interval": 0,
     "max_depth": -1,
     "root_urls": ["http://xkcd.com"],
-    "loggin_level": 2,
+    "logging_level": 2,
     "save": {
         "type": "file",
         "path": "./crwal_result.txt"

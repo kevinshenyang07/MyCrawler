@@ -26,8 +26,13 @@ class Fetcher(object):
         self._sleep_interval = sleep_interval
 
         self._session = None
-        self._url_queue = None
         self._url_filter = UrlFilter()
+
+        # get queue ready
+        self._url_queue = Queue(loop=loop)
+        # add root URLs to URL queue
+        for url in self._root_urls:
+            self.add_a_task(url, 0, 0)
 
     def init_session(self):
         """
@@ -44,19 +49,13 @@ class Fetcher(object):
             self._session.close()
         return
 
-    async def init_url_queue(self):
+    async def queue_join(self):
         """
-        initialize an async queue and add root urls to the queue
         closing of queue depends on its internal counter of tasks
         """
-        self._url_queue = Queue(loop=self._loop)
-        # add root URLs to URL queue
-        for url in self._root_urls:
-            self.add_a_task(url, 0, 0)
         # block until task_done() is called
         await self._url_queue.join()  
         return
-
 
     async def fetch(self, url, redirects, depth):
         """
@@ -77,7 +76,7 @@ class Fetcher(object):
 
             try:
                 response = await self._session.get(
-                    url, allow_redirect=False, timeout=5
+                    url, allow_redirects=False, timeout=5
                 )  # aiohttp follows redirects by default
                 if tries > 1:
                     logging.info("success on %r time fetching %r", tries, url)
@@ -135,7 +134,7 @@ class Fetcher(object):
 
     def finish_a_task(self):
         """
-        notify a queue one task is done
+        indicate that the item was retrieved and all work on it is complete
         """
         self._url_queue.task_done()
         return

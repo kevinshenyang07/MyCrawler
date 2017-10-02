@@ -28,7 +28,7 @@ def test_crawler(config_path):
         loop=loop,
         root_urls=configs['root_urls'],
         max_tries=configs['max_tries'], 
-        max_redirect=configs['max_redirect'],
+        max_redirects=configs['max_redirects'],
         sleep_interval=configs['sleep_interval']
     )
     parser = Parser(max_depth=configs['max_depth'])
