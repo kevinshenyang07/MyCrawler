@@ -1,6 +1,6 @@
 ## MyCrawler
 
-MyCrawler is an async web crawler using coroutines. It minized the wait for I/O operations in URL requests and result persistance. It is able to crawl the content of around 1800 pages of xkcd.com in 30 seconds, with a 2.5GHz i5 macbook and public WIFI.
+MyCrawler is an async web crawler using coroutines. It minized the wait for I/O operations in URL requests and result persistance. It is able to fetch, parse and save the content of around 1800 pages of xkcd.com in 30 seconds, with a 2.5GHz i5 macbook and public WIFI.
 
 ![Structure](crawler_structure.jpg)
 
@@ -28,31 +28,31 @@ There's still much room for improvement, since there's no HTML queue for Parser 
 #### How coroutines are used to minimize wait on I/O 
 
 1. asyncio.Task(coro) wraps the coroutine in a future, and there will only be one task running in one event loop.
-```
+```python
 tasks_list = [asyncio.Task(self._work(index + 1), loop=self._loop)
               for index in range(self._num_fetchers)]
 ```
 
 2. inside of _work(), fetch() is called, that coroutine will be suspended on the line below
-```
+```python
 fetch_status, fetch_result = await self._fetcher.fetch(url, redirects, depth)
 ```
 
 3. inside of fetch(), use the session provided by aiohttp to get response, similarly, that coroutine will be suspended on the line below
-```
+```python
 response = await self._session.get(
     url, allow_redirect=False, timeout=5
 )
 ```
 
 4. after fetch_result is retrieved, it will be passed to parser, and the task will be suspended until .parse() finishes
-```
+```python
 # fetch_result => (response status, url, response_text)
 parse_status, url_list, item = await self._parser.parse(url, depth, fetch_result[-1])
 ```
 
 5. after item is parsed, it will be passed to saver and the task will be suspended until .save() finishes
-```
+```python
 await self._saver.save(url, item)
 ```
 
