@@ -81,17 +81,17 @@ class Crawler(object):
                 # fetch_result => (response status, url, response_text)
                 fetch_status, fetch_result = await self._fetcher.fetch(url, redirects, depth)
                 
-                # if fetch result is html
-                if fetch_status == 0 and fetch_result[0] != 404:
+                # if fetch result is html and not an error page
+                if fetch_status == 0 and (fetch_result[0] not in (404, 500)):
                     # parse the content of a url
                     # item => (title, timestamp)
                     parse_status, url_list, item = await self._parser.parse(url, depth, fetch_result[-1])
 
                     # if parsing successful
                     if parse_status == 0:
-                        # add new task to self._queue
-                        for url in url_list:
-                            self._fetcher.add_a_task(url, 0, depth + 1)
+                        # add new task to self._queue, use _url to avoid url overwritting
+                        for _url in url_list:
+                            self._fetcher.add_a_task(_url, 0, depth + 1)
                         # save the item of a url
                         await self._saver.save(url, item)
 

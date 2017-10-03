@@ -1,46 +1,127 @@
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:30:59.404985
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:30:59.509880
-https://xkcd.com/license.html: xkcd: Active Ingredients Only, 2017-10-03 12:30:59.533428
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:30:59.556079
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:30:59.592191
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:30:59.592816
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:30:59.739328
-https://xkcd.com/license.html: xkcd: Active Ingredients Only, 2017-10-03 12:30:59.779413
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:30:59.817864
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:30:59.836383
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:30:59.853983
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:30:59.961224
-https://xkcd.com/license.html: xkcd: Worrying Scientist Interviews, 2017-10-03 12:31:00.025829
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.039164
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:31:00.052930
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:31:00.060055
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.101976
-https://xkcd.com/license.html: xkcd: Active Ingredients Only, 2017-10-03 12:31:00.120399
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.145900
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:31:00.150606
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.207006
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:31:00.232074
-https://xkcd.com/license.html: xkcd: Active Ingredients Only, 2017-10-03 12:31:00.236337
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.250081
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:31:00.254472
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:31:00.317005
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.409759
-https://xkcd.com/license.html: xkcd: Worrying Scientist Interviews, 2017-10-03 12:31:00.448184
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:31:00.450142
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.453003
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:31:00.470267
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.521979
-https://xkcd.com/license.html: xkcd: Active Ingredients Only, 2017-10-03 12:31:00.538119
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.545069
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:31:00.563360
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:31:00.564928
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.633647
-https://xkcd.com/license.html: xkcd: Active Ingredients Only, 2017-10-03 12:31:00.668893
-https://xkcd.com/license.html: xkcd: Self Driving, 2017-10-03 12:31:00.672802
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:31:00.694341
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:31:00.696077
-https://xkcd.com/license.html: xkcd: Active Ingredients Only, 2017-10-03 12:31:00.761875
-https://xkcd.com/license.html: xkcd: Real Estate, 2017-10-03 12:31:00.852735
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:31:00.876796
-https://xkcd.com/license.html: xkcd: Active Ingredients Only, 2017-10-03 12:31:00.881087
-http://creativecommons.org/licenses/by-nc/2.5/: xkcd - A Webcomic - License, 2017-10-03 12:31:00.898855
+https://xkcd.com: xkcd: Self Driving, 2017-10-03 12:54:24.846702
+https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 12:54:25.002047
+https://xkcd.com/license.html: xkcd - A Webcomic - License, 2017-10-03 12:54:25.006973
+https://xkcd.com/1896/: xkcd: Active Ingredients Only, 2017-10-03 12:54:25.043913
+https://xkcd.com/archive/: xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe, 2017-10-03 12:54:25.139315
+https://xkcd.com/about/: xkcd - A webcomic, 2017-10-03 12:54:25.180883
+https://xkcd.com/1897/: xkcd: Self Driving, 2017-10-03 12:54:25.198849
+https://xkcd.com/1895/: xkcd: Worrying Scientist Interviews, 2017-10-03 12:54:25.203554
+https://xkcd.com/1894/: xkcd: Real Estate, 2017-10-03 12:54:25.241760
+https://xkcd.com/1893/: xkcd: Thread, 2017-10-03 12:54:25.245581
+https://xkcd.com/1892/: xkcd: USB Cables, 2017-10-03 12:54:25.262261
+https://xkcd.com/1891/: xkcd: Obsolete Technology, 2017-10-03 12:54:25.267521
+https://xkcd.com/1890/: xkcd: What to Bring, 2017-10-03 12:54:25.287035
+https://xkcd.com/1889/: xkcd: xkcd Phone 6, 2017-10-03 12:54:25.293434
+https://xkcd.com/1887/: xkcd: Two Down, One to Go, 2017-10-03 12:54:25.315516
+https://xkcd.com/1886/: xkcd: Typing Notifications, 2017-10-03 12:54:25.322013
+https://xkcd.com/1885/: xkcd: Ensemble Model, 2017-10-03 12:54:25.338815
+https://xkcd.com/1884/: xkcd: Ringer Volume/Media Volume, 2017-10-03 12:54:25.349062
+https://xkcd.com/1883/: xkcd: Supervillain Plan, 2017-10-03 12:54:25.368773
+https://xkcd.com/1882/: xkcd: Color Models, 2017-10-03 12:54:25.379226
+https://xkcd.com/1888/: xkcd: Still in Use, 2017-10-03 12:54:25.386632
+https://what-if.xkcd.com/: Electrofishing for Whales, 2017-10-03 12:54:25.396317
+https://xkcd.com/1881/: xkcd: Drone Training, 2017-10-03 12:54:25.402046
+https://xkcd.com/1880/: xkcd: Eclipse Review, 2017-10-03 12:54:25.415040
+https://xkcd.com/1879/: xkcd: Eclipse Birds, 2017-10-03 12:54:25.417668
+https://xkcd.com/1877/: xkcd: Eclipse Science, 2017-10-03 12:54:25.422118
+https://xkcd.com/1874/: xkcd: Geologic Faults, 2017-10-03 12:54:25.444254
+https://xkcd.com/1876/: xkcd: Eclipse Searches, 2017-10-03 12:54:25.447623
+https://xkcd.com/1875/: xkcd: Computers vs Humans, 2017-10-03 12:54:25.450228
+https://xkcd.com/1871/: xkcd: Bun Alert, 2017-10-03 12:54:25.474911
+https://xkcd.com/1872/: xkcd: Backup Batteries, 2017-10-03 12:54:25.480370
+https://xkcd.com/1873/: xkcd: Email Reply, 2017-10-03 12:54:25.485484
+https://xkcd.com/1868/: xkcd: Eclipse Flights, 2017-10-03 12:54:25.515324
+https://xkcd.com/1869/: xkcd: Positive and Negative Reviews, 2017-10-03 12:54:25.518182
+https://xkcd.com/1870/: xkcd: Emoji Movie Reviews, 2017-10-03 12:54:25.523754
+https://xkcd.com/1867/: xkcd: Physics Confession, 2017-10-03 12:54:25.549882
+https://xkcd.com/1865/: xkcd: Wifi vs Cellular, 2017-10-03 12:54:25.552969
+https://xkcd.com/1866/: xkcd: Russell's Teapot, 2017-10-03 12:54:25.557521
+https://xkcd.com/1878/: xkcd: Earth Orbital Diagram, 2017-10-03 12:54:25.565163
+https://xkcd.com/1864/: xkcd: City Nicknames, 2017-10-03 12:54:25.580776
+https://xkcd.com/1862/: xkcd: Particle Properties, 2017-10-03 12:54:25.592025
+https://xkcd.com/1863/: xkcd: Screenshots, 2017-10-03 12:54:25.595047
+https://xkcd.com/1861/: xkcd: Quantum, 2017-10-03 12:54:25.597813
+https://xkcd.com/1860/: xkcd: Communicating, 2017-10-03 12:54:25.618263
+https://xkcd.com/1857/: xkcd: Emoji Movie, 2017-10-03 12:54:25.624596
+https://xkcd.com/1858/: xkcd: 4th of July, 2017-10-03 12:54:25.629997
+https://xkcd.com/1859/: xkcd: Sports Knowledge, 2017-10-03 12:54:25.633883
+https://xkcd.com/1853/: xkcd: Once Per Day, 2017-10-03 12:54:25.657838
+https://xkcd.com/1856/: xkcd: Existence Proof, 2017-10-03 12:54:25.708818
+https://xkcd.com/1854/: xkcd: Refresh Types, 2017-10-03 12:54:25.730778
+https://xkcd.com/1852/: xkcd: Election Map, 2017-10-03 12:54:25.743650
+https://xkcd.com/1851/: xkcd: Magnetohydrodynamics, 2017-10-03 12:54:25.798007
+https://xkcd.com/1850/: xkcd: Air Force Museum, 2017-10-03 12:54:25.823428
+https://xkcd.com/1849/: xkcd: Decades, 2017-10-03 12:54:25.833145
+https://xkcd.com/1848/: xkcd: Glacial Erratic, 2017-10-03 12:54:25.902935
+https://xkcd.com/1847/: xkcd: Dubious Study, 2017-10-03 12:54:25.913845
+https://xkcd.com/1855/: xkcd: Telephoto, 2017-10-03 12:54:25.921589
+https://xkcd.com/1845/: xkcd: State Word Map, 2017-10-03 12:54:25.991669
+https://store.xkcd.com/: The xkcd store, 2017-10-03 12:54:26.009675
+https://xkcd.com/1843/: xkcd: Opening Crawl, 2017-10-03 12:54:26.014827
+https://xkcd.com/1842/: xkcd: Anti-Drone Eagles, 2017-10-03 12:54:26.082934
+https://xkcd.com/1840/: xkcd: Genetic Testing Results, 2017-10-03 12:54:26.114118
+https://xkcd.com/1846/: xkcd: Drone Problems, 2017-10-03 12:54:26.192755
+https://xkcd.com/1839/: xkcd: Doctor Visit, 2017-10-03 12:54:26.197188
+https://xkcd.com/1841/: xkcd: Who?, 2017-10-03 12:54:26.233466
+https://xkcd.com/1844/: xkcd: Voting Systems, 2017-10-03 12:54:26.237407
+https://xkcd.com/1837/: xkcd: Rental Car, 2017-10-03 12:54:26.285831
+https://xkcd.com/1835/: xkcd: Random Obsessions, 2017-10-03 12:54:26.331652
+https://xkcd.com/1834/: xkcd: Lunch Order, 2017-10-03 12:54:26.336208
+https://xkcd.com/1833/: xkcd: Code Quality 3, 2017-10-03 12:54:26.373561
+https://xkcd.com/1832/: xkcd: Photo Library Management, 2017-10-03 12:54:26.417653
+https://xkcd.com/1831/: xkcd: Here to Help, 2017-10-03 12:54:26.426906
+https://xkcd.com/1838/: xkcd: Machine Learning, 2017-10-03 12:54:26.437165
+https://xkcd.com/1830/: xkcd: ISS Solar Transit 2, 2017-10-03 12:54:26.474567
+https://xkcd.com/1829/: xkcd: Geochronology, 2017-10-03 12:54:26.505195
+https://xkcd.com/1828/: xkcd: ISS Solar Transit, 2017-10-03 12:54:26.514407
+https://xkcd.com/1827/: xkcd: Survivorship Bias, 2017-10-03 12:54:26.522852
+https://xkcd.com/1836/: xkcd: Okeanos, 2017-10-03 12:54:26.530626
+https://xkcd.com: xkcd: Self Driving, 2017-10-03 13:01:14.742062
+https://xkcd.com/1896/: xkcd: Active Ingredients Only, 2017-10-03 13:01:14.891560
+https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 13:01:14.933407
+https://what-if.xkcd.com/: Electrofishing for Whales, 2017-10-03 13:01:15.014548
+https://xkcd.com/1897/: xkcd: Self Driving, 2017-10-03 13:01:15.036616
+https://xkcd.com/archive/: xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe, 2017-10-03 13:01:15.111785
+https://xkcd.com/1895/: xkcd: Worrying Scientist Interviews, 2017-10-03 13:01:15.164234
+https://xkcd.com/license.html: xkcd - A Webcomic - License, 2017-10-03 13:01:15.202530
+https://xkcd.com/about/: xkcd - A webcomic, 2017-10-03 13:01:15.256863
+https://store.xkcd.com/: The xkcd store, 2017-10-03 13:01:15.532994
+https://what-if.xkcd.com/feed.atom: , 2017-10-03 13:01:24.476813
+https://xkcd.com/1894/: xkcd: Real Estate, 2017-10-03 13:01:24.782729
+https://xkcd.com/1893/: xkcd: Thread, 2017-10-03 13:01:24.807962
+https://xkcd.com/1892/: xkcd: USB Cables, 2017-10-03 13:01:24.827298
+https://xkcd.com/1891/: xkcd: Obsolete Technology, 2017-10-03 13:01:24.847449
+https://xkcd.com/1890/: xkcd: What to Bring, 2017-10-03 13:01:24.867746
+https://xkcd.com/1889/: xkcd: xkcd Phone 6, 2017-10-03 13:01:24.889499
+https://xkcd.com/1888/: xkcd: Still in Use, 2017-10-03 13:01:24.979067
+https://xkcd.com/1887/: xkcd: Two Down, One to Go, 2017-10-03 13:01:25.013969
+https://xkcd.com/1886/: xkcd: Typing Notifications, 2017-10-03 13:01:25.037673
+https://xkcd.com/1885/: xkcd: Ensemble Model, 2017-10-03 13:01:25.057892
+https://xkcd.com/1884/: xkcd: Ringer Volume/Media Volume, 2017-10-03 13:01:25.080242
+https://xkcd.com/1883/: xkcd: Supervillain Plan, 2017-10-03 13:01:25.101141
+https://xkcd.com/1882/: xkcd: Color Models, 2017-10-03 13:01:25.408768
+https://xkcd.com/1881/: xkcd: Drone Training, 2017-10-03 13:01:25.497174
+https://xkcd.com/1880/: xkcd: Eclipse Review, 2017-10-03 13:01:25.796048
+https://xkcd.com/1879/: xkcd: Eclipse Birds, 2017-10-03 13:01:25.882545
+https://xkcd.com/1878/: xkcd: Earth Orbital Diagram, 2017-10-03 13:01:26.209239
+https://xkcd.com/1877/: xkcd: Eclipse Science, 2017-10-03 13:01:26.495857
+https://xkcd.com/1876/: xkcd: Eclipse Searches, 2017-10-03 13:01:26.781937
+https://xkcd.com/1875/: xkcd: Computers vs Humans, 2017-10-03 13:01:27.116097
+https://xkcd.com/1874/: xkcd: Geologic Faults, 2017-10-03 13:01:27.136697
+https://xkcd.com/1873/: xkcd: Email Reply, 2017-10-03 13:01:27.155890
+https://xkcd.com/1872/: xkcd: Backup Batteries, 2017-10-03 13:01:27.180119
+https://xkcd.com/1871/: xkcd: Bun Alert, 2017-10-03 13:01:27.200928
+https://xkcd.com/1870/: xkcd: Emoji Movie Reviews, 2017-10-03 13:01:27.218521
+https://xkcd.com/1869/: xkcd: Positive and Negative Reviews, 2017-10-03 13:01:27.237427
+https://xkcd.com/1868/: xkcd: Eclipse Flights, 2017-10-03 13:01:27.254113
+https://xkcd.com/1867/: xkcd: Physics Confession, 2017-10-03 13:01:27.271926
+https://xkcd.com/1866/: xkcd: Russell's Teapot, 2017-10-03 13:01:27.600788
+https://xkcd.com/1865/: xkcd: Wifi vs Cellular, 2017-10-03 13:01:27.694280
+https://xkcd.com/1864/: xkcd: City Nicknames, 2017-10-03 13:01:27.791458
+https://xkcd.com/1863/: xkcd: Screenshots, 2017-10-03 13:01:28.128099
+https://xkcd.com/1862/: xkcd: Particle Properties, 2017-10-03 13:01:28.454206
+https://xkcd.com/1861/: xkcd: Quantum, 2017-10-03 13:01:28.541955
+https://xkcd.com/1860/: xkcd: Communicating, 2017-10-03 13:01:28.635518
+https://xkcd.com/1859/: xkcd: Sports Knowledge, 2017-10-03 13:01:28.719767
+https://xkcd.com/1858/: xkcd: 4th of July, 2017-10-03 13:01:28.805198
+https://xkcd.com/1857/: xkcd: Emoji Movie, 2017-10-03 13:01:29.096393

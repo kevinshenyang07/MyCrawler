@@ -21,14 +21,14 @@ class Fetcher(object):
     get url from URL queue, fetch the response, then add it to HTML queue
     """
     
-    def __init__(self, loop, root_urls, max_tries=4, max_redirects=10, sleep_interval=0):
+    def __init__(self, loop, root_urls, url_filter, max_tries=4, max_redirects=10, sleep_interval=0):
         self._loop = loop
         self._max_tries = max_tries
         self._max_redirects = max_redirects
         self._sleep_interval = sleep_interval
 
         self._session = None
-        self._url_filter = UrlFilter(root_urls)
+        self._url_filter = url_filter
 
         # get queue ready
         self._url_queue = Queue(loop=loop)
@@ -103,9 +103,8 @@ class Fetcher(object):
 
                 if redirects <= self._max_redirects:
                     if self._url_filter.should_add(next_url):
-                        self._url_filter.add(next_url)
                         self.add_a_task(next_url, redirects + 1, depth)
-                        logging.info('redirect to %r from %r', next_url, url)
+                        # logging.info('redirect to %r from %r', next_url, url)
                 else:
                     logging.error('redirect limit reached for %r from %r',
                                   next_url, url)
@@ -127,6 +126,7 @@ class Fetcher(object):
         'task' is a conventional term of item for async queue
         """
         if redirects <= self._max_redirects and self._url_filter.should_add(url):
+            self._url_filter.add(url)
             self._url_queue.put_nowait((url, redirects, depth))
         return
 
