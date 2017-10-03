@@ -5,7 +5,7 @@
     "sleep_interval": 0,
     "max_depth": -1,
     "root_urls": ["https://xkcd.com"],
-    "capacity": 10000,
+    "capacity": 5000,
     "logging_level": 2,
     "save": {
         "type": "file",

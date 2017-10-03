@@ -78,12 +78,17 @@ class Fetcher(object):
 
             try:
                 response = await self._session.get(
-                    url, allow_redirects=False, timeout=5
-                )  # aiohttp follows redirects by default
+                    url, allow_redirects=False, timeout=1
+                )  # aiohttp follows redirects by default, allow 1 min timeout
                 if tries > 1:
                     logging.info("success on %r time fetching %r", tries, url)
                 break
             
+            except asyncio.TimeoutError as timeout_error:
+                logging.info("server couldn't be reached, url: %r", url)
+                exception = timeout_error
+                tries += self._max_tries
+
             except aiohttp.ClientError as client_error:
                 logging.info('try %r for %r raised %r', tries, url, client_error)
                 exception = client_error

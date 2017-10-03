@@ -17,6 +17,13 @@ class Saver(object):
 
     def __init__(self, save_configs=None):
         self._save_configs = save_configs
+
+        if save_configs['type'] == 'file':
+            write_path = self._save_configs['path']
+            self._file_obj = open(write_path, 'w')
+        elif save_configs['type'] == 'db':
+            self._conn_pool = None
+
         return
 
     async def save(self, url, item):
@@ -26,7 +33,7 @@ class Saver(object):
         try:
             configs = self._save_configs
             if configs['type'] == 'file':
-                await self.save_to_file(url, item)
+                await self.save_to_file(url, item, self._file_obj)
             elif configs['type'] == 'db':
                 await self.save_to_db()
             else:
@@ -36,7 +43,7 @@ class Saver(object):
         return
 
 
-    async def save_to_file(self, url, item):
+    async def save_to_file(self, url, item, file_obj):
         """
         save the item to a file, must "try, except" and don't change the parameters and return
         :return status:
@@ -46,10 +53,9 @@ class Saver(object):
 
         try:
             write_path = self._save_configs['path']
-            with open(write_path, 'a') as f:
-                item_str = ", ".join(str(x) for x in item)
-                line = url + ": " + item_str + '\n'
-                f.write(line)
+            item_str = ", ".join(str(x) for x in item)
+            line = url + ": " + item_str + '\n'
+            file_obj.write(line)
 
         # TODO: substitute to more specific exception
         except Exception as e:

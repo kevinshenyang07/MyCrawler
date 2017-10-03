@@ -37,7 +37,7 @@ class Crawler(object):
         try:
             self._loop.run_until_complete(self._start())
         except KeyboardInterrupt:
-            sys.stderr.flush()
+            # sys.stderr.flush()
             print('\nInterrupted by user\n')
         finally:
             # next two lines are required for actual aiohttp resource cleanup
@@ -95,11 +95,12 @@ class Crawler(object):
                         # save the item of a url
                         await self._saver.save(url, item)
 
-                self._fetcher.finish_a_task()
-                
-        # except asyncio.CancelledError as e:
-        except Exception as e:
+        except asyncio.CancelledError as e:
+        # except Exception as e:
             logging.error("%r[worker-%r] error: %r", self.__class__.__name__, index, e)
+        
+        finally:
+            self._fetcher.finish_a_task()
         # end of while True
 
         logging.warning("%r[worker-%r] end...", self.__class__.__name__, index)
