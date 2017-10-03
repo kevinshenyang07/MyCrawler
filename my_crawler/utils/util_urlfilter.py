@@ -9,17 +9,31 @@ class UrlFilter(object):
     class of UrlFilter, to filter url by regexs and (bloomfilter or set)
     """
 
-    def __init__(self, black_patterns=(CONFIG_URL_FILTER_PATTERN,), 
-                 white_patterns=(r"^http[s]{0,1}://",), capacity=None):
+    def __init__(self, root_urls, capacity=0,
+                 black_patterns=(CONFIG_URL_FILTER_PATTERN,)):
         """
         constructor, use variable of BloomFilter if capacity else variable of set
         """
         self._re_black_list = [re.compile(pattern, flags=re.IGNORECASE) \
                                   for pattern in black_patterns] \
                               if black_patterns else []
-        self._re_white_list = [re.compile(pattern, flags=re.IGNORECASE) \
-                                  for pattern in white_patterns] \
-                              if white_patterns else []
+
+        # original white patterns = (r"^https?://",)
+        # self._re_white_list = [re.compile(pattern, flags=re.IGNORECASE) \
+        #                           for pattern in white_patterns] \
+        #                       if white_patterns else []
+
+        self._re_white_list = []
+        prefix = r"^https?://(www\.)?"
+
+        # add the domain of each root URLs to white list
+        for url in root_urls:
+            # remove http and www prefix first
+            postfix = re.sub(prefix, '', url)
+            # allow URLs in form of api-west1.amazon.com
+            pattern = prefix + r"([\w\-]+\.)*" + postfix
+            p = re.compile(pattern, flags=re.IGNORECASE)
+            self._re_white_list.append(p)
 
         # bloom filter share the same interface with set()
         if capacity:

@@ -82,7 +82,7 @@ class Crawler(object):
                 fetch_status, fetch_result = await self._fetcher.fetch(url, redirects, depth)
                 
                 # if fetch result is html
-                if fetch_status == 0:
+                if fetch_status == 0 and fetch_result[0] != 404:
                     # parse the content of a url
                     # item => (title, timestamp)
                     parse_status, url_list, item = await self._parser.parse(url, depth, fetch_result[-1])

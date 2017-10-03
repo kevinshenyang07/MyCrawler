@@ -28,7 +28,7 @@ class Fetcher(object):
         self._sleep_interval = sleep_interval
 
         self._session = None
-        self._url_filter = UrlFilter()
+        self._url_filter = UrlFilter(root_urls)
 
         # get queue ready
         self._url_queue = Queue(loop=loop)
@@ -104,7 +104,7 @@ class Fetcher(object):
                 if redirects <= self._max_redirects:
                     if self._url_filter.should_add(next_url):
                         self._url_filter.add(next_url)
-                        self.add_a_task(url, redirects + 1, depth)
+                        self.add_a_task(next_url, redirects + 1, depth)
                         logging.info('redirect to %r from %r', next_url, url)
                 else:
                     logging.error('redirect limit reached for %r from %r',
@@ -112,6 +112,9 @@ class Fetcher(object):
                 status = 1
             else:
                 result = (response.status, response.url, await response.text())
+        # TODO: substitute to more specific error
+        except Exception as e:
+            status = -1
         finally:
             await response.release()
         
