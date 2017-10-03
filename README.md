@@ -2,6 +2,7 @@
 
 MyCrawler is an async web crawler using coroutines. It minized the wait for I/O operations in URL requests and result persistance. It is able to crawl the content of around 1800 pages of xkcd.com in 30 seconds, with a 2.5GHz i5 macbook and public WIFI.
 
+![Structure](crawler_structure.jpg)
 
 ### Project Description
 
