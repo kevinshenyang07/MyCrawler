@@ -1,1902 +1,558 @@
-https://xkcd.com: xkcd: Self Driving, 2017-10-03 14:10:15.588981
-https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 14:10:15.701024
-https://xkcd.com/license.html: xkcd - A Webcomic - License, 2017-10-03 14:10:15.713720
-https://xkcd.com/archive/: xkcd - A webcomic of romance, sarcasm, math, and language - By Randall Munroe, 2017-10-03 14:10:15.836686
-https://xkcd.com/1896/: xkcd: Active Ingredients Only, 2017-10-03 14:10:15.917895
-https://xkcd.com/about/: xkcd - A webcomic, 2017-10-03 14:10:15.920649
-https://xkcd.com/1895/: xkcd: Worrying Scientist Interviews, 2017-10-03 14:10:15.944292
-https://xkcd.com/1897/: xkcd: Self Driving, 2017-10-03 14:10:15.948178
-https://xkcd.com/1894/: xkcd: Real Estate, 2017-10-03 14:10:15.974896
-https://xkcd.com/1893/: xkcd: Thread, 2017-10-03 14:10:15.978771
-https://xkcd.com/1892/: xkcd: USB Cables, 2017-10-03 14:10:15.998015
-https://xkcd.com/1891/: xkcd: Obsolete Technology, 2017-10-03 14:10:16.069503
-https://xkcd.com/1888/: xkcd: Still in Use, 2017-10-03 14:10:16.088783
-https://what-if.xkcd.com/: Electrofishing for Whales, 2017-10-03 14:10:16.093233
-https://xkcd.com/1886/: xkcd: Typing Notifications, 2017-10-03 14:10:16.110416
-https://xkcd.com/1884/: xkcd: Ringer Volume/Media Volume, 2017-10-03 14:10:16.132123
-https://xkcd.com/1883/: xkcd: Supervillain Plan, 2017-10-03 14:10:16.157102
-https://xkcd.com/1882/: xkcd: Color Models, 2017-10-03 14:10:16.180233
-https://xkcd.com/1887/: xkcd: Two Down, One to Go, 2017-10-03 14:10:16.191164
-https://xkcd.com/1885/: xkcd: Ensemble Model, 2017-10-03 14:10:16.202540
-https://xkcd.com/1881/: xkcd: Drone Training, 2017-10-03 14:10:16.206305
-https://xkcd.com/1880/: xkcd: Eclipse Review, 2017-10-03 14:10:16.212480
-https://xkcd.com/1879/: xkcd: Eclipse Birds, 2017-10-03 14:10:16.221060
-https://xkcd.com/1878/: xkcd: Earth Orbital Diagram, 2017-10-03 14:10:16.224790
-https://xkcd.com/1877/: xkcd: Eclipse Science, 2017-10-03 14:10:16.230528
-https://xkcd.com/1876/: xkcd: Eclipse Searches, 2017-10-03 14:10:16.243101
-https://xkcd.com/1875/: xkcd: Computers vs Humans, 2017-10-03 14:10:16.246841
-https://xkcd.com/1874/: xkcd: Geologic Faults, 2017-10-03 14:10:16.253746
-https://xkcd.com/1873/: xkcd: Email Reply, 2017-10-03 14:10:16.261065
-https://xkcd.com/1872/: xkcd: Backup Batteries, 2017-10-03 14:10:16.264655
-https://xkcd.com/1871/: xkcd: Bun Alert, 2017-10-03 14:10:16.283047
-https://xkcd.com/1870/: xkcd: Emoji Movie Reviews, 2017-10-03 14:10:16.285852
-https://xkcd.com/1869/: xkcd: Positive and Negative Reviews, 2017-10-03 14:10:16.290219
-https://xkcd.com/1867/: xkcd: Physics Confession, 2017-10-03 14:10:16.306624
-https://xkcd.com/1868/: xkcd: Eclipse Flights, 2017-10-03 14:10:16.310194
-https://xkcd.com/1866/: xkcd: Russell's Teapot, 2017-10-03 14:10:16.314081
-https://xkcd.com/1890/: xkcd: What to Bring, 2017-10-03 14:10:16.321581
-https://xkcd.com/1865/: xkcd: Wifi vs Cellular, 2017-10-03 14:10:16.329999
-https://xkcd.com/1889/: xkcd: xkcd Phone 6, 2017-10-03 14:10:16.334586
-https://xkcd.com/1863/: xkcd: Screenshots, 2017-10-03 14:10:16.338966
-https://xkcd.com/1864/: xkcd: City Nicknames, 2017-10-03 14:10:16.342070
-https://xkcd.com/1862/: xkcd: Particle Properties, 2017-10-03 14:10:16.347313
-https://xkcd.com/1861/: xkcd: Quantum, 2017-10-03 14:10:16.355841
-https://xkcd.com/1860/: xkcd: Communicating, 2017-10-03 14:10:16.362289
-https://xkcd.com/1857/: xkcd: Emoji Movie, 2017-10-03 14:10:16.367230
-https://xkcd.com/1859/: xkcd: Sports Knowledge, 2017-10-03 14:10:16.370708
-https://xkcd.com/1858/: xkcd: 4th of July, 2017-10-03 14:10:16.373372
-https://xkcd.com/1856/: xkcd: Existence Proof, 2017-10-03 14:10:16.378485
-https://xkcd.com/1855/: xkcd: Telephoto, 2017-10-03 14:10:16.382944
-https://xkcd.com/1852/: xkcd: Election Map, 2017-10-03 14:10:16.396928
-https://xkcd.com/1853/: xkcd: Once Per Day, 2017-10-03 14:10:16.400834
-https://xkcd.com/1854/: xkcd: Refresh Types, 2017-10-03 14:10:16.404133
-https://xkcd.com/1851/: xkcd: Magnetohydrodynamics, 2017-10-03 14:10:16.406954
-https://xkcd.com/1850/: xkcd: Air Force Museum, 2017-10-03 14:10:16.412525
-https://xkcd.com/1849/: xkcd: Decades, 2017-10-03 14:10:16.416143
-https://xkcd.com/1846/: xkcd: Drone Problems, 2017-10-03 14:10:16.436994
-https://xkcd.com/1848/: xkcd: Glacial Erratic, 2017-10-03 14:10:16.439486
-https://xkcd.com/1847/: xkcd: Dubious Study, 2017-10-03 14:10:16.444711
-https://xkcd.com/1844/: xkcd: Voting Systems, 2017-10-03 14:10:16.448760
-https://xkcd.com/1845/: xkcd: State Word Map, 2017-10-03 14:10:16.451738
-https://xkcd.com/1841/: xkcd: Who?, 2017-10-03 14:10:16.467023
-https://xkcd.com/1842/: xkcd: Anti-Drone Eagles, 2017-10-03 14:10:16.471397
-https://xkcd.com/1843/: xkcd: Opening Crawl, 2017-10-03 14:10:16.474872
-https://xkcd.com/1840/: xkcd: Genetic Testing Results, 2017-10-03 14:10:16.479074
-https://xkcd.com/1839/: xkcd: Doctor Visit, 2017-10-03 14:10:16.482059
-https://xkcd.com/1838/: xkcd: Machine Learning, 2017-10-03 14:10:16.494094
-https://xkcd.com/1836/: xkcd: Okeanos, 2017-10-03 14:10:16.499486
-https://xkcd.com/1837/: xkcd: Rental Car, 2017-10-03 14:10:16.503315
-https://xkcd.com/1834/: xkcd: Lunch Order, 2017-10-03 14:10:16.507490
-https://xkcd.com/1835/: xkcd: Random Obsessions, 2017-10-03 14:10:16.510614
-https://xkcd.com/1833/: xkcd: Code Quality 3, 2017-10-03 14:10:16.515140
-https://xkcd.com/1832/: xkcd: Photo Library Management, 2017-10-03 14:10:16.519941
-https://xkcd.com/1831/: xkcd: Here to Help, 2017-10-03 14:10:16.527231
-https://xkcd.com/1830/: xkcd: ISS Solar Transit 2, 2017-10-03 14:10:16.530625
-https://xkcd.com/1829/: xkcd: Geochronology, 2017-10-03 14:10:16.534199
-https://xkcd.com/1828/: xkcd: ISS Solar Transit, 2017-10-03 14:10:16.538098
-https://xkcd.com/1827/: xkcd: Survivorship Bias, 2017-10-03 14:10:16.541639
-https://xkcd.com/1826/: xkcd: Birdwatching, 2017-10-03 14:10:16.550780
-https://xkcd.com/1825/: xkcd: 7 Eleven, 2017-10-03 14:10:16.556743
-https://xkcd.com/1824/: xkcd: Identification Chart, 2017-10-03 14:10:16.563011
-https://xkcd.com/1822/: xkcd: Existential Bug Reports, 2017-10-03 14:10:16.570058
-https://xkcd.com/1823/: xkcd: Hottest Editors, 2017-10-03 14:10:16.574961
-https://xkcd.com/1821/: xkcd: Incinerator, 2017-10-03 14:10:16.582238
-https://xkcd.com/1819/: xkcd: Sweet 16, 2017-10-03 14:10:16.591339
-https://xkcd.com/1820/: xkcd: Security Advice, 2017-10-03 14:10:16.597095
-https://xkcd.com/1818/: xkcd: Rayleigh Scattering, 2017-10-03 14:10:16.605996
-https://xkcd.com/1817/: xkcd: Incognito Mode, 2017-10-03 14:10:16.639834
-https://xkcd.com/1816/: xkcd: Mispronunciation, 2017-10-03 14:10:16.645037
-https://xkcd.com/1813/: xkcd: Vomiting Emoji, 2017-10-03 14:10:17.046214
-https://xkcd.com/1814/: xkcd: Color Pattern, 2017-10-03 14:10:17.049576
-https://xkcd.com/1815/: xkcd: Flag, 2017-10-03 14:10:17.062202
-https://xkcd.com/1811/: xkcd: Best-Tasting Colors, 2017-10-03 14:10:17.066971
-https://xkcd.com/1812/: xkcd: Onboarding, 2017-10-03 14:10:17.070136
-https://xkcd.com/1809/: xkcd: xkcd Phone 5, 2017-10-03 14:10:17.074834
-https://xkcd.com/1810/: xkcd: Chat Systems, 2017-10-03 14:10:17.077198
-https://xkcd.com/1808/: xkcd: Hacking, 2017-10-03 14:10:17.092267
-https://xkcd.com/1804/: xkcd: Video Content, 2017-10-03 14:10:17.100871
-https://xkcd.com/1806/: xkcd: Borrow Your Laptop, 2017-10-03 14:10:17.103646
-https://xkcd.com/1805/: xkcd: Unpublished Discoveries, 2017-10-03 14:10:17.106814
-https://xkcd.com/1807/: xkcd: Listening, 2017-10-03 14:10:17.110816
-https://xkcd.com/1803/: xkcd: Location Reviews, 2017-10-03 14:10:17.114372
-https://xkcd.com/1800/: xkcd: Chess Notation, 2017-10-03 14:10:17.133052
-https://xkcd.com/1802/: xkcd: Phone, 2017-10-03 14:10:17.135822
-https://xkcd.com/1799/: xkcd: Bad Map Projection: Time Zones, 2017-10-03 14:10:17.140287
-https://xkcd.com/1801/: xkcd: Decision Paralysis, 2017-10-03 14:10:17.144029
-https://xkcd.com/1798/: xkcd: Box Plot, 2017-10-03 14:10:17.146638
-https://xkcd.com/1797/: xkcd: Stardew Valley, 2017-10-03 14:10:17.165623
-https://xkcd.com/1796/: xkcd: Focus Knob, 2017-10-03 14:10:17.169999
-https://xkcd.com/1794/: xkcd: Fire, 2017-10-03 14:10:17.174253
-https://xkcd.com/1793/: xkcd: Soda Sugar Comparisons, 2017-10-03 14:10:17.176789
-https://xkcd.com/1795/: xkcd: All You Can Eat, 2017-10-03 14:10:17.179638
-https://xkcd.com/1792/: xkcd: Bird/Plane/Superman, 2017-10-03 14:10:17.192082
-https://xkcd.com/1791/: xkcd: Telescopes: Refractor vs Reflector, 2017-10-03 14:10:17.204122
-https://xkcd.com/1789/: xkcd: Phone Numbers, 2017-10-03 14:10:17.210424
-https://xkcd.com/1788/: xkcd: Barge, 2017-10-03 14:10:17.213562
-https://xkcd.com/1790/: xkcd: Sad, 2017-10-03 14:10:17.216225
-https://xkcd.com/1787/: xkcd: Voice Commands, 2017-10-03 14:10:17.223070
-https://xkcd.com/1786/: xkcd: Trash, 2017-10-03 14:10:17.236492
-https://xkcd.com/1782/: xkcd: Team Chat, 2017-10-03 14:10:17.247586
-https://xkcd.com/1783/: xkcd: Emails, 2017-10-03 14:10:17.251951
-https://xkcd.com/1784/: xkcd: Bad Map Projection: Liquid Resize, 2017-10-03 14:10:17.254787
-https://xkcd.com/1785/: xkcd: Wifi, 2017-10-03 14:10:17.259197
-https://xkcd.com/1781/: xkcd: Artifacts, 2017-10-03 14:10:17.264146
-https://xkcd.com/1780/: xkcd: Appliance Repair, 2017-10-03 14:10:17.285315
-https://xkcd.com/1776/: xkcd: Reindeer, 2017-10-03 14:10:17.290031
-https://xkcd.com/1779/: xkcd: 2017, 2017-10-03 14:10:17.293104
-https://xkcd.com/1777/: xkcd: Dear Diary, 2017-10-03 14:10:17.297266
-https://xkcd.com/1778/: xkcd: Interest Timescales, 2017-10-03 14:10:17.300574
-https://xkcd.com/1775/: xkcd: Things You Learn, 2017-10-03 14:10:17.312577
-https://xkcd.com/1773/: xkcd: Negativity, 2017-10-03 14:10:17.319091
-https://xkcd.com/1771/: xkcd: It Was I, 2017-10-03 14:10:17.323893
-https://xkcd.com/1772/: xkcd: Startup Opportunity, 2017-10-03 14:10:17.327695
-https://xkcd.com/1774/: xkcd: Adjective Foods, 2017-10-03 14:10:17.329957
-https://xkcd.com/1770/: xkcd: UI Change, 2017-10-03 14:10:17.333687
-https://xkcd.com/1769/: xkcd: Never Seen Star Wars, 2017-10-03 14:10:17.346521
-https://xkcd.com/1766/: xkcd: Apple Spectrum, 2017-10-03 14:10:17.350811
-https://xkcd.com/1768/: xkcd: Settling, 2017-10-03 14:10:17.353834
-https://xkcd.com/1765/: xkcd: Baby Post, 2017-10-03 14:10:17.359371
-https://xkcd.com/1767/: xkcd: US State Names, 2017-10-03 14:10:17.364592
-https://xkcd.com/1764/: xkcd: XKCDE, 2017-10-03 14:10:17.370749
-https://xkcd.com/1763/: xkcd: Catcalling, 2017-10-03 14:10:17.380184
-https://xkcd.com/1761/: xkcd: Blame, 2017-10-03 14:10:17.382949
-https://xkcd.com/1762/: xkcd: Moving Boxes, 2017-10-03 14:10:17.386776
-https://xkcd.com/1760/: xkcd: TV Problems, 2017-10-03 14:10:17.391440
-https://xkcd.com/1759/: xkcd: British Map, 2017-10-03 14:10:17.394867
-https://xkcd.com/1758/: xkcd: Astrophysics, 2017-10-03 14:10:17.409305
-https://xkcd.com/1757/: xkcd: November 2016, 2017-10-03 14:10:17.413079
-https://xkcd.com/1756/: xkcd: I'm With Her, 2017-10-03 14:10:17.416581
-https://xkcd.com/1754/: xkcd: Tornado Safety Tips, 2017-10-03 14:10:17.420008
-https://xkcd.com/1755/: xkcd: Old Days, 2017-10-03 14:10:17.422892
-https://xkcd.com/1753/: xkcd: Thumb War, 2017-10-03 14:10:17.431227
-https://xkcd.com/1752/: xkcd: Interplanetary Experience, 2017-10-03 14:10:17.436427
-https://xkcd.com/1751/: xkcd: Movie Folder, 2017-10-03 14:10:17.455349
-https://xkcd.com/1750/: xkcd: Life Goals, 2017-10-03 14:10:17.460456
-https://xkcd.com/1749/: xkcd: Mushrooms, 2017-10-03 14:10:17.463108
-https://xkcd.com/1748/: xkcd: Future Archaeology, 2017-10-03 14:10:17.465533
-https://xkcd.com/1747/: xkcd: Spider Paleontology, 2017-10-03 14:10:17.491465
-https://xkcd.com/1746/: xkcd: Making Friends, 2017-10-03 14:10:17.510526
-https://xkcd.com/1745/: xkcd: Record Scratch, 2017-10-03 14:10:17.514422
-https://xkcd.com/1744/: xkcd: Metabolism, 2017-10-03 14:10:17.519244
-https://xkcd.com/1742/: xkcd: Will It Work, 2017-10-03 14:10:17.521907
-https://xkcd.com/1743/: xkcd: Coffee, 2017-10-03 14:10:17.525299
-https://xkcd.com/1740/: xkcd: Rosetta, 2017-10-03 14:10:17.535299
-https://xkcd.com/1741/: xkcd: Work, 2017-10-03 14:10:17.539463
-https://xkcd.com/1737/: xkcd: Datacenter Scale, 2017-10-03 14:10:17.545748
-https://xkcd.com/1738/: xkcd: Moon Shapes, 2017-10-03 14:10:17.548885
-https://xkcd.com/1739/: xkcd: Fixing Problems, 2017-10-03 14:10:17.552750
-https://xkcd.com/1736/: xkcd: Manhattan Project, 2017-10-03 14:10:17.558838
-https://xkcd.com/1735/: xkcd: Fashion Police and Grammar Police, 2017-10-03 14:10:17.562402
-https://xkcd.com/1732/: xkcd: Earth Temperature Timeline, 2017-10-03 14:10:17.576003
-https://xkcd.com/1734/: xkcd: Reductionism, 2017-10-03 14:10:17.580164
-https://xkcd.com/1733/: xkcd: Solar Spectrum, 2017-10-03 14:10:17.582946
-https://xkcd.com/1731/: xkcd: Wrong, 2017-10-03 14:10:17.586691
-https://xkcd.com/1730/: xkcd: Starshade, 2017-10-03 14:10:17.591543
-https://xkcd.com/1727/: xkcd: Number of Computers, 2017-10-03 14:10:17.612082
-https://xkcd.com/1729/: xkcd: Migrating Geese, 2017-10-03 14:10:17.614821
-https://xkcd.com/1728/: xkcd: Cron Mail, 2017-10-03 14:10:17.617457
-https://xkcd.com/1725/: xkcd: Linear Regression, 2017-10-03 14:10:17.622299
-https://xkcd.com/1726/: xkcd: Unicode, 2017-10-03 14:10:17.625356
-https://xkcd.com/1723/: xkcd: Meteorite Identification, 2017-10-03 14:10:17.644315
-https://xkcd.com/1721/: xkcd: Business Idea, 2017-10-03 14:10:17.648786
-https://xkcd.com/1720/: xkcd: Horses, 2017-10-03 14:10:17.652022
-https://xkcd.com/1724/: xkcd: Proofs, 2017-10-03 14:10:17.654805
-https://xkcd.com/1722/: xkcd: Debugging, 2017-10-03 14:10:17.657810
-https://xkcd.com/1719/: xkcd: Superzoom, 2017-10-03 14:10:17.677122
-https://xkcd.com/1715/: xkcd: Household Tips, 2017-10-03 14:10:17.703296
-https://xkcd.com/1718/: xkcd: Backups, 2017-10-03 14:10:17.707400
-https://xkcd.com/1714/: xkcd: Volcano Types, 2017-10-03 14:10:17.711583
-https://xkcd.com/1717/: xkcd: Pyramid Honey, 2017-10-03 14:10:17.714542
-https://xkcd.com/1716/: xkcd: Time Travel Thesis, 2017-10-03 14:10:17.716903
-https://xkcd.com/1713/: xkcd: 50 ccs, 2017-10-03 14:10:17.741974
-https://xkcd.com/1711/: xkcd: Snapchat, 2017-10-03 14:10:17.746254
-https://xkcd.com/1712/: xkcd: Politifact, 2017-10-03 14:10:17.750528
-https://xkcd.com/1709/: xkcd: Inflection, 2017-10-03 14:10:17.754736
-https://xkcd.com/1710/: xkcd: Walking Into Things, 2017-10-03 14:10:17.757102
-https://xkcd.com/1708/: xkcd: Dehydration, 2017-10-03 14:10:17.792054
-https://xkcd.com/1707/: xkcd: xkcd Phone 4, 2017-10-03 14:10:17.797365
-https://xkcd.com/1706/: xkcd: Genetic Testing, 2017-10-03 14:10:17.800024
-https://xkcd.com/1704/: xkcd: Gnome Ann, 2017-10-03 14:10:17.802506
-https://xkcd.com/1705/: xkcd: Pokémon Go, 2017-10-03 14:10:17.804733
-https://xkcd.com/1703/: xkcd: Juno, 2017-10-03 14:10:17.821849
-https://xkcd.com/1700/: xkcd: New Bug, 2017-10-03 14:10:17.853266
-https://xkcd.com/1702/: xkcd: Home Itch Remedies, 2017-10-03 14:10:17.857704
-https://xkcd.com/1699/: xkcd: Local News, 2017-10-03 14:10:17.860561
-https://xkcd.com/1701/: xkcd: Speed and Danger, 2017-10-03 14:10:17.864754
-https://xkcd.com/1698/: xkcd: Theft Quadrants, 2017-10-03 14:10:17.867538
-https://xkcd.com/1697/: xkcd: Intervocalic Fortition, 2017-10-03 14:10:17.877851
-https://xkcd.com/1694/: xkcd: Phishing License, 2017-10-03 14:10:17.901701
-https://xkcd.com/1696/: xkcd: AI Research, 2017-10-03 14:10:17.905988
-https://xkcd.com/1693/: xkcd: Oxidation, 2017-10-03 14:10:17.909316
-https://xkcd.com/1695/: xkcd: Code Quality 2, 2017-10-03 14:10:17.912236
-https://xkcd.com/1692/: xkcd: Man Page, 2017-10-03 14:10:17.918593
-https://xkcd.com/1689/: xkcd: My Friend Catherine, 2017-10-03 14:10:17.935558
-https://xkcd.com/1688/: xkcd: Map Age Guide, 2017-10-03 14:10:17.940662
-https://xkcd.com/1690/: xkcd: Time-Tracking Software, 2017-10-03 14:10:17.943428
-https://xkcd.com/1691/: xkcd: Optimization, 2017-10-03 14:10:17.946446
-https://xkcd.com/1687/: xkcd: World War III+, 2017-10-03 14:10:17.951276
-https://xkcd.com/1686/: xkcd: Feel Old, 2017-10-03 14:10:17.959215
-https://xkcd.com/1685/: xkcd: Patch, 2017-10-03 14:10:17.970606
-https://xkcd.com/1684/: xkcd: Rainbow, 2017-10-03 14:10:17.974333
-https://xkcd.com/1682/: xkcd: Bun, 2017-10-03 14:10:17.978426
-https://xkcd.com/1683/: xkcd: Digital Data, 2017-10-03 14:10:17.981330
-https://xkcd.com/1681/: xkcd: Laser Products, 2017-10-03 14:10:17.985053
-https://xkcd.com/1680/: xkcd: Black Hole, 2017-10-03 14:10:17.996616
-https://xkcd.com/1679/: xkcd: Substitutions 3, 2017-10-03 14:10:18.000320
-https://xkcd.com/1676/: xkcd: Full-Width Justification, 2017-10-03 14:10:18.005598
-https://xkcd.com/1677/: xkcd: Contrails, 2017-10-03 14:10:18.008901
-https://xkcd.com/1678/: xkcd: Recent Searches, 2017-10-03 14:10:18.011843
-https://xkcd.com/1675/: xkcd: Message in a Bottle, 2017-10-03 14:10:18.015964
-https://xkcd.com/1674/: xkcd: Adult, 2017-10-03 14:10:18.021773
-https://xkcd.com/1673/: xkcd: Timeline of Bicycle Design, 2017-10-03 14:10:18.038254
-https://xkcd.com/1671/: xkcd: Arcane Bullshit, 2017-10-03 14:10:18.043194
-https://xkcd.com/1670/: xkcd: Laws of Physics, 2017-10-03 14:10:18.045996
-https://xkcd.com/1672/: xkcd: Women on 20s, 2017-10-03 14:10:18.048476
-https://xkcd.com/1669/: xkcd: Planespotting, 2017-10-03 14:10:18.053240
-https://xkcd.com/1668/: xkcd: Singularity, 2017-10-03 14:10:18.060008
-https://xkcd.com/1666/: xkcd: Brain Upload, 2017-10-03 14:10:18.067784
-https://xkcd.com/1667/: xkcd: Algorithms, 2017-10-03 14:10:18.071527
-https://xkcd.com/1665/: xkcd: City Talk Pages, 2017-10-03 14:10:18.075066
-https://xkcd.com/1664/: xkcd: Mycology, 2017-10-03 14:10:18.078593
-https://xkcd.com/1663/: xkcd: Garden, 2017-10-03 14:10:18.082364
-https://xkcd.com/1662/: xkcd: Jack and Jill, 2017-10-03 14:10:18.094915
-https://xkcd.com/1659/: xkcd: Tire Swing, 2017-10-03 14:10:18.099653
-https://xkcd.com/1661/: xkcd: Podium, 2017-10-03 14:10:18.103708
-https://xkcd.com/1660/: xkcd: Captain Speaking, 2017-10-03 14:10:18.106763
-https://xkcd.com/1658/: xkcd: Estimating Time, 2017-10-03 14:10:18.110529
-https://xkcd.com/1657/: xkcd: Insanity, 2017-10-03 14:10:18.115311
-https://xkcd.com/1656/: xkcd: It Begins, 2017-10-03 14:10:18.126345
-https://xkcd.com/1653/: xkcd: United States Map, 2017-10-03 14:10:18.131330
-https://xkcd.com/1654/: xkcd: Universal Install Script, 2017-10-03 14:10:18.134047
-https://xkcd.com/1655/: xkcd: Doomsday Clock, 2017-10-03 14:10:18.138137
-https://xkcd.com/1652/: xkcd: Conditionals, 2017-10-03 14:10:18.141806
-https://xkcd.com/1651/: xkcd: Robotic Garage, 2017-10-03 14:10:18.149416
-https://xkcd.com/1649/: xkcd: Pipelines, 2017-10-03 14:10:18.157657
-https://xkcd.com/1650/: xkcd: Baby, 2017-10-03 14:10:18.161887
-https://xkcd.com/1648/: xkcd: Famous Duos, 2017-10-03 14:10:18.164620
-https://xkcd.com/1647/: xkcd: Diacritics, 2017-10-03 14:10:18.169055
-https://xkcd.com/1646/: xkcd: Twitter Bot, 2017-10-03 14:10:18.172903
-https://xkcd.com/1645/: xkcd: Toasts, 2017-10-03 14:10:18.206320
-https://xkcd.com/1643/: xkcd: Degrees, 2017-10-03 14:10:18.209050
-https://xkcd.com/1644/: xkcd: Stargazing, 2017-10-03 14:10:18.214291
-https://xkcd.com/1642/: xkcd: Gravitational Waves, 2017-10-03 14:10:18.216635
-https://xkcd.com/1641/: xkcd: Hot Dogs, 2017-10-03 14:10:18.219382
-https://xkcd.com/1639/: xkcd: To Taste, 2017-10-03 14:10:18.233232
-https://xkcd.com/1640/: xkcd: Super Bowl Context, 2017-10-03 14:10:18.237468
-https://xkcd.com/1637/: xkcd: Salt Mine, 2017-10-03 14:10:18.245439
-https://xkcd.com/1636/: xkcd: XKCD Stack, 2017-10-03 14:10:18.248083
-https://xkcd.com/1638/: xkcd: Backslashes, 2017-10-03 14:10:18.251512
-https://xkcd.com/1635/: xkcd: Birdsong, 2017-10-03 14:10:18.255550
-https://xkcd.com/1634/: xkcd: In Case of Emergency, 2017-10-03 14:10:18.263842
-https://xkcd.com/1632/: xkcd: Palindrome, 2017-10-03 14:10:18.269703
-https://xkcd.com/1631/: xkcd: Longer Than Usual, 2017-10-03 14:10:18.274029
-https://xkcd.com/1633/: xkcd: Possible Undiscovered Planets, 2017-10-03 14:10:18.276705
-https://xkcd.com/1630/: xkcd: Quadcopter, 2017-10-03 14:10:18.280509
-https://xkcd.com/1629/: xkcd: Tools, 2017-10-03 14:10:18.292692
-https://xkcd.com/1628/: xkcd: Magnus, 2017-10-03 14:10:18.296641
-https://xkcd.com/1625/: xkcd: Substitutions 2, 2017-10-03 14:10:18.304097
-https://xkcd.com/1626/: xkcd: Judgment Day, 2017-10-03 14:10:18.306572
-https://xkcd.com/1627/: xkcd: Woosh, 2017-10-03 14:10:18.310265
-https://xkcd.com/1624/: xkcd: 2016, 2017-10-03 14:10:18.313688
-https://xkcd.com/1623/: xkcd: 2016 Conversation Guide, 2017-10-03 14:10:18.318765
-https://xkcd.com/1621/: xkcd: Fixion, 2017-10-03 14:10:18.332396
-https://xkcd.com/1620/: xkcd: Christmas Settings, 2017-10-03 14:10:18.336283
-https://xkcd.com/1622/: xkcd: Henge, 2017-10-03 14:10:18.339226
-https://xkcd.com/1619/: xkcd: Watson Medical Algorithm, 2017-10-03 14:10:18.343020
-https://xkcd.com/1618/: xkcd: Cold Medicine, 2017-10-03 14:10:18.346432
-https://xkcd.com/1617/: xkcd: Time Capsule, 2017-10-03 14:10:18.357933
-https://xkcd.com/1615/: xkcd: Red Car, 2017-10-03 14:10:18.362570
-https://xkcd.com/1616/: xkcd: Lunch, 2017-10-03 14:10:18.366404
-https://xkcd.com/1614/: xkcd: Kites, 2017-10-03 14:10:18.369788
-https://xkcd.com/1613/: xkcd: The Three Laws of Robotics, 2017-10-03 14:10:18.372791
-https://xkcd.com/1612/: xkcd: Colds, 2017-10-03 14:10:18.376020
-https://xkcd.com/1611/: xkcd: Baking Soda and Vinegar, 2017-10-03 14:10:18.390277
-https://xkcd.com/1608/: xkcd: Hoverboard, 2017-10-03 14:10:18.394962
-https://xkcd.com/1609/: xkcd: Food Combinations, 2017-10-03 14:10:18.397833
-https://xkcd.com/1610/: xkcd: Fire Ants, 2017-10-03 14:10:18.400298
-https://xkcd.com/1607/: xkcd: Supreme Court, 2017-10-03 14:10:18.404213
-https://xkcd.com/1606/: xkcd: Five-Day Forecast, 2017-10-03 14:10:18.413442
-https://xkcd.com/1604/: xkcd: Snakes, 2017-10-03 14:10:18.419920
-https://xkcd.com/1605/: xkcd: DNA, 2017-10-03 14:10:18.423712
-https://xkcd.com/1602/: xkcd: Linguistics Club, 2017-10-03 14:10:18.430877
-https://xkcd.com/1603/: xkcd: Flashlights, 2017-10-03 14:10:18.434787
-https://xkcd.com/1601/: xkcd: Isolation, 2017-10-03 14:10:18.438322
-https://xkcd.com/1600/: xkcd: MarketWatch, 2017-10-03 14:10:18.441820
-https://xkcd.com/1599/: xkcd: Water Delivery, 2017-10-03 14:10:18.445627
-https://xkcd.com/1597/: xkcd: Git, 2017-10-03 14:10:18.457135
-https://xkcd.com/1598/: xkcd: Salvage, 2017-10-03 14:10:18.461379
-https://xkcd.com/1596/: xkcd: Launch Status Check, 2017-10-03 14:10:18.465126
-https://xkcd.com/1594/: xkcd: Human Subjects, 2017-10-03 14:10:18.468868
-https://xkcd.com/1595/: xkcd: 30 Days Hath September, 2017-10-03 14:10:18.471421
-https://xkcd.com/1593/: xkcd: Play-By-Play, 2017-10-03 14:10:18.483582
-https://xkcd.com/1592/: xkcd: Overthinking, 2017-10-03 14:10:18.487373
-https://xkcd.com/1591/: xkcd: Bell's Theorem, 2017-10-03 14:10:18.491090
-https://xkcd.com/1590/: xkcd: The Source, 2017-10-03 14:10:18.496224
-https://xkcd.com/1589/: xkcd: Frankenstein, 2017-10-03 14:10:18.505119
-https://xkcd.com/1588/: xkcd: Hardware Reductionism, 2017-10-03 14:10:18.509018
-https://xkcd.com/1587/: xkcd: Food Rule, 2017-10-03 14:10:18.512937
-https://xkcd.com/1586/: xkcd: Keyboard Problems, 2017-10-03 14:10:18.515491
-https://xkcd.com/1585/: xkcd: Similarities, 2017-10-03 14:10:18.518871
-https://xkcd.com/1584/: xkcd: Moments of Inspiration, 2017-10-03 14:10:18.541933
-https://xkcd.com/1583/: xkcd: NASA Press Conference, 2017-10-03 14:10:18.545730
-https://xkcd.com/1582/: xkcd: Picture a Grassy Field, 2017-10-03 14:10:18.549909
-https://xkcd.com/1580/: xkcd: Travel Ghost, 2017-10-03 14:10:18.552677
-https://xkcd.com/1581/: xkcd: Birthday, 2017-10-03 14:10:18.554920
-https://xkcd.com/1578/: xkcd: Squirrelphone, 2017-10-03 14:10:18.595171
-https://xkcd.com/1576/: xkcd: I Could Care Less, 2017-10-03 14:10:18.599643
-https://xkcd.com/1577/: xkcd: Advent, 2017-10-03 14:10:18.602407
-https://xkcd.com/1575/: xkcd: Footprints, 2017-10-03 14:10:18.605092
-https://xkcd.com/1579/: xkcd: Tech Loops, 2017-10-03 14:10:18.607699
-https://xkcd.com/1574/: xkcd: Trouble for Science, 2017-10-03 14:10:18.624526
-https://xkcd.com/1571/: xkcd: Car Model Names, 2017-10-03 14:10:18.638893
-https://xkcd.com/1572/: xkcd: xkcd Survey, 2017-10-03 14:10:18.642570
-https://xkcd.com/1570/: xkcd: Engineer Syllogism, 2017-10-03 14:10:18.646775
-https://xkcd.com/1573/: xkcd: Cyberintelligence, 2017-10-03 14:10:18.649567
-https://xkcd.com/1569/: xkcd: Magic Tree, 2017-10-03 14:10:18.652312
-https://xkcd.com/1568/: xkcd: Synonym Movies 2, 2017-10-03 14:10:18.665360
-https://xkcd.com/1566/: xkcd: Board Game, 2017-10-03 14:10:18.671316
-https://xkcd.com/1567/: xkcd: Kitchen Tips, 2017-10-03 14:10:18.675383
-https://xkcd.com/1564/: xkcd: Every Seven Seconds, 2017-10-03 14:10:18.678840
-https://xkcd.com/1565/: xkcd: Back Seat, 2017-10-03 14:10:18.683270
-https://xkcd.com/1563/: xkcd: Synonym Movies, 2017-10-03 14:10:18.687469
-https://xkcd.com/1562/: xkcd: I in Team, 2017-10-03 14:10:18.703330
-https://xkcd.com/1561/: xkcd: Water Phase Diagram, 2017-10-03 14:10:18.707810
-https://xkcd.com/1560/: xkcd: Bubblegum, 2017-10-03 14:10:18.710482
-https://xkcd.com/1559/: xkcd: Driving, 2017-10-03 14:10:18.714461
-https://xkcd.com/1558/: xkcd: Vet, 2017-10-03 14:10:18.716784
-https://xkcd.com/1557/: xkcd: Ozymandias, 2017-10-03 14:10:18.731755
-https://xkcd.com/1554/: xkcd: Spice Girls, 2017-10-03 14:10:18.739120
-https://xkcd.com/1555/: xkcd: Exoplanet Names 2, 2017-10-03 14:10:18.744022
-https://xkcd.com/1556/: xkcd: The Sky, 2017-10-03 14:10:18.746837
-https://xkcd.com/1553/: xkcd: Public Key, 2017-10-03 14:10:18.749792
-https://xkcd.com/1552/: xkcd: Rulebook, 2017-10-03 14:10:18.754127
-https://xkcd.com/1551/: xkcd: Pluto, 2017-10-03 14:10:18.767996
-https://xkcd.com/1547/: xkcd: Solar System Questions, 2017-10-03 14:10:18.774346
-https://xkcd.com/1550/: xkcd: Episode VII, 2017-10-03 14:10:18.778899
-https://xkcd.com/1548/: xkcd: 90s Kid, 2017-10-03 14:10:18.782312
-https://xkcd.com/1546/: xkcd: Tamagotchi Hive, 2017-10-03 14:10:18.788356
-https://xkcd.com/1549/: xkcd: xkcd Phone 3, 2017-10-03 14:10:18.793177
-https://xkcd.com/1545/: xkcd: Strengths and Weaknesses, 2017-10-03 14:10:18.796577
-https://xkcd.com/1543/: xkcd: Team Effort, 2017-10-03 14:10:18.802365
-https://xkcd.com/1544/: xkcd: Margaret, 2017-10-03 14:10:18.804732
-https://xkcd.com/1542/: xkcd: Scheduling Conflict, 2017-10-03 14:10:18.813069
-https://xkcd.com/1540/: xkcd: Hemingway, 2017-10-03 14:10:18.817182
-https://xkcd.com/1541/: xkcd: Voice, 2017-10-03 14:10:18.819727
-https://xkcd.com/1539/: xkcd: Planning, 2017-10-03 14:10:18.833016
-https://xkcd.com/1538/: xkcd: Lyrics, 2017-10-03 14:10:18.836963
-https://xkcd.com/1537/: xkcd: Types, 2017-10-03 14:10:18.841824
-https://xkcd.com/1535/: xkcd: Words for Pets, 2017-10-03 14:10:18.861592
-https://xkcd.com/1536/: xkcd: The Martian, 2017-10-03 14:10:18.865892
-https://xkcd.com/1532/: xkcd: New Horizons, 2017-10-03 14:10:18.870145
-https://xkcd.com/1533/: xkcd: Antique Factory, 2017-10-03 14:10:18.872921
-https://xkcd.com/1534/: xkcd: Beer, 2017-10-03 14:10:18.875494
-https://xkcd.com/1531/: xkcd: The BDLPSWDKS Effect, 2017-10-03 14:10:18.879940
-https://xkcd.com/1530/: xkcd: Keyboard Mash, 2017-10-03 14:10:18.886672
-https://xkcd.com/1529/: xkcd: Bracket, 2017-10-03 14:10:18.902412
-https://xkcd.com/1527/: xkcd: Humans, 2017-10-03 14:10:18.907451
-https://xkcd.com/1528/: xkcd: Vodka, 2017-10-03 14:10:18.910433
-https://xkcd.com/1526/: xkcd: Placebo Blocker, 2017-10-03 14:10:18.914587
-https://xkcd.com/1525/: xkcd: Emojic 8 Ball, 2017-10-03 14:10:18.916906
-https://xkcd.com/1522/: xkcd: Astronomy, 2017-10-03 14:10:18.936183
-https://xkcd.com/1523/: xkcd: Microdrones, 2017-10-03 14:10:18.940111
-https://xkcd.com/1520/: xkcd: Degree-Off, 2017-10-03 14:10:18.944196
-https://xkcd.com/1521/: xkcd: Sword in the Stone, 2017-10-03 14:10:18.946684
-https://xkcd.com/1524/: xkcd: Dimensions, 2017-10-03 14:10:18.951480
-https://xkcd.com/1519/: xkcd: Venus, 2017-10-03 14:10:18.958977
-https://xkcd.com/1518/: xkcd: Typical Morning Routine, 2017-10-03 14:10:18.962452
-https://xkcd.com/1516/: xkcd: Win by Induction, 2017-10-03 14:10:18.967396
-https://xkcd.com/1517/: xkcd: Spectroscopy, 2017-10-03 14:10:18.970906
-https://xkcd.com/1515/: xkcd: Basketball Earth, 2017-10-03 14:10:18.974673
-https://xkcd.com/1514/: xkcd: PermaCal, 2017-10-03 14:10:18.978125
-https://xkcd.com/1513/: xkcd: Code Quality, 2017-10-03 14:10:18.986272
-https://xkcd.com/1512/: xkcd: Horoscopes, 2017-10-03 14:10:18.990170
-https://xkcd.com/1511/: xkcd: Spice Girl, 2017-10-03 14:10:18.993759
-https://xkcd.com/1510/: xkcd: Napoleon, 2017-10-03 14:10:18.999170
-https://xkcd.com/1509/: xkcd: Scenery Cheat Sheet, 2017-10-03 14:10:19.002583
-https://xkcd.com/1508/: xkcd: Operating Systems, 2017-10-03 14:10:19.007358
-https://xkcd.com/1507/: xkcd: Metaball, 2017-10-03 14:10:19.010802
-https://xkcd.com/1506/: xkcd: xkcloud, 2017-10-03 14:10:19.016835
-https://xkcd.com/1505/: xkcd: Ontological Argument, 2017-10-03 14:10:19.021959
-https://xkcd.com/1504/: xkcd: Opportunity, 2017-10-03 14:10:19.025662
-https://xkcd.com/1503/: xkcd: Squirrel Plan, 2017-10-03 14:10:19.030309
-https://xkcd.com/1502/: xkcd: Wasted Time, 2017-10-03 14:10:19.033769
-https://xkcd.com/1501/: xkcd: Mysteries, 2017-10-03 14:10:19.039021
-https://xkcd.com/1499/: xkcd: Arbitrage, 2017-10-03 14:10:19.046906
-https://xkcd.com/1500/: xkcd: Upside-Down Map, 2017-10-03 14:10:19.050431
-https://xkcd.com/1497/: xkcd: New Products, 2017-10-03 14:10:19.054091
-https://xkcd.com/1498/: xkcd: Terry Pratchett, 2017-10-03 14:10:19.057153
-https://xkcd.com/1496/: xkcd: Art Project, 2017-10-03 14:10:19.064807
-https://xkcd.com/1495/: xkcd: Hard Reboot, 2017-10-03 14:10:19.068450
-https://xkcd.com/1493/: xkcd: Meeting, 2017-10-03 14:10:19.072912
-https://xkcd.com/1494/: xkcd: Insurance, 2017-10-03 14:10:19.075230
-https://xkcd.com/1492/: xkcd: Dress Color, 2017-10-03 14:10:19.081064
-https://xkcd.com/1491/: xkcd: Stories of the Past and Future, 2017-10-03 14:10:19.084859
-https://xkcd.com/1490/: xkcd: Atoms, 2017-10-03 14:10:19.090187
-https://xkcd.com/1488/: xkcd: Flowcharts, 2017-10-03 14:10:19.093597
-https://xkcd.com/1489/: xkcd: Fundamental Forces, 2017-10-03 14:10:19.095899
-https://xkcd.com/1487/: xkcd: Tornado, 2017-10-03 14:10:19.106112
-https://xkcd.com/1486/: xkcd: Vacuum, 2017-10-03 14:10:19.109749
-https://xkcd.com/1485/: xkcd: Friendship, 2017-10-03 14:10:19.113728
-https://xkcd.com/1483/: xkcd: Quotative Like, 2017-10-03 14:10:19.118079
-https://xkcd.com/1484/: xkcd: Apollo Speeches, 2017-10-03 14:10:19.121502
-https://xkcd.com/1482/: xkcd: #NowPlaying, 2017-10-03 14:10:19.132593
-https://xkcd.com/1479/: xkcd: Troubleshooting, 2017-10-03 14:10:19.136883
-https://xkcd.com/1480/: xkcd: Super Bowl, 2017-10-03 14:10:19.140811
-https://xkcd.com/1481/: xkcd: API, 2017-10-03 14:10:19.143276
-https://xkcd.com/1478/: xkcd: P-Values, 2017-10-03 14:10:19.146655
-https://xkcd.com/1477/: xkcd: Star Wars, 2017-10-03 14:10:19.154281
-https://xkcd.com/1476/: xkcd: Ceres, 2017-10-03 14:10:19.158081
-https://xkcd.com/1474/: xkcd: Screws, 2017-10-03 14:10:19.161997
-https://xkcd.com/1475/: xkcd: Technically, 2017-10-03 14:10:19.165047
-https://xkcd.com/1473/: xkcd: Location Sharing, 2017-10-03 14:10:19.172860
-https://xkcd.com/1472/: xkcd: Geography, 2017-10-03 14:10:19.177888
-https://xkcd.com/1471/: xkcd: Gut Fauna, 2017-10-03 14:10:19.181434
-https://xkcd.com/1470/: xkcd: Kix, 2017-10-03 14:10:19.196621
-https://xkcd.com/1469/: xkcd: UV, 2017-10-03 14:10:19.200893
-https://xkcd.com/1468/: xkcd: Worrying, 2017-10-03 14:10:19.203818
-https://xkcd.com/1466/: xkcd: Phone Checking, 2017-10-03 14:10:19.208725
-https://xkcd.com/1467/: xkcd: Email, 2017-10-03 14:10:19.211053
-https://xkcd.com/1465/: xkcd: xkcd Phone 2, 2017-10-03 14:10:19.221738
-https://xkcd.com/1464/: xkcd: Santa, 2017-10-03 14:10:19.225752
-https://xkcd.com/1463/: xkcd: Altitude, 2017-10-03 14:10:19.229393
-https://xkcd.com/1461/: xkcd: Payloads, 2017-10-03 14:10:19.232720
-https://xkcd.com/1462/: xkcd: Blind Trials, 2017-10-03 14:10:19.235743
-https://xkcd.com/1460/: xkcd: SMFW, 2017-10-03 14:10:19.241296
-https://xkcd.com/1459/: xkcd: Documents, 2017-10-03 14:10:19.252338
-https://xkcd.com/1458/: xkcd: Small Moon, 2017-10-03 14:10:19.256562
-https://xkcd.com/1457/: xkcd: Feedback, 2017-10-03 14:10:19.260194
-https://xkcd.com/1456/: xkcd: On the Moon, 2017-10-03 14:10:19.262780
-https://xkcd.com/1455/: xkcd: Trolley Problem, 2017-10-03 14:10:19.266448
-https://xkcd.com/1454/: xkcd: Done, 2017-10-03 14:10:19.276775
-https://xkcd.com/1453/: xkcd: fMRI, 2017-10-03 14:10:19.280105
-https://xkcd.com/1451/: xkcd: Background Screens, 2017-10-03 14:10:19.283586
-https://xkcd.com/1452/: xkcd: Jurassic World, 2017-10-03 14:10:19.286792
-https://xkcd.com/1450/: xkcd: AI-Box Experiment, 2017-10-03 14:10:19.290080
-https://xkcd.com/1449/: xkcd: Red Rover, 2017-10-03 14:10:19.298788
-https://xkcd.com/1448/: xkcd: Question, 2017-10-03 14:10:19.302638
-https://xkcd.com/1447/: xkcd: Meta-Analysis, 2017-10-03 14:10:19.306283
-https://xkcd.com/1445/: xkcd: Efficiency, 2017-10-03 14:10:19.314273
-https://xkcd.com/1446/: xkcd: Landing, 2017-10-03 14:10:19.317654
-https://xkcd.com/1444/: xkcd: Cloud, 2017-10-03 14:10:19.321622
-https://xkcd.com/1442/: xkcd: Chemistry, 2017-10-03 14:10:19.327391
-https://xkcd.com/1443/: xkcd: Language Nerd, 2017-10-03 14:10:19.331974
-https://xkcd.com/1441/: xkcd: Turnabout, 2017-10-03 14:10:19.341481
-https://xkcd.com/1439/: xkcd: Rack Unit, 2017-10-03 14:10:19.346237
-https://xkcd.com/1440/: xkcd: Geese, 2017-10-03 14:10:19.349687
-https://xkcd.com/1438/: xkcd: Houston, 2017-10-03 14:10:19.355532
-https://xkcd.com/1437/: xkcd: Higgs Boson, 2017-10-03 14:10:19.360917
-https://xkcd.com/1436/: xkcd: Orb Hammer, 2017-10-03 14:10:19.366228
-https://xkcd.com/1435/: xkcd: Presidential Alert, 2017-10-03 14:10:19.376620
-https://xkcd.com/1434/: xkcd: Where Do Birds Go, 2017-10-03 14:10:19.382623
-https://xkcd.com/1433/: xkcd: Lightsaber, 2017-10-03 14:10:19.387592
-https://xkcd.com/1432/: xkcd: The Sake of Argument, 2017-10-03 14:10:19.391457
-https://xkcd.com/1431/: xkcd: Marriage, 2017-10-03 14:10:19.394097
-https://xkcd.com/1429/: xkcd: Data, 2017-10-03 14:10:19.403652
-https://xkcd.com/1430/: xkcd: Proteins, 2017-10-03 14:10:19.407393
-https://xkcd.com/1427/: xkcd: iOS Keyboard, 2017-10-03 14:10:19.418131
-https://xkcd.com/1426/: xkcd: Reduce Your Payments, 2017-10-03 14:10:19.421007
-https://xkcd.com/1428/: xkcd: Move Fast and Break Things, 2017-10-03 14:10:19.423941
-https://xkcd.com/1425/: xkcd: Tasks, 2017-10-03 14:10:19.428375
-https://xkcd.com/1424/: xkcd: En Garde, 2017-10-03 14:10:19.431848
-https://xkcd.com/1423/: xkcd: Conversation, 2017-10-03 14:10:19.445027
-https://xkcd.com/1422/: xkcd: My Phone is Dying, 2017-10-03 14:10:19.448743
-https://xkcd.com/1421/: xkcd: Future Self, 2017-10-03 14:10:19.452499
-https://xkcd.com/1420/: xkcd: Watches, 2017-10-03 14:10:19.455883
-https://xkcd.com/1419/: xkcd: On the Phone, 2017-10-03 14:10:19.459710
-https://xkcd.com/1418/: xkcd: Horse, 2017-10-03 14:10:19.468336
-https://xkcd.com/1416/: xkcd: Pixels, 2017-10-03 14:10:19.478147
-https://xkcd.com/1415/: xkcd: Ballooning, 2017-10-03 14:10:19.482286
-https://xkcd.com/1417/: xkcd: Seven, 2017-10-03 14:10:19.485113
-https://xkcd.com/1414/: xkcd: Writing Skills, 2017-10-03 14:10:19.489012
-https://xkcd.com/1413/: xkcd: Suddenly Popular, 2017-10-03 14:10:19.492142
-https://xkcd.com/1412/: xkcd: Teenage Mutant Ninja Turtles, 2017-10-03 14:10:19.509620
-https://xkcd.com/1410/: xkcd: California, 2017-10-03 14:10:19.514082
-https://xkcd.com/1411/: xkcd: Loop, 2017-10-03 14:10:19.517073
-https://xkcd.com/1408/: xkcd: March of the Penguins, 2017-10-03 14:10:19.521174
-https://xkcd.com/1409/: xkcd: Query, 2017-10-03 14:10:19.523499
-https://xkcd.com/1407/: xkcd: Worst Hurricane, 2017-10-03 14:10:19.539104
-https://xkcd.com/1403/: xkcd: Thesis Defense, 2017-10-03 14:10:19.543494
-https://xkcd.com/1405/: xkcd: Meteor, 2017-10-03 14:10:19.547528
-https://xkcd.com/1404/: xkcd: Quantum Vacuum Virtual Plasma, 2017-10-03 14:10:19.550107
-https://xkcd.com/1406/: xkcd: Universal Converter Box, 2017-10-03 14:10:19.558497
-https://xkcd.com/1402/: xkcd: Harpoons, 2017-10-03 14:10:19.562228
-https://xkcd.com/1401/: xkcd: New, 2017-10-03 14:10:19.565763
-https://xkcd.com/1399/: xkcd: Chaos, 2017-10-03 14:10:19.571540
-https://xkcd.com/1400/: xkcd: D.B. Cooper, 2017-10-03 14:10:19.574665
-https://xkcd.com/1397/: xkcd: Luke, 2017-10-03 14:10:19.581691
-https://xkcd.com/1398/: xkcd: Snake Facts, 2017-10-03 14:10:19.585439
-https://xkcd.com/1395/: xkcd: Power Cord, 2017-10-03 14:10:19.592535
-https://xkcd.com/1394/: xkcd: Superm*n, 2017-10-03 14:10:19.596180
-https://xkcd.com/1393/: xkcd: Timeghost, 2017-10-03 14:10:19.604005
-https://xkcd.com/1396/: xkcd: Actors, 2017-10-03 14:10:19.607437
-https://xkcd.com/1392/: xkcd: Dominant Players, 2017-10-03 14:10:19.610965
-https://xkcd.com/1391/: xkcd: Darkness, 2017-10-03 14:10:19.614319
-https://xkcd.com/1390/: xkcd: Research Ethics, 2017-10-03 14:10:19.624036
-https://xkcd.com/1389/: xkcd: Surface Area, 2017-10-03 14:10:19.634414
-https://xkcd.com/1386/: xkcd: People are Stupid, 2017-10-03 14:10:19.638323
-https://xkcd.com/1387/: xkcd: Clumsy Foreshadowing, 2017-10-03 14:10:19.640795
-https://xkcd.com/1388/: xkcd: Subduction License, 2017-10-03 14:10:19.645163
-https://xkcd.com/1385/: xkcd: Throwing Rocks, 2017-10-03 14:10:19.648454
-https://xkcd.com/1384/: xkcd: Krypton, 2017-10-03 14:10:19.662140
-https://xkcd.com/1383/: xkcd: Magic Words, 2017-10-03 14:10:19.666962
-https://xkcd.com/1382/: xkcd: Rocket Packs, 2017-10-03 14:10:19.670126
-https://xkcd.com/1380/: xkcd: Manual for Civilization, 2017-10-03 14:10:19.674905
-https://xkcd.com/1381/: xkcd: Margin, 2017-10-03 14:10:19.677311
-https://xkcd.com/1379/: xkcd: 4.5 Degrees, 2017-10-03 14:10:19.683088
-https://xkcd.com/1378/: xkcd: Turbine, 2017-10-03 14:10:19.691052
-https://xkcd.com/1377/: xkcd: Fish, 2017-10-03 14:10:19.694609
-https://xkcd.com/1376/: xkcd: Jump, 2017-10-03 14:10:19.698361
-https://xkcd.com/1375/: xkcd: Astronaut Vandalism, 2017-10-03 14:10:19.701686
-https://xkcd.com/1374/: xkcd: Urn, 2017-10-03 14:10:19.707784
-https://xkcd.com/1372/: xkcd: Smartwatches, 2017-10-03 14:10:19.722397
-https://xkcd.com/1373/: xkcd: Screenshot, 2017-10-03 14:10:19.726461
-https://xkcd.com/1370/: xkcd: President, 2017-10-03 14:10:19.731858
-https://xkcd.com/1371/: xkcd: Brightness, 2017-10-03 14:10:19.734508
-https://xkcd.com/1369/: xkcd: TMI, 2017-10-03 14:10:19.736825
-https://xkcd.com/1365/: xkcd: Inflation, 2017-10-03 14:10:19.766590
-https://xkcd.com/1366/: xkcd: Train, 2017-10-03 14:10:19.769527
-https://xkcd.com/1368/: xkcd: One Of The, 2017-10-03 14:10:19.772796
-https://xkcd.com/1367/: xkcd: Installing, 2017-10-03 14:10:19.775354
-https://xkcd.com/1364/: xkcd: Like I'm Five, 2017-10-03 14:10:19.778072
-https://xkcd.com/1359/: xkcd: Phone Alarm, 2017-10-03 14:10:19.799350
-https://xkcd.com/1362/: xkcd: Morse Code, 2017-10-03 14:10:19.804453
-https://xkcd.com/1363/: xkcd: xkcd Phone, 2017-10-03 14:10:19.808232
-https://xkcd.com/1361/: xkcd: Google Announcement, 2017-10-03 14:10:19.812501
-https://xkcd.com/1360/: xkcd: Old Files, 2017-10-03 14:10:19.814905
-https://xkcd.com/1358/: xkcd: NRO, 2017-10-03 14:10:19.832232
-https://xkcd.com/1356/: xkcd: Orbital Mechanics, 2017-10-03 14:10:19.849916
-https://xkcd.com/1357/: xkcd: Free Speech, 2017-10-03 14:10:19.854034
-https://xkcd.com/1354/: xkcd: Heartbleed Explanation, 2017-10-03 14:10:19.858868
-https://xkcd.com/1355/: xkcd: Airplane Message, 2017-10-03 14:10:19.861490
-https://xkcd.com/1353/: xkcd: Heartbleed, 2017-10-03 14:10:19.863915
-https://xkcd.com/1352/: xkcd: Cosmologist on a Tire Swing, 2017-10-03 14:10:19.878371
-https://xkcd.com/1350/: xkcd: Lorenz, 2017-10-03 14:10:19.884457
-https://xkcd.com/1351/: xkcd: Metamaterials, 2017-10-03 14:10:19.888320
-https://xkcd.com/1349/: xkcd: Shouldn't Be Hard, 2017-10-03 14:10:19.892556
-https://xkcd.com/1347/: xkcd: t Distribution, 2017-10-03 14:10:19.898347
-https://xkcd.com/1348/: xkcd: Before the Internet, 2017-10-03 14:10:19.905224
-https://xkcd.com/1346/: xkcd: Career, 2017-10-03 14:10:19.909949
-https://xkcd.com/1345/: xkcd: Answers, 2017-10-03 14:10:19.913461
-https://xkcd.com/1344/: xkcd: Digits, 2017-10-03 14:10:19.917054
-https://xkcd.com/1343/: xkcd: Manuals, 2017-10-03 14:10:19.920304
-https://xkcd.com/1342/: xkcd: Ancient Stars, 2017-10-03 14:10:19.932051
-https://xkcd.com/1341/: xkcd: Types of Editors, 2017-10-03 14:10:19.936249
-https://xkcd.com/1340/: xkcd: Unique Date, 2017-10-03 14:10:19.939721
-https://xkcd.com/1338/: xkcd: Land Mammals, 2017-10-03 14:10:19.944429
-https://xkcd.com/1339/: xkcd: When You Assume, 2017-10-03 14:10:19.947308
-https://xkcd.com/1337/: xkcd: Hack, 2017-10-03 14:10:19.957213
-https://xkcd.com/1335/: xkcd: Now, 2017-10-03 14:10:19.969956
-https://xkcd.com/1336/: xkcd: Transformers, 2017-10-03 14:10:19.974087
-https://xkcd.com/1334/: xkcd: Second, 2017-10-03 14:10:19.979696
-https://xkcd.com/1333/: xkcd: First Date, 2017-10-03 14:10:19.983410
-https://xkcd.com/1332/: xkcd: Slippery Slope, 2017-10-03 14:10:19.988286
-https://xkcd.com/1330/: xkcd: Kola Borehole, 2017-10-03 14:10:19.995704
-https://xkcd.com/1331/: xkcd: Frequency, 2017-10-03 14:10:20.002174
-https://xkcd.com/1329/: xkcd: Standing, 2017-10-03 14:10:20.010076
-https://xkcd.com/1328/: xkcd: Update, 2017-10-03 14:10:20.014709
-https://xkcd.com/1327/: xkcd: Mobile Marketing, 2017-10-03 14:10:20.019311
-https://xkcd.com/1326/: xkcd: Sharks, 2017-10-03 14:10:20.025058
-https://xkcd.com/1325/: xkcd: Rejection, 2017-10-03 14:10:20.035186
-https://xkcd.com/1324/: xkcd: Weather, 2017-10-03 14:10:20.040847
-https://xkcd.com/1323/: xkcd: Protocol, 2017-10-03 14:10:20.046632
-https://xkcd.com/1322/: xkcd: Winter, 2017-10-03 14:10:20.049153
-https://xkcd.com/1321/: xkcd: Cold, 2017-10-03 14:10:20.053763
-https://xkcd.com/1320/: xkcd: Walmart, 2017-10-03 14:10:20.060359
-https://xkcd.com/1319/: xkcd: Automation, 2017-10-03 14:10:20.070638
-https://xkcd.com/1318/: xkcd: Actually, 2017-10-03 14:10:20.075152
-https://xkcd.com/1317/: xkcd: Theft, 2017-10-03 14:10:20.078964
-https://xkcd.com/1316/: xkcd: Inexplicable, 2017-10-03 14:10:20.082505
-https://xkcd.com/1315/: xkcd: Questions for God, 2017-10-03 14:10:20.085531
-https://xkcd.com/1314/: xkcd: Photos, 2017-10-03 14:10:20.126379
-https://xkcd.com/1313/: xkcd: Regex Golf, 2017-10-03 14:10:20.130084
-https://xkcd.com/1312/: xkcd: Haskell, 2017-10-03 14:10:20.163397
-https://xkcd.com/1311/: xkcd: 2014, 2017-10-03 14:10:20.167747
-https://xkcd.com/1310/: xkcd: Goldbach Conjectures, 2017-10-03 14:10:20.171175
-https://xkcd.com/1309/: xkcd: Infinite Scrolling, 2017-10-03 14:10:20.204420
-https://xkcd.com/1308/: xkcd: Christmas Lights, 2017-10-03 14:10:20.209250
-https://xkcd.com/1306/: xkcd: Sigil Cycle, 2017-10-03 14:10:20.262451
-https://xkcd.com/1307/: xkcd: Buzzfeed Christmas, 2017-10-03 14:10:20.266461
-https://xkcd.com/1305/: xkcd: Undocumented Feature, 2017-10-03 14:10:20.269102
-https://xkcd.com/1304/: xkcd: Glass Trolling, 2017-10-03 14:10:20.297006
-https://xkcd.com/1303/: xkcd: Profile Info, 2017-10-03 14:10:20.302012
-https://xkcd.com/1301/: xkcd: File Extensions, 2017-10-03 14:10:20.304607
-https://xkcd.com/1302/: xkcd: Year in Review, 2017-10-03 14:10:20.309505
-https://xkcd.com/1300/: xkcd: Galilean Moons, 2017-10-03 14:10:20.312715
-https://xkcd.com/1299/: xkcd: I Don't Own a TV, 2017-10-03 14:10:20.323072
-https://xkcd.com/1296/: xkcd: Git Commit, 2017-10-03 14:10:20.338141
-https://xkcd.com/1295/: xkcd: New Study, 2017-10-03 14:10:20.346794
-https://xkcd.com/1298/: xkcd: Exoplanet Neighborhood, 2017-10-03 14:10:20.351298
-https://xkcd.com/1297/: xkcd: Oort Cloud, 2017-10-03 14:10:20.354331
-https://xkcd.com/1294/: xkcd: Telescope Names, 2017-10-03 14:10:20.362411
-https://xkcd.com/1293/: xkcd: Job Interview, 2017-10-03 14:10:20.377859
-https://xkcd.com/1292/: xkcd: Pi vs. Tau, 2017-10-03 14:10:20.382589
-https://xkcd.com/1291/: xkcd: Shoot for the Moon, 2017-10-03 14:10:20.385328
-https://xkcd.com/1290/: xkcd: Syllable Planning, 2017-10-03 14:10:20.388726
-https://xkcd.com/1289/: xkcd: Simple Answers, 2017-10-03 14:10:20.394157
-https://xkcd.com/1288/: xkcd: Substitutions, 2017-10-03 14:10:20.408825
-https://xkcd.com/1286/: xkcd: Encryptic, 2017-10-03 14:10:20.414694
-https://xkcd.com/1285/: xkcd: Third Way, 2017-10-03 14:10:20.417364
-https://xkcd.com/1287/: xkcd: Puzzle, 2017-10-03 14:10:20.421391
-https://xkcd.com/1284/: xkcd: Improved Keyboard, 2017-10-03 14:10:20.424791
-https://xkcd.com/1283/: xkcd: Headlines, 2017-10-03 14:10:20.430245
-https://xkcd.com/1281/: xkcd: Minifigs, 2017-10-03 14:10:20.437339
-https://xkcd.com/1282/: xkcd: Monty Hall, 2017-10-03 14:10:20.440942
-https://xkcd.com/1279/: xkcd: Reverse Identity Theft, 2017-10-03 14:10:20.445951
-https://xkcd.com/1280/: xkcd: Mystery News, 2017-10-03 14:10:20.448974
-https://xkcd.com/1278/: xkcd: Giraffes, 2017-10-03 14:10:20.453459
-https://xkcd.com/1276/: xkcd: Angular Size, 2017-10-03 14:10:20.468866
-https://xkcd.com/1277/: xkcd: Ayn Random, 2017-10-03 14:10:20.472993
-https://xkcd.com/1274/: xkcd: Open Letter, 2017-10-03 14:10:20.478674
-https://xkcd.com/1275/: xkcd: int(pi), 2017-10-03 14:10:20.481062
-https://xkcd.com/1273/: xkcd: Tall Infographics, 2017-10-03 14:10:20.485391
-https://xkcd.com/1272/: xkcd: Shadowfacts, 2017-10-03 14:10:20.501487
-https://xkcd.com/1271/: xkcd: Highlighting, 2017-10-03 14:10:20.507097
-https://xkcd.com/1268/: xkcd: Alternate Universe, 2017-10-03 14:10:20.510097
-https://xkcd.com/1270/: xkcd: Functional, 2017-10-03 14:10:20.512649
-https://xkcd.com/1269/: xkcd: Privacy Opinions, 2017-10-03 14:10:20.517463
-https://xkcd.com/1267/: xkcd: Mess, 2017-10-03 14:10:20.520849
-https://xkcd.com/1265/: xkcd: Juicer, 2017-10-03 14:10:20.532127
-https://xkcd.com/1264/: xkcd: Slideshow, 2017-10-03 14:10:20.535422
-https://xkcd.com/1266/: xkcd: Halting Problem, 2017-10-03 14:10:20.540752
-https://xkcd.com/1263/: xkcd: Reassuring, 2017-10-03 14:10:20.547431
-https://xkcd.com/1262/: xkcd: Unquote, 2017-10-03 14:10:20.549999
-https://xkcd.com/1261/: xkcd: Shake That, 2017-10-03 14:10:20.555375
-https://xkcd.com/1260/: xkcd: LD50, 2017-10-03 14:10:20.564780
-https://xkcd.com/1259/: xkcd: Bee Orchid, 2017-10-03 14:10:20.569233
-https://xkcd.com/1258/: xkcd: First, 2017-10-03 14:10:20.572529
-https://xkcd.com/1257/: xkcd: Monster, 2017-10-03 14:10:20.577008
-https://xkcd.com/1256/: xkcd: Questions, 2017-10-03 14:10:20.582991
-https://xkcd.com/1255/: xkcd: Columbus, 2017-10-03 14:10:20.587307
-https://xkcd.com/1254/: xkcd: Preferred Chat System, 2017-10-03 14:10:20.600439
-https://xkcd.com/1253/: xkcd: Exoplanet Names, 2017-10-03 14:10:20.604910
-https://xkcd.com/1252/: xkcd: Increased Risk, 2017-10-03 14:10:20.610938
-https://xkcd.com/1250/: xkcd: Old Accounts, 2017-10-03 14:10:20.614835
-https://xkcd.com/1251/: xkcd: Anti-Glass, 2017-10-03 14:10:20.617168
-https://xkcd.com/1249/: xkcd: Meteor Showers, 2017-10-03 14:10:20.627149
-https://xkcd.com/1248/: xkcd: Sphere, 2017-10-03 14:10:20.634742
-https://xkcd.com/1247/: xkcd: The Mother of All Suspicious Files, 2017-10-03 14:10:20.644992
-https://xkcd.com/1246/: xkcd: Pale Blue Dot, 2017-10-03 14:10:20.648691
-https://xkcd.com/1245/: xkcd: 10-Day Forecast, 2017-10-03 14:10:20.651598
-https://xkcd.com/1244/: xkcd: Six Words, 2017-10-03 14:10:20.655489
-https://xkcd.com/1243/: xkcd: Snare, 2017-10-03 14:10:20.664180
-https://xkcd.com/1242/: xkcd: Scary Names, 2017-10-03 14:10:20.668708
-https://xkcd.com/1239/: xkcd: Social Media, 2017-10-03 14:10:20.685711
-https://xkcd.com/1241/: xkcd: Annoying Ringtone Champion, 2017-10-03 14:10:20.689787
-https://xkcd.com/1240/: xkcd: Quantum Mechanics, 2017-10-03 14:10:20.695505
-https://xkcd.com/1237/: xkcd: QR Code, 2017-10-03 14:10:20.698172
-https://xkcd.com/1238/: xkcd: Enlightenment, 2017-10-03 14:10:20.700448
-https://xkcd.com/1236/: xkcd: Seashell, 2017-10-03 14:10:20.715093
-https://xkcd.com/1235/: xkcd: Settled, 2017-10-03 14:10:20.717944
-https://xkcd.com/1233/: xkcd: Relativity, 2017-10-03 14:10:20.722881
-https://xkcd.com/1234/: xkcd: Douglas Engelbart (1925-2013), 2017-10-03 14:10:20.727691
-https://xkcd.com/1232/: xkcd: Realistic Criteria, 2017-10-03 14:10:20.731610
-https://xkcd.com/1231/: xkcd: Habitable Zone, 2017-10-03 14:10:20.739326
-https://xkcd.com/1230/: xkcd: Polar/Cartesian, 2017-10-03 14:10:20.743467
-https://xkcd.com/1229/: xkcd: Screensaver, 2017-10-03 14:10:20.748281
-https://xkcd.com/1228/: xkcd: Prometheus, 2017-10-03 14:10:20.751567
-https://xkcd.com/1227/: xkcd: The Pace of Modern Life, 2017-10-03 14:10:20.759521
-https://xkcd.com/1225/: xkcd: Ice Sheets, 2017-10-03 14:10:20.763289
-https://xkcd.com/1226/: xkcd: Balloon Internet, 2017-10-03 14:10:20.765732
-https://xkcd.com/1224/: xkcd: Council of 300, 2017-10-03 14:10:20.778095
-https://xkcd.com/1223/: xkcd: Dwarf Fortress, 2017-10-03 14:10:20.781797
-https://xkcd.com/1222/: xkcd: Pastime, 2017-10-03 14:10:20.789209
-https://xkcd.com/1221/: xkcd: Nomenclature, 2017-10-03 14:10:20.791855
-https://xkcd.com/1220/: xkcd: Hipsters, 2017-10-03 14:10:20.800858
-https://xkcd.com/1219/: xkcd: Reports, 2017-10-03 14:10:20.809150
-https://xkcd.com/1218/: xkcd: Doors of Durin, 2017-10-03 14:10:20.813326
-https://xkcd.com/1216/: xkcd: Sticks and Stones, 2017-10-03 14:10:20.817019
-https://xkcd.com/1217/: xkcd: Cells, 2017-10-03 14:10:20.820063
-https://xkcd.com/1215/: xkcd: Insight, 2017-10-03 14:10:20.824022
-https://xkcd.com/1214/: xkcd: Geoguessr, 2017-10-03 14:10:20.834697
-https://xkcd.com/1213/: xkcd: Combination Vision Test, 2017-10-03 14:10:20.838969
-https://xkcd.com/1212/: xkcd: Interstellar Memes, 2017-10-03 14:10:20.843603
-https://xkcd.com/1211/: xkcd: Birds and Dinosaurs, 2017-10-03 14:10:20.846491
-https://xkcd.com/1210/: xkcd: I'm So Random, 2017-10-03 14:10:20.850493
-https://xkcd.com/1209/: xkcd: Encoding, 2017-10-03 14:10:20.855960
-https://xkcd.com/1208/: xkcd: Footnote Labyrinths, 2017-10-03 14:10:20.862136
-https://xkcd.com/1206/: xkcd: Einstein, 2017-10-03 14:10:20.868635
-https://xkcd.com/1207/: xkcd: AirAware, 2017-10-03 14:10:20.872610
-https://xkcd.com/1205/: xkcd: Is It Worth the Time?, 2017-10-03 14:10:20.875482
-https://xkcd.com/1204/: xkcd: Detail, 2017-10-03 14:10:20.879421
-https://xkcd.com/1203/: xkcd: Time Machines, 2017-10-03 14:10:20.890879
-https://xkcd.com/1202/: xkcd: Girls and Boys, 2017-10-03 14:10:20.894797
-https://xkcd.com/1201/: xkcd: Integration by Parts, 2017-10-03 14:10:20.898942
-https://xkcd.com/1200/: xkcd: Authorization, 2017-10-03 14:10:20.902499
-https://xkcd.com/1199/: xkcd: Silence, 2017-10-03 14:10:20.906062
-https://xkcd.com/1197/: xkcd: All Adobe Updates, 2017-10-03 14:10:20.918145
-https://xkcd.com/1198/: xkcd: Geologist, 2017-10-03 14:10:20.922868
-https://xkcd.com/1196/: xkcd: Subways, 2017-10-03 14:10:20.926096
-https://xkcd.com/1194/: xkcd: Stratigraphic Record, 2017-10-03 14:10:20.930985
-https://xkcd.com/1195/: xkcd: Flowchart, 2017-10-03 14:10:20.933578
-https://xkcd.com/1193/: xkcd: Externalities, 2017-10-03 14:10:20.937935
-https://xkcd.com/1192/: xkcd: Humming, 2017-10-03 14:10:20.952391
-https://xkcd.com/1191/: xkcd: The Past, 2017-10-03 14:10:20.956797
-https://xkcd.com/1189/: xkcd: Voyager 1, 2017-10-03 14:10:20.961954
-https://xkcd.com/1190/: xkcd: Time, 2017-10-03 14:10:20.964913
-https://xkcd.com/1188/: xkcd: Bonding, 2017-10-03 14:10:20.968497
-https://xkcd.com/1187/: xkcd: Aspect Ratio, 2017-10-03 14:10:20.975208
-https://xkcd.com/1186/: xkcd: Bumblebees, 2017-10-03 14:10:20.985212
-https://xkcd.com/1184/: xkcd: Circumference Formula, 2017-10-03 14:10:20.991620
-https://xkcd.com/1185/: xkcd: Ineffective Sorts, 2017-10-03 14:10:20.996203
-https://xkcd.com/1183/: xkcd: Rose Petals, 2017-10-03 14:10:20.999068
-https://xkcd.com/1182/: xkcd: Rembrandt Photo, 2017-10-03 14:10:21.003157
-https://xkcd.com/1181/: xkcd: PGP, 2017-10-03 14:10:21.009565
-https://xkcd.com/1180/: xkcd: Virus Venn Diagram, 2017-10-03 14:10:21.022944
-https://xkcd.com/1177/: xkcd: Time Robot, 2017-10-03 14:10:21.027841
-https://xkcd.com/1179/: xkcd: ISO 8601, 2017-10-03 14:10:21.030662
-https://xkcd.com/1178/: xkcd: Pickup Artists, 2017-10-03 14:10:21.033866
-https://xkcd.com/1176/: xkcd: Those Not Present, 2017-10-03 14:10:21.038517
-https://xkcd.com/1175/: xkcd: Moving Sidewalks, 2017-10-03 14:10:21.042503
-https://xkcd.com/1174/: xkcd: App, 2017-10-03 14:10:21.056085
-https://xkcd.com/1173/: xkcd: Steroids, 2017-10-03 14:10:21.060595
-https://xkcd.com/1171/: xkcd: Perl Problems, 2017-10-03 14:10:21.064283
-https://xkcd.com/1172/: xkcd: Workflow, 2017-10-03 14:10:21.068308
-https://xkcd.com/1170/: xkcd: Bridge, 2017-10-03 14:10:21.070671
-https://xkcd.com/1169/: xkcd: Expedition, 2017-10-03 14:10:21.080072
-https://xkcd.com/1168/: xkcd: tar, 2017-10-03 14:10:21.084302
-https://xkcd.com/1165/: xkcd: Amazon, 2017-10-03 14:10:21.094508
-https://xkcd.com/1166/: xkcd: Argument, 2017-10-03 14:10:21.097053
-https://xkcd.com/1167/: xkcd: Star Trek into Darkness, 2017-10-03 14:10:21.101241
-https://xkcd.com/1164/: xkcd: Home Alone, 2017-10-03 14:10:21.107331
-https://xkcd.com/1163/: xkcd: Debugger, 2017-10-03 14:10:21.110565
-https://xkcd.com/1162/: xkcd: Log Scale, 2017-10-03 14:10:21.123867
-https://xkcd.com/1161/: xkcd: Hand Sanitizer, 2017-10-03 14:10:21.136106
-https://xkcd.com/1160/: xkcd: Drop Those Pounds, 2017-10-03 14:10:21.140058
-https://xkcd.com/1158/: xkcd: Rubber Sheet, 2017-10-03 14:10:21.143671
-https://xkcd.com/1159/: xkcd: Countdown, 2017-10-03 14:10:21.146958
-https://xkcd.com/1157/: xkcd: Sick Day, 2017-10-03 14:10:21.149913
-https://xkcd.com/1156/: xkcd: Conditioning, 2017-10-03 14:10:21.159670
-https://xkcd.com/1155/: xkcd: Kolmogorov Directions, 2017-10-03 14:10:21.175770
-https://xkcd.com/1154/: xkcd: Resolution, 2017-10-03 14:10:21.184272
-https://xkcd.com/1152/: xkcd: Communion, 2017-10-03 14:10:21.186710
-https://xkcd.com/1153/: xkcd: Proof, 2017-10-03 14:10:21.189858
-https://xkcd.com/1151/: xkcd: Tests, 2017-10-03 14:10:21.194201
-https://xkcd.com/1150/: xkcd: Instagram, 2017-10-03 14:10:21.202046
-https://xkcd.com/1149/: xkcd: Broomstick, 2017-10-03 14:10:21.210558
-https://xkcd.com/1148/: xkcd: Nothing to Offer, 2017-10-03 14:10:21.215682
-https://xkcd.com/1146/: xkcd: Honest, 2017-10-03 14:10:21.218072
-https://xkcd.com/1147/: xkcd: Evolving, 2017-10-03 14:10:21.221863
-https://xkcd.com/1145/: xkcd: Sky Color, 2017-10-03 14:10:21.226352
-https://xkcd.com/1144/: xkcd: Tags, 2017-10-03 14:10:21.234156
-https://xkcd.com/1142/: xkcd: Coverage, 2017-10-03 14:10:21.239850
-https://xkcd.com/1143/: xkcd: Location, 2017-10-03 14:10:21.246491
-https://xkcd.com/1140/: xkcd: Calendar of Meaningful Dates, 2017-10-03 14:10:21.252605
-https://xkcd.com/1141/: xkcd: Two Years, 2017-10-03 14:10:21.257536
-https://xkcd.com/1139/: xkcd: Rubber and Glue, 2017-10-03 14:10:21.266275
-https://xkcd.com/1138/: xkcd: Heatmap, 2017-10-03 14:10:21.277402
-https://xkcd.com/1137/: xkcd: ‮LTR, 2017-10-03 14:10:21.287803
-https://xkcd.com/1136/: xkcd: Broken Mirror, 2017-10-03 14:10:21.296160
-https://xkcd.com/1135/: xkcd: Arachnoneurology, 2017-10-03 14:10:21.300978
-https://xkcd.com/1134/: xkcd: Logic Boat, 2017-10-03 14:10:21.317086
-https://xkcd.com/1133/: xkcd: Up Goer Five, 2017-10-03 14:10:21.319694
-https://xkcd.com/1131/: xkcd: Math, 2017-10-03 14:10:21.332460
-https://xkcd.com/1130/: xkcd: Poll Watching, 2017-10-03 14:10:21.336401
-https://xkcd.com/1132/: xkcd: Frequentists vs. Bayesians, 2017-10-03 14:10:21.339109
-https://xkcd.com/1128/: xkcd: Fifty Shades, 2017-10-03 14:10:21.349994
-https://xkcd.com/1129/: xkcd: Cell Number, 2017-10-03 14:10:21.352389
-https://xkcd.com/1127/: xkcd: Congress, 2017-10-03 14:10:21.366633
-https://xkcd.com/1123/: xkcd: The Universal Label, 2017-10-03 14:10:21.374009
-https://xkcd.com/1126/: xkcd: Epsilon and Zeta, 2017-10-03 14:10:21.384677
-https://xkcd.com/1125/: xkcd: Objects In Mirror, 2017-10-03 14:10:21.387399
-https://xkcd.com/1124/: xkcd: Law of Drama, 2017-10-03 14:10:21.391364
-https://xkcd.com/1122/: xkcd: Electoral Precedent, 2017-10-03 14:10:21.417100
-https://xkcd.com/1121/: xkcd: Identity, 2017-10-03 14:10:21.419683
-https://xkcd.com/1118/: xkcd: Microsoft, 2017-10-03 14:10:21.426596
-https://xkcd.com/1119/: xkcd: Undoing, 2017-10-03 14:10:21.433767
-https://xkcd.com/1120/: xkcd: Blurring the Line, 2017-10-03 14:10:21.436112
-https://xkcd.com/1116/: xkcd: Traffic Lights, 2017-10-03 14:10:21.443864
-https://xkcd.com/1117/: xkcd: My Sky, 2017-10-03 14:10:21.450458
-https://xkcd.com/1113/: xkcd: Killed In Action, 2017-10-03 14:10:21.467121
-https://xkcd.com/1115/: xkcd: Sky, 2017-10-03 14:10:21.469927
-https://xkcd.com/1114/: xkcd: Metallurgy, 2017-10-03 14:10:21.472697
-https://xkcd.com/1112/: xkcd: Think Logically, 2017-10-03 14:10:21.482794
-https://xkcd.com/1111/: xkcd: Premiere, 2017-10-03 14:10:21.486417
-https://xkcd.com/1110/: xkcd: Click and Drag, 2017-10-03 14:10:21.503786
-https://xkcd.com/1108/: xkcd: Cautionary Ghost, 2017-10-03 14:10:21.515434
-https://xkcd.com/1109/: xkcd: Refrigerator, 2017-10-03 14:10:21.518052
-https://xkcd.com/1106/: xkcd: ADD, 2017-10-03 14:10:21.520805
-https://xkcd.com/1107/: xkcd: Sports Cheat Sheet, 2017-10-03 14:10:21.534168
-https://xkcd.com/1105/: xkcd: License Plate, 2017-10-03 14:10:21.536700
-https://xkcd.com/1104/: xkcd: Feathers, 2017-10-03 14:10:21.550141
-https://xkcd.com/1102/: xkcd: Fastest-Growing, 2017-10-03 14:10:21.554003
-https://xkcd.com/1103/: xkcd: Nine, 2017-10-03 14:10:21.559873
-https://xkcd.com/1100/: xkcd: Vows, 2017-10-03 14:10:21.568413
-https://xkcd.com/1101/: xkcd: Sketchiness, 2017-10-03 14:10:21.570802
-https://xkcd.com/1099/: xkcd: Tuesdays, 2017-10-03 14:10:21.583597
-https://xkcd.com/1098/: xkcd: Star Ratings, 2017-10-03 14:10:21.590078
-https://xkcd.com/1097/: xkcd: A Hypochondriac's Nightmare, 2017-10-03 14:10:21.600040
-https://xkcd.com/1095/: xkcd: Crazy Straws, 2017-10-03 14:10:21.603831
-https://xkcd.com/1096/: xkcd: Clinically Studied Ingredient, 2017-10-03 14:10:21.607185
-https://xkcd.com/1094/: xkcd: Interview, 2017-10-03 14:10:21.618290
-https://xkcd.com/1093/: xkcd: Forget, 2017-10-03 14:10:21.628567
-https://xkcd.com/1092/: xkcd: Michael Phelps, 2017-10-03 14:10:21.635701
-https://xkcd.com/1091/: xkcd: Curiosity, 2017-10-03 14:10:21.639334
-https://xkcd.com/1090/: xkcd: Formal Languages, 2017-10-03 14:10:21.647164
-https://xkcd.com/1089/: xkcd: Internal Monologue, 2017-10-03 14:10:21.651745
-https://xkcd.com/1088/: xkcd: Five Years, 2017-10-03 14:10:21.655354
-https://xkcd.com/1087/: xkcd: Cirith Ungol, 2017-10-03 14:10:21.667513
-https://xkcd.com/1086/: xkcd: Eyelash Wish Log, 2017-10-03 14:10:21.674802
-https://xkcd.com/1085/: xkcd: ContextBot, 2017-10-03 14:10:21.683762
-https://xkcd.com/1084/: xkcd: Server Problem, 2017-10-03 14:10:21.688485
-https://xkcd.com/1083/: xkcd: Writing Styles, 2017-10-03 14:10:21.693052
-https://xkcd.com/1082/: xkcd: Geology, 2017-10-03 14:10:21.704134
-https://xkcd.com/1081/: xkcd: Argument Victory, 2017-10-03 14:10:21.713541
-https://xkcd.com/1080/: xkcd: Visual Field, 2017-10-03 14:10:21.718201
-https://xkcd.com/1078/: xkcd: Knights, 2017-10-03 14:10:21.722976
-https://xkcd.com/1079/: xkcd: United Shapes, 2017-10-03 14:10:21.732022
-https://xkcd.com/1077/: xkcd: Home Organization, 2017-10-03 14:10:21.735388
-https://xkcd.com/1075/: xkcd: Warning, 2017-10-03 14:10:21.744219
-https://xkcd.com/1076/: xkcd: Groundhog Day, 2017-10-03 14:10:21.750746
-https://xkcd.com/1073/: xkcd: Weekend, 2017-10-03 14:10:21.755615
-https://xkcd.com/1074/: xkcd: Moon Landing, 2017-10-03 14:10:21.762526
-https://xkcd.com/1072/: xkcd: Seventies, 2017-10-03 14:10:21.767346
-https://xkcd.com/1071/: xkcd: Exoplanets, 2017-10-03 14:10:21.780577
-https://xkcd.com/1070/: xkcd: Words for Small Sets, 2017-10-03 14:10:21.784586
-https://xkcd.com/1068/: xkcd: Swiftkey, 2017-10-03 14:10:21.793423
-https://xkcd.com/1069/: xkcd: Alphabet, 2017-10-03 14:10:21.798932
-https://xkcd.com/1067/: xkcd: Pressures, 2017-10-03 14:10:21.801738
-https://xkcd.com/1066/: xkcd: Laundry, 2017-10-03 14:10:21.836339
-https://xkcd.com/1065/: xkcd: Shoes, 2017-10-03 14:10:21.844678
-https://xkcd.com/1063/: xkcd: Kill Hitler, 2017-10-03 14:10:21.865682
-https://xkcd.com/1064/: xkcd: Front Door, 2017-10-03 14:10:21.870239
-https://xkcd.com/1062/: xkcd: Budget News, 2017-10-03 14:10:21.883150
-https://xkcd.com/1061/: xkcd: EST, 2017-10-03 14:10:21.886629
-https://xkcd.com/1060/: xkcd: Crowdsourcing, 2017-10-03 14:10:21.899859
-https://xkcd.com/1059/: xkcd: Bel-Air, 2017-10-03 14:10:21.903400
-https://xkcd.com/1058/: xkcd: Old-Timers, 2017-10-03 14:10:21.921371
-https://xkcd.com/1056/: xkcd: Felidae, 2017-10-03 14:10:21.937565
-https://xkcd.com/1057/: xkcd: Klout, 2017-10-03 14:10:21.942996
-https://xkcd.com/1055/: xkcd: Kickstarter, 2017-10-03 14:10:21.953753
-https://xkcd.com/1054/: xkcd: The bacon, 2017-10-03 14:10:21.957799
-https://xkcd.com/1051/: xkcd: Visited, 2017-10-03 14:10:21.971122
-https://xkcd.com/1049/: xkcd: Bookshelf, 2017-10-03 14:10:21.983675
-https://xkcd.com/1050/: xkcd: Forgot Algebra, 2017-10-03 14:10:21.989182
-https://xkcd.com/1048/: xkcd: Emotion, 2017-10-03 14:10:21.993928
-https://xkcd.com/1052/: xkcd: Every Major's Terrible, 2017-10-03 14:10:21.997011
-https://xkcd.com/1047/: xkcd: Approximations, 2017-10-03 14:10:22.015499
-https://xkcd.com/1046/: xkcd: Skynet, 2017-10-03 14:10:22.020333
-https://xkcd.com/1045/: xkcd: Constraints, 2017-10-03 14:10:22.024226
-https://xkcd.com/1044/: xkcd: Romney Quiz, 2017-10-03 14:10:22.029588
-https://xkcd.com/1053/: xkcd: Ten Thousand, 2017-10-03 14:10:22.034633
-https://xkcd.com/1043/: xkcd: Ablogalypse, 2017-10-03 14:10:22.039487
-https://xkcd.com/1041/: xkcd: Whites of Their Eyes, 2017-10-03 14:10:22.045817
-https://xkcd.com/1042/: xkcd: Never, 2017-10-03 14:10:22.050807
-https://xkcd.com/1039/: xkcd: RuBisCO, 2017-10-03 14:10:22.055811
-https://xkcd.com/1040/: xkcd: Lakes and Oceans, 2017-10-03 14:10:22.060586
-https://xkcd.com/1038/: xkcd: Fountain, 2017-10-03 14:10:22.064961
-https://xkcd.com/1036/: xkcd: Reviews, 2017-10-03 14:10:22.072377
-https://xkcd.com/1035/: xkcd: Cadbury Eggs, 2017-10-03 14:10:22.077404
-https://xkcd.com/1033/: xkcd: Formal Logic, 2017-10-03 14:10:22.090510
-https://xkcd.com/1034/: xkcd: Share Buttons, 2017-10-03 14:10:22.095427
-https://xkcd.com/1037/: xkcd: Umwelt, 2017-10-03 14:10:22.099230
-https://xkcd.com/1032/: xkcd: Networking, 2017-10-03 14:10:22.105076
-https://xkcd.com/1031/: xkcd: s/keyboard/leopard/, 2017-10-03 14:10:22.108446
-https://xkcd.com/1030/: xkcd: Keyed, 2017-10-03 14:10:22.118510
-https://xkcd.com/1028/: xkcd: Communication, 2017-10-03 14:10:22.127637
-https://xkcd.com/1029/: xkcd: Drawing Stars, 2017-10-03 14:10:22.132815
-https://xkcd.com/1027/: xkcd: Pickup Artist, 2017-10-03 14:10:22.138346
-https://xkcd.com/1026/: xkcd: Compare and Contrast, 2017-10-03 14:10:22.142055
-https://xkcd.com/1025/: xkcd: Tumblr, 2017-10-03 14:10:22.147481
-https://xkcd.com/1024/: xkcd: Error Code, 2017-10-03 14:10:22.152576
-https://xkcd.com/1022/: xkcd: So It Has Come To This, 2017-10-03 14:10:22.171712
-https://xkcd.com/1021/: xkcd: Business Plan, 2017-10-03 14:10:22.177700
-https://xkcd.com/1023/: xkcd: Late-Night PBS, 2017-10-03 14:10:22.182050
-https://xkcd.com/1020/: xkcd: Orion Nebula, 2017-10-03 14:10:22.185778
-https://xkcd.com/1019/: xkcd: First Post, 2017-10-03 14:10:22.192402
-https://xkcd.com/1018/: xkcd: Good Cop, Dadaist Cop, 2017-10-03 14:10:22.202658
-https://xkcd.com/1016/: xkcd: Valentine Dilemma, 2017-10-03 14:10:22.209619
-https://xkcd.com/1017/: xkcd: Backward in Time, 2017-10-03 14:10:22.214728
-https://xkcd.com/1015/: xkcd: Kerning, 2017-10-03 14:10:22.219511
-https://xkcd.com/1014/: xkcd: Car Problems, 2017-10-03 14:10:22.224270
-https://xkcd.com/1013/: xkcd: Wake Up Sheeple, 2017-10-03 14:10:22.227701
-https://xkcd.com/1012/: xkcd: Wrong Superhero, 2017-10-03 14:10:22.240078
-https://xkcd.com/1011/: xkcd: Baby Names, 2017-10-03 14:10:22.245123
-https://xkcd.com/1010/: xkcd: Etymology-Man, 2017-10-03 14:10:22.248732
-https://xkcd.com/1009/: xkcd: Sigh, 2017-10-03 14:10:22.253739
-https://xkcd.com/1008/: xkcd: Suckville, 2017-10-03 14:10:22.258864
-https://xkcd.com/1007/: xkcd: Sustainable, 2017-10-03 14:10:22.263595
-https://xkcd.com/1006/: xkcd: Sloppier Than Fiction, 2017-10-03 14:10:22.277151
-https://xkcd.com/1005/: xkcd: SOPA, 2017-10-03 14:10:22.282437
-https://xkcd.com/1004/: xkcd: Batman, 2017-10-03 14:10:22.287718
-https://xkcd.com/1003/: xkcd: Adam and Eve, 2017-10-03 14:10:22.291258
-https://xkcd.com/1002/: xkcd: Game AIs, 2017-10-03 14:10:22.296747
-https://xkcd.com/1001/: xkcd: AAAAAA, 2017-10-03 14:10:22.302904
-https://xkcd.com/1000/: xkcd: 1000 Comics, 2017-10-03 14:10:22.310990
-https://xkcd.com/998/: xkcd: 2012, 2017-10-03 14:10:22.316336
-https://xkcd.com/999/: xkcd: Cougars, 2017-10-03 14:10:22.324385
-https://xkcd.com/997/: xkcd: Wait Wait, 2017-10-03 14:10:22.329763
-https://xkcd.com/996/: xkcd: Making Things Difficult, 2017-10-03 14:10:22.332892
-https://xkcd.com/995/: xkcd: Coinstar, 2017-10-03 14:10:22.338427
-https://xkcd.com/994/: xkcd: Advent Calendar, 2017-10-03 14:10:22.342015
-https://xkcd.com/993/: xkcd: Brand Identity, 2017-10-03 14:10:22.355269
-https://xkcd.com/992/: xkcd: Mnemonics, 2017-10-03 14:10:22.360798
-https://xkcd.com/991/: xkcd: Phantom Menace, 2017-10-03 14:10:22.364386
-https://xkcd.com/990/: xkcd: Plastic Bags, 2017-10-03 14:10:22.369900
-https://xkcd.com/989/: xkcd: Cryogenics, 2017-10-03 14:10:22.373419
-https://xkcd.com/988/: xkcd: Tradition, 2017-10-03 14:10:22.378314
-https://xkcd.com/986/: xkcd: Drinking Fountains, 2017-10-03 14:10:22.394132
-https://xkcd.com/987/: xkcd: Potential, 2017-10-03 14:10:22.398542
-https://xkcd.com/984/: xkcd: Space Launch System, 2017-10-03 14:10:22.402856
-https://xkcd.com/985/: xkcd: Percentage Points, 2017-10-03 14:10:22.405355
-https://xkcd.com/983/: xkcd: Privacy, 2017-10-03 14:10:22.407973
-https://xkcd.com/978/: xkcd: Citogenesis, 2017-10-03 14:10:22.429633
-https://xkcd.com/979/: xkcd: Wisdom of the Ancients, 2017-10-03 14:10:22.434334
-https://xkcd.com/981/: xkcd: Porn Folder, 2017-10-03 14:10:22.438093
-https://xkcd.com/982/: xkcd: Set Theory, 2017-10-03 14:10:22.443628
-https://xkcd.com/980/: xkcd: Money, 2017-10-03 14:10:22.446812
-https://xkcd.com/977/: xkcd: Map Projections, 2017-10-03 14:10:22.456729
-https://xkcd.com/975/: xkcd: Occulting Telescope, 2017-10-03 14:10:22.465227
-https://xkcd.com/976/: xkcd: Sail, 2017-10-03 14:10:22.469340
-https://xkcd.com/973/: xkcd: MTV Generation, 2017-10-03 14:10:22.473225
-https://xkcd.com/974/: xkcd: The General Problem, 2017-10-03 14:10:22.476007
-https://xkcd.com/972/: xkcd: November, 2017-10-03 14:10:22.485497
-https://xkcd.com/971/: xkcd: Alternative Literature, 2017-10-03 14:10:22.489894
-https://xkcd.com/970/: xkcd: The Important Field, 2017-10-03 14:10:22.493691
-https://xkcd.com/968/: xkcd: Everything, 2017-10-03 14:10:22.497708
-https://xkcd.com/969/: xkcd: Delta-P, 2017-10-03 14:10:22.501139
-https://xkcd.com/967/: xkcd: Prairie, 2017-10-03 14:10:22.510281
-https://xkcd.com/966/: xkcd: Jet Fuel, 2017-10-03 14:10:22.514469
-https://xkcd.com/964/: xkcd: Dorm Poster, 2017-10-03 14:10:22.519652
-https://xkcd.com/965/: xkcd: Elements, 2017-10-03 14:10:22.522999
-https://xkcd.com/963/: xkcd: X11, 2017-10-03 14:10:22.527725
-https://xkcd.com/962/: xkcd: The Corliss Resolution, 2017-10-03 14:10:22.531847
-https://xkcd.com/961/: xkcd: Eternal Flame, 2017-10-03 14:10:22.535464
-https://xkcd.com/960/: xkcd: Subliminal, 2017-10-03 14:10:22.541531
-https://xkcd.com/959/: xkcd: Caroling, 2017-10-03 14:10:22.545725
-https://xkcd.com/958/: xkcd: Hotels, 2017-10-03 14:10:22.550032
-https://xkcd.com/957/: xkcd: Development, 2017-10-03 14:10:22.554136
-https://xkcd.com/956/: xkcd: Sharing, 2017-10-03 14:10:22.558306
-https://xkcd.com/955/: xkcd: Neutrinos, 2017-10-03 14:10:22.564466
-https://xkcd.com/954/: xkcd: Chin-Up Bar, 2017-10-03 14:10:22.572192
-https://xkcd.com/953/: xkcd: 1 to 10, 2017-10-03 14:10:22.577088
-https://xkcd.com/952/: xkcd: Stud Finder, 2017-10-03 14:10:22.580695
-https://xkcd.com/951/: xkcd: Working, 2017-10-03 14:10:22.585865
-https://xkcd.com/950/: xkcd: Mystery Solved, 2017-10-03 14:10:22.590702
-https://xkcd.com/949/: xkcd: File Transfer, 2017-10-03 14:10:22.602773
-https://xkcd.com/948/: xkcd: AI, 2017-10-03 14:10:22.607584
-https://xkcd.com/947/: xkcd: Investing, 2017-10-03 14:10:22.610903
-https://xkcd.com/946/: xkcd: Family Decals, 2017-10-03 14:10:22.616151
-https://xkcd.com/945/: xkcd: I'm Sorry, 2017-10-03 14:10:22.619431
-https://xkcd.com/944/: xkcd: Hurricane Names, 2017-10-03 14:10:22.630734
-https://xkcd.com/942/: xkcd: Juggling, 2017-10-03 14:10:22.635395
-https://xkcd.com/943/: xkcd: Empirical, 2017-10-03 14:10:22.640187
-https://xkcd.com/940/: xkcd: Oversight, 2017-10-03 14:10:22.644511
-https://xkcd.com/941/: xkcd: Depth Perception, 2017-10-03 14:10:22.647019
-https://xkcd.com/939/: xkcd: Arrow, 2017-10-03 14:10:22.656501
-https://xkcd.com/938/: xkcd: T-Cells, 2017-10-03 14:10:22.661568
-https://xkcd.com/937/: xkcd: TornadoGuard, 2017-10-03 14:10:22.668274
-https://xkcd.com/935/: xkcd: Missed Connections, 2017-10-03 14:10:22.672990
-https://xkcd.com/936/: xkcd: Password Strength, 2017-10-03 14:10:22.679809
-https://xkcd.com/934/: xkcd: Mac/PC, 2017-10-03 14:10:22.684456
-https://xkcd.com/933/: xkcd: Tattoo, 2017-10-03 14:10:22.689184
-https://xkcd.com/932/: xkcd: CIA, 2017-10-03 14:10:22.695556
-https://xkcd.com/931/: xkcd: Lanes, 2017-10-03 14:10:22.699956
-https://xkcd.com/930/: xkcd: Days of the Week, 2017-10-03 14:10:22.708525
-https://xkcd.com/928/: xkcd: Mimic Octopus, 2017-10-03 14:10:22.713467
-https://xkcd.com/929/: xkcd: Speculation, 2017-10-03 14:10:22.718260
-https://xkcd.com/927/: xkcd: Standards, 2017-10-03 14:10:22.722954
-https://xkcd.com/926/: xkcd: Time Vulture, 2017-10-03 14:10:22.727760
-https://xkcd.com/925/: xkcd: Cell Phones, 2017-10-03 14:10:22.734434
-https://xkcd.com/924/: xkcd: 3D Printer, 2017-10-03 14:10:22.740249
-https://xkcd.com/923/: xkcd: Strunk and White, 2017-10-03 14:10:22.748001
-https://xkcd.com/921/: xkcd: Delivery Notification, 2017-10-03 14:10:22.752859
-https://xkcd.com/922/: xkcd: Fight Club, 2017-10-03 14:10:22.757564
-https://xkcd.com/920/: xkcd: YouTube Parties, 2017-10-03 14:10:22.760583
-https://xkcd.com/919/: xkcd: Tween Bromance, 2017-10-03 14:10:22.765342
-https://xkcd.com/917/: xkcd: Hofstadter, 2017-10-03 14:10:22.773478
-https://xkcd.com/918/: xkcd: Google+, 2017-10-03 14:10:22.778382
-https://xkcd.com/916/: xkcd: Unpickable, 2017-10-03 14:10:22.783381
-https://xkcd.com/915/: xkcd: Connoisseur, 2017-10-03 14:10:22.788053
-https://xkcd.com/914/: xkcd: Ice, 2017-10-03 14:10:22.792804
-https://xkcd.com/913/: xkcd: Core, 2017-10-03 14:10:22.797214
-https://xkcd.com/912/: xkcd: Manual Override, 2017-10-03 14:10:22.801511
-https://xkcd.com/911/: xkcd: Magic School Bus, 2017-10-03 14:10:22.807472
-https://xkcd.com/910/: xkcd: Permanence, 2017-10-03 14:10:22.812403
-https://xkcd.com/909/: xkcd: Worst-Case Shopping, 2017-10-03 14:10:22.817275
-https://xkcd.com/908/: xkcd: The Cloud, 2017-10-03 14:10:22.821782
-https://xkcd.com/907/: xkcd: Ages, 2017-10-03 14:10:22.826250
-https://xkcd.com/906/: xkcd: Advertising Discovery, 2017-10-03 14:10:22.835699
-https://xkcd.com/905/: xkcd: Homeownership, 2017-10-03 14:10:22.840578
-https://xkcd.com/904/: xkcd: Sports, 2017-10-03 14:10:22.845525
-https://xkcd.com/903/: xkcd: Extended Mind, 2017-10-03 14:10:22.849166
-https://xkcd.com/902/: xkcd: Darmok and Jalad, 2017-10-03 14:10:22.854345
-https://xkcd.com/901/: xkcd: Temperature, 2017-10-03 14:10:22.863456
-https://xkcd.com/900/: xkcd: Religions, 2017-10-03 14:10:22.871213
-https://xkcd.com/898/: xkcd: Chain of Command, 2017-10-03 14:10:22.876400
-https://xkcd.com/899/: xkcd: Number Line, 2017-10-03 14:10:22.879977
-https://xkcd.com/897/: xkcd: Elevator Inspection, 2017-10-03 14:10:22.883196
-https://xkcd.com/896/: xkcd: Marie Curie, 2017-10-03 14:10:22.888888
-https://xkcd.com/895/: xkcd: Teaching Physics, 2017-10-03 14:10:22.898661
-https://xkcd.com/892/: xkcd: Null Hypothesis, 2017-10-03 14:10:22.905458
-https://xkcd.com/894/: xkcd: Progeny, 2017-10-03 14:10:22.910442
-https://xkcd.com/893/: xkcd: 65 Years, 2017-10-03 14:10:22.913916
-https://xkcd.com/891/: xkcd: Movie Ages, 2017-10-03 14:10:22.919453
-https://xkcd.com/890/: xkcd: Etymology, 2017-10-03 14:10:22.924404
-https://xkcd.com/889/: xkcd: Turtles, 2017-10-03 14:10:22.928794
-https://xkcd.com/886/: xkcd: Craigslist Apartments, 2017-10-03 14:10:22.942483
-https://xkcd.com/888/: xkcd: Heaven, 2017-10-03 14:10:22.946024
-https://xkcd.com/884/: xkcd: Rogers St., 2017-10-03 14:10:22.951736
-https://xkcd.com/885/: xkcd: Recycling, 2017-10-03 14:10:22.956162
-https://xkcd.com/887/: xkcd: Future Timeline, 2017-10-03 14:10:22.961172
-https://xkcd.com/882/: xkcd: Significant, 2017-10-03 14:10:22.966548
-https://xkcd.com/883/: xkcd: Pain Rating, 2017-10-03 14:10:22.970758
-https://xkcd.com/881/: xkcd: Probability, 2017-10-03 14:10:22.975038
-https://xkcd.com/880/: xkcd: Headache, 2017-10-03 14:10:22.979346
-https://xkcd.com/879/: xkcd: Lamp, 2017-10-03 14:10:22.983623
-https://xkcd.com/878/: xkcd: Model Rail, 2017-10-03 14:10:22.993526
-https://xkcd.com/877/: xkcd: Beauty, 2017-10-03 14:10:22.998353
-https://xkcd.com/876/: xkcd: Trapped, 2017-10-03 14:10:23.002589
-https://xkcd.com/875/: xkcd: 2009 Called, 2017-10-03 14:10:23.007006
-https://xkcd.com/874/: xkcd: Time Management, 2017-10-03 14:10:23.011197
-https://xkcd.com/873/: xkcd: FPS Mod, 2017-10-03 14:10:23.019231
-https://xkcd.com/872/: xkcd: Fairy Tales, 2017-10-03 14:10:23.023633
-https://xkcd.com/871/: xkcd: Charity, 2017-10-03 14:10:23.028083
-https://xkcd.com/870/: xkcd: Advertising, 2017-10-03 14:10:23.041940
-https://xkcd.com/869/: xkcd: Server Attention Span, 2017-10-03 14:10:23.046313
-https://xkcd.com/868/: xkcd: Nolan Chart, 2017-10-03 14:10:23.049529
-https://xkcd.com/867/: xkcd: Herpetology, 2017-10-03 14:10:23.054191
-https://xkcd.com/866/: xkcd: Compass and Straightedge, 2017-10-03 14:10:23.058071
-https://xkcd.com/865/: xkcd: Nanobots, 2017-10-03 14:10:23.092940
-https://xkcd.com/862/: xkcd: Let Go, 2017-10-03 14:10:23.100711
-https://xkcd.com/864/: xkcd: Flying Cars, 2017-10-03 14:10:23.105629
-https://xkcd.com/863/: xkcd: Major in the Universe, 2017-10-03 14:10:23.109096
-https://xkcd.com/861/: xkcd: Wisdom Teeth, 2017-10-03 14:10:23.112912
-https://xkcd.com/860/: xkcd: Never Do This, 2017-10-03 14:10:23.118326
-https://xkcd.com/859/: xkcd: (, 2017-10-03 14:10:23.132989
-https://xkcd.com/857/: xkcd: Archimedes, 2017-10-03 14:10:23.143447
-https://xkcd.com/858/: xkcd: Milk, 2017-10-03 14:10:23.146156
-https://xkcd.com/856/: xkcd: Trochee Fixation, 2017-10-03 14:10:23.150020
-https://xkcd.com/855/: xkcd: 1999, 2017-10-03 14:10:23.152974
-https://xkcd.com/854/: xkcd: Learning to Cook, 2017-10-03 14:10:23.156983
-https://xkcd.com/852/: xkcd: Local g, 2017-10-03 14:10:23.175177
-https://xkcd.com/853/: xkcd: Consecutive Vowels, 2017-10-03 14:10:23.180662
-https://xkcd.com/851/: xkcd: Na, 2017-10-03 14:10:23.182986
-https://xkcd.com/850/: xkcd: World According to Americans, 2017-10-03 14:10:23.186836
-https://xkcd.com/849/: xkcd: Complex Conjugate, 2017-10-03 14:10:23.189414
-https://xkcd.com/848/: xkcd: 3D, 2017-10-03 14:10:23.202922
-https://xkcd.com/845/: xkcd: Modern History, 2017-10-03 14:10:23.210593
-https://xkcd.com/846/: xkcd: Dental Nerve, 2017-10-03 14:10:23.215483
-https://xkcd.com/847/: xkcd: Stingray Nebula, 2017-10-03 14:10:23.218533
-https://xkcd.com/844/: xkcd: Good Code, 2017-10-03 14:10:23.222596
-https://xkcd.com/843/: xkcd: Misconceptions, 2017-10-03 14:10:23.226630
-https://xkcd.com/842/: xkcd: Mark, 2017-10-03 14:10:23.245406
-https://xkcd.com/841/: xkcd: Audiophiles, 2017-10-03 14:10:23.250363
-https://xkcd.com/840/: xkcd: Serious, 2017-10-03 14:10:23.253626
-https://xkcd.com/839/: xkcd: Explorers, 2017-10-03 14:10:23.256356
-https://xkcd.com/838/: xkcd: Incident, 2017-10-03 14:10:23.260620
-https://xkcd.com/837/: xkcd: Coupon Code, 2017-10-03 14:10:23.279040
-https://xkcd.com/833/: xkcd: Convincing, 2017-10-03 14:10:23.284988
-https://xkcd.com/835/: xkcd: Tree, 2017-10-03 14:10:23.288670
-https://xkcd.com/836/: xkcd: Sickness, 2017-10-03 14:10:23.291149
-https://xkcd.com/834/: xkcd: Wikileaks, 2017-10-03 14:10:23.294428
-https://xkcd.com/832/: xkcd: Tic-Tac-Toe, 2017-10-03 14:10:23.304276
-https://xkcd.com/831/: xkcd: Weather Radar, 2017-10-03 14:10:23.310451
-https://xkcd.com/829/: xkcd: Arsenic-Based Life, 2017-10-03 14:10:23.318304
-https://xkcd.com/830/: xkcd: Genetic Analysis, 2017-10-03 14:10:23.322212
-https://xkcd.com/828/: xkcd: Positive Attitude, 2017-10-03 14:10:23.325896
-https://xkcd.com/827/: xkcd: My Business Idea, 2017-10-03 14:10:23.329497
-https://xkcd.com/826/: xkcd: Guest Week: Zach Weiner (SMBC), 2017-10-03 14:10:23.333976
-https://xkcd.com/825/: xkcd: Guest Week: Jeffrey Rowland (Overcompensating), 2017-10-03 14:10:23.337373
-https://xkcd.com/823/: xkcd: Guest Week: David Troupes (Buttercup Festival), 2017-10-03 14:10:23.349058
-https://xkcd.com/824/: xkcd: Guest Week: Bill Amend (FoxTrot), 2017-10-03 14:10:23.352775
-https://xkcd.com/822/: xkcd: Guest Week: Jeph Jacques (Questionable Content), 2017-10-03 14:10:23.356556
-https://xkcd.com/821/: xkcd: Five-Minute Comics: Part 3, 2017-10-03 14:10:23.359131
-https://xkcd.com/820/: xkcd: Five-Minute Comics: Part 2, 2017-10-03 14:10:23.365050
-https://xkcd.com/819/: xkcd: Five-Minute Comics: Part 1, 2017-10-03 14:10:23.370611
-https://xkcd.com/818/: xkcd: Illness, 2017-10-03 14:10:23.379007
-https://xkcd.com/816/: xkcd: Applied Math, 2017-10-03 14:10:23.383210
-https://xkcd.com/817/: xkcd: Mutual, 2017-10-03 14:10:23.385734
-https://xkcd.com/815/: xkcd: Mu, 2017-10-03 14:10:23.389728
-https://xkcd.com/814/: xkcd: Diode, 2017-10-03 14:10:23.393243
-https://xkcd.com/813/: xkcd: One-Liners, 2017-10-03 14:10:23.407425
-https://xkcd.com/811/: xkcd: Starlight, 2017-10-03 14:10:23.411534
-https://xkcd.com/812/: xkcd: Glass, 2017-10-03 14:10:23.414286
-https://xkcd.com/809/: xkcd: Los Alamos, 2017-10-03 14:10:23.418230
-https://xkcd.com/810/: xkcd: Constructive, 2017-10-03 14:10:23.420683
-https://xkcd.com/808/: xkcd: The Economic Argument, 2017-10-03 14:10:23.441355
-https://xkcd.com/805/: xkcd: Paradise City, 2017-10-03 14:10:23.449560
-https://xkcd.com/806/: xkcd: Tech Support, 2017-10-03 14:10:23.452432
-https://xkcd.com/807/: xkcd: Connected, 2017-10-03 14:10:23.455080
-https://xkcd.com/804/: xkcd: Pumpkin Carving, 2017-10-03 14:10:23.458984
-https://xkcd.com/803/: xkcd: Airfoil, 2017-10-03 14:10:23.472622
-https://xkcd.com/801/: xkcd: Golden Hammer, 2017-10-03 14:10:23.477279
-https://xkcd.com/802/: xkcd: Online Communities 2, 2017-10-03 14:10:23.480915
-https://xkcd.com/799/: xkcd: Stephen Hawking, 2017-10-03 14:10:23.484498
-https://xkcd.com/800/: xkcd: Beautiful Dream, 2017-10-03 14:10:23.487802
-https://xkcd.com/798/: xkcd: Adjectives, 2017-10-03 14:10:23.492648
-https://xkcd.com/796/: xkcd: Bad Ex, 2017-10-03 14:10:23.503766
-https://xkcd.com/797/: xkcd: debian-main, 2017-10-03 14:10:23.507959
-https://xkcd.com/794/: xkcd: Inside Joke, 2017-10-03 14:10:23.511772
-https://xkcd.com/795/: xkcd: Conditional Risk, 2017-10-03 14:10:23.515742
-https://xkcd.com/793/: xkcd: Physicists, 2017-10-03 14:10:23.518983
-https://xkcd.com/792/: xkcd: Password Reuse, 2017-10-03 14:10:23.523437
-https://xkcd.com/791/: xkcd: Leaving, 2017-10-03 14:10:23.530145
-https://xkcd.com/788/: xkcd: The Carriage, 2017-10-03 14:10:23.539478
-https://xkcd.com/789/: xkcd: Showdown, 2017-10-03 14:10:23.543314
-https://xkcd.com/790/: xkcd: Control, 2017-10-03 14:10:23.547015
-https://xkcd.com/787/: xkcd: Orbiter, 2017-10-03 14:10:23.549708
-https://xkcd.com/786/: xkcd: Exoplanets, 2017-10-03 14:10:23.564854
-https://xkcd.com/785/: xkcd: Open Mic Night, 2017-10-03 14:10:23.568893
-https://xkcd.com/782/: xkcd: Desecration, 2017-10-03 14:10:23.573015
-https://xkcd.com/783/: xkcd: I Don't Want Directions, 2017-10-03 14:10:23.575587
-https://xkcd.com/784/: xkcd: Falling Asleep, 2017-10-03 14:10:23.579055
-https://xkcd.com/781/: xkcd: Ahead Stop, 2017-10-03 14:10:23.586582
-https://xkcd.com/780/: xkcd: Sample, 2017-10-03 14:10:23.593882
-https://xkcd.com/779/: xkcd: Anxiety, 2017-10-03 14:10:23.598064
-https://xkcd.com/777/: xkcd: Pore Strips, 2017-10-03 14:10:23.601833
-https://xkcd.com/778/: xkcd: Scheduling, 2017-10-03 14:10:23.604382
-https://xkcd.com/775/: xkcd: Savannah Ancestry, 2017-10-03 14:10:23.616829
-https://xkcd.com/776/: xkcd: Still No Sleep, 2017-10-03 14:10:23.620193
-https://xkcd.com/773/: xkcd: University Website, 2017-10-03 14:10:23.629909
-https://xkcd.com/774/: xkcd: Atheists, 2017-10-03 14:10:23.633220
-https://xkcd.com/772/: xkcd: Frogger, 2017-10-03 14:10:23.637890
-https://xkcd.com/771/: xkcd: Period Speech, 2017-10-03 14:10:23.641931
-https://xkcd.com/770/: xkcd: All the Girls, 2017-10-03 14:10:23.644592
-https://xkcd.com/768/: xkcd: 1996, 2017-10-03 14:10:23.657061
-https://xkcd.com/767/: xkcd: Temper, 2017-10-03 14:10:23.661339
-https://xkcd.com/769/: xkcd: War, 2017-10-03 14:10:23.664555
-https://xkcd.com/765/: xkcd: Dilution, 2017-10-03 14:10:23.670738
-https://xkcd.com/766/: xkcd: Green Flash, 2017-10-03 14:10:23.673342
-https://xkcd.com/764/: xkcd: One Two, 2017-10-03 14:10:23.688218
-https://xkcd.com/761/: xkcd: DFS, 2017-10-03 14:10:23.721395
-https://xkcd.com/763/: xkcd: Workaround, 2017-10-03 14:10:23.725807
-https://xkcd.com/760/: xkcd: Moria, 2017-10-03 14:10:23.728543
-https://xkcd.com/759/: xkcd: 3x9, 2017-10-03 14:10:23.731548
-https://xkcd.com/762/: xkcd: Analogies, 2017-10-03 14:10:23.735855
-https://xkcd.com/757/: xkcd: Toot, 2017-10-03 14:10:23.757449
-https://xkcd.com/758/: xkcd: Raptor Fences, 2017-10-03 14:10:23.761526
-https://xkcd.com/756/: xkcd: Public Opinion, 2017-10-03 14:10:23.764211
-https://xkcd.com/755/: xkcd: Interdisciplinary, 2017-10-03 14:10:23.766782
-https://xkcd.com/754/: xkcd: Dependencies, 2017-10-03 14:10:23.770661
-https://xkcd.com/753/: xkcd: Southern Half, 2017-10-03 14:10:23.787072
-https://xkcd.com/751/: xkcd: Swimsuit Issue, 2017-10-03 14:10:23.793344
-https://xkcd.com/749/: xkcd: Study, 2017-10-03 14:10:23.797054
-https://xkcd.com/752/: xkcd: Phobia, 2017-10-03 14:10:23.799862
-https://xkcd.com/750/: xkcd: Book Burning, 2017-10-03 14:10:23.803239
-https://xkcd.com/748/: xkcd: Worst-Case Scenario, 2017-10-03 14:10:23.808999
-https://xkcd.com/747/: xkcd: Geeks and Nerds, 2017-10-03 14:10:23.817669
-https://xkcd.com/745/: xkcd: Dyslexics, 2017-10-03 14:10:23.822507
-https://xkcd.com/746/: xkcd: Birth, 2017-10-03 14:10:23.826414
-https://xkcd.com/744/: xkcd: Walkthrough, 2017-10-03 14:10:23.829036
-https://xkcd.com/743/: xkcd: Infrastructures, 2017-10-03 14:10:23.832922
-https://xkcd.com/742/: xkcd: Campfire, 2017-10-03 14:10:23.840822
-https://xkcd.com/741/: xkcd: Blogging, 2017-10-03 14:10:23.848806
-https://xkcd.com/739/: xkcd: Malamanteau, 2017-10-03 14:10:23.859365
-https://xkcd.com/738/: xkcd: Incision, 2017-10-03 14:10:23.863089
-https://xkcd.com/740/: xkcd: The Tell-Tale Beat, 2017-10-03 14:10:23.865981
-https://xkcd.com/737/: xkcd: Yogurt, 2017-10-03 14:10:23.869871
-https://xkcd.com/736/: xkcd: Cemetery, 2017-10-03 14:10:23.877019
-https://xkcd.com/735/: xkcd: Floor, 2017-10-03 14:10:23.883263
-https://xkcd.com/732/: xkcd: HDTV, 2017-10-03 14:10:23.889614
-https://xkcd.com/733/: xkcd: Eagle, 2017-10-03 14:10:23.892662
-https://xkcd.com/734/: xkcd: Outbreak, 2017-10-03 14:10:23.895582
-https://xkcd.com/731/: xkcd: Desert Island, 2017-10-03 14:10:23.901071
-https://xkcd.com/730/: xkcd: Circuit Diagram, 2017-10-03 14:10:23.905054
-https://xkcd.com/729/: xkcd: Laser Pointer, 2017-10-03 14:10:23.909398
-https://xkcd.com/727/: xkcd: Trade Expert, 2017-10-03 14:10:23.918866
-https://xkcd.com/728/: xkcd: iPad, 2017-10-03 14:10:23.922615
-https://xkcd.com/725/: xkcd: Literally, 2017-10-03 14:10:23.926545
-https://xkcd.com/726/: xkcd: Seat Selection, 2017-10-03 14:10:23.929930
-https://xkcd.com/724/: xkcd: Hell, 2017-10-03 14:10:23.933261
-https://xkcd.com/723/: xkcd: Seismic Waves, 2017-10-03 14:10:23.942424
-https://xkcd.com/722/: xkcd: Computer Problems, 2017-10-03 14:10:23.946777
-https://xkcd.com/721/: xkcd: Flatland, 2017-10-03 14:10:23.949654
-https://xkcd.com/719/: xkcd: Brain Worms, 2017-10-03 14:10:23.953566
-https://xkcd.com/720/: xkcd: Recipes, 2017-10-03 14:10:23.957262
-https://xkcd.com/718/: xkcd: The Flake Equation, 2017-10-03 14:10:23.962563
-https://xkcd.com/717/: xkcd: Furtive, 2017-10-03 14:10:23.968305
-https://xkcd.com/716/: xkcd: Time Machine, 2017-10-03 14:10:23.972046
-https://xkcd.com/714/: xkcd: Porn For Women, 2017-10-03 14:10:23.976607
-https://xkcd.com/715/: xkcd: Numbers, 2017-10-03 14:10:23.983318
-https://xkcd.com/713/: xkcd: GeoIP, 2017-10-03 14:10:23.986621
-https://xkcd.com/712/: xkcd: Single Ladies, 2017-10-03 14:10:23.990286
-https://xkcd.com/710/: xkcd: Collatz Conjecture, 2017-10-03 14:10:23.998219
-https://xkcd.com/711/: xkcd: Seismograph, 2017-10-03 14:10:24.001337
-https://xkcd.com/708/: xkcd: Sex Dice, 2017-10-03 14:10:24.008479
-https://xkcd.com/709/: xkcd: I Am, 2017-10-03 14:10:24.012131
-https://xkcd.com/707/: xkcd: Joshing, 2017-10-03 14:10:24.015745
-https://xkcd.com/706/: xkcd: Freedom, 2017-10-03 14:10:24.020788
-https://xkcd.com/705/: xkcd: Devotion to Duty, 2017-10-03 14:10:24.024119
-https://xkcd.com/704/: xkcd: Principle of Explosion, 2017-10-03 14:10:24.035954
-https://xkcd.com/702/: xkcd: Snow Tracking, 2017-10-03 14:10:24.039977
-https://xkcd.com/703/: xkcd: Honor Societies, 2017-10-03 14:10:24.042769
-https://xkcd.com/701/: xkcd: Science Valentine, 2017-10-03 14:10:24.046523
-https://xkcd.com/700/: xkcd: Complexion, 2017-10-03 14:10:24.050255
-https://xkcd.com/699/: xkcd: Trimester, 2017-10-03 14:10:24.064477
-https://xkcd.com/697/: xkcd: Tensile vs. Shear Strength, 2017-10-03 14:10:24.070560
-https://xkcd.com/695/: xkcd: Spirit, 2017-10-03 14:10:24.074411
-https://xkcd.com/696/: xkcd: Strip Games, 2017-10-03 14:10:24.078302
-https://xkcd.com/698/: xkcd: You Hang Up First, 2017-10-03 14:10:24.082009
-https://xkcd.com/694/: xkcd: Retro Virus, 2017-10-03 14:10:24.085477
-https://xkcd.com/692/: xkcd: Dirty Harry, 2017-10-03 14:10:24.101013
-https://xkcd.com/693/: xkcd: Children's Fantasy, 2017-10-03 14:10:24.105874
-https://xkcd.com/691/: xkcd: MicroSD, 2017-10-03 14:10:24.108687
-https://xkcd.com/689/: xkcd: FIRST Design, 2017-10-03 14:10:24.111245
-https://xkcd.com/690/: xkcd: Semicontrolled Demolition, 2017-10-03 14:10:24.113620
-https://xkcd.com/688/: xkcd: Self-Description, 2017-10-03 14:10:24.124151
-https://xkcd.com/686/: xkcd: Admin Mourning, 2017-10-03 14:10:24.132874
-https://xkcd.com/687/: xkcd: Dimensional Analysis, 2017-10-03 14:10:24.137617
-https://xkcd.com/684/: xkcd: We Get It, 2017-10-03 14:10:24.141061
-https://xkcd.com/685/: xkcd: G-Spot, 2017-10-03 14:10:24.144440
-https://xkcd.com/683/: xkcd: Science Montage, 2017-10-03 14:10:24.147905
-https://xkcd.com/682/: xkcd: Force, 2017-10-03 14:10:24.152877
-https://xkcd.com/680/: xkcd: December 25th, 2017-10-03 14:10:24.169578
-https://xkcd.com/681/: xkcd: Gravity Wells, 2017-10-03 14:10:24.174486
-https://xkcd.com/678/: xkcd: Researcher Translation, 2017-10-03 14:10:24.180204
-https://xkcd.com/679/: xkcd: Christmas Plans, 2017-10-03 14:10:24.182510
-https://xkcd.com/677/: xkcd: Asshole, 2017-10-03 14:10:24.184920
-https://xkcd.com/676/: xkcd: Abstraction, 2017-10-03 14:10:24.195976
-https://xkcd.com/675/: xkcd: Revolutionary, 2017-10-03 14:10:24.204098
-https://xkcd.com/672/: xkcd: Suggestions, 2017-10-03 14:10:24.208815
-https://xkcd.com/673/: xkcd: The Sun, 2017-10-03 14:10:24.211323
-https://xkcd.com/674/: xkcd: Natural Parenting, 2017-10-03 14:10:24.213884
-https://xkcd.com/671/: xkcd: Stephen and Me, 2017-10-03 14:10:24.219360
-https://xkcd.com/670/: xkcd: Spinal Tap Amps, 2017-10-03 14:10:24.232490
-https://xkcd.com/666/: xkcd: Silent Hammer, 2017-10-03 14:10:24.242263
-https://xkcd.com/668/: xkcd: Pandora, 2017-10-03 14:10:24.246608
-https://xkcd.com/667/: xkcd: SkiFree, 2017-10-03 14:10:24.249898
-https://xkcd.com/669/: xkcd: Experiment, 2017-10-03 14:10:24.253656
-https://xkcd.com/665/: xkcd: Prudence, 2017-10-03 14:10:24.258950
-https://xkcd.com/664/: xkcd: Academia vs. Business, 2017-10-03 14:10:24.305116
-https://xkcd.com/663/: xkcd: Sagan-Man, 2017-10-03 14:10:24.309490
-https://xkcd.com/661/: xkcd: Two-Party System, 2017-10-03 14:10:24.312181
-https://xkcd.com/662/: xkcd: iPhone or Droid, 2017-10-03 14:10:24.314677
-https://xkcd.com/660/: xkcd: Sympathy, 2017-10-03 14:10:24.316975
-https://xkcd.com/659/: xkcd: Lego, 2017-10-03 14:10:24.404028
-https://xkcd.com/657/: xkcd: Movie Narrative Charts, 2017-10-03 14:10:24.407841
-https://xkcd.com/655/: xkcd: Climbing, 2017-10-03 14:10:24.410381
-https://xkcd.com/656/: xkcd: October 30th, 2017-10-03 14:10:24.414307
-https://xkcd.com/658/: xkcd: Orbitals, 2017-10-03 14:10:24.416577
-https://xkcd.com/654/: xkcd: Nachos, 2017-10-03 14:10:24.449679
-https://xkcd.com/650/: xkcd: Nowhere, 2017-10-03 14:10:24.454166
-https://xkcd.com/652/: xkcd: More Accurate, 2017-10-03 14:10:24.458425
-https://xkcd.com/651/: xkcd: Bag Check, 2017-10-03 14:10:24.460922
-https://xkcd.com/653/: xkcd: So Bad It's Worse, 2017-10-03 14:10:24.464019
-https://xkcd.com/649/: xkcd: Static, 2017-10-03 14:10:24.496609
-https://xkcd.com/648/: xkcd: Fall Foliage, 2017-10-03 14:10:24.500721
-https://xkcd.com/647/: xkcd: Scary, 2017-10-03 14:10:24.503666
-https://xkcd.com/646/: xkcd: Conversations, 2017-10-03 14:10:24.506422
-https://xkcd.com/645/: xkcd: RPS, 2017-10-03 14:10:24.510066
-https://xkcd.com/644/: xkcd: Surgery, 2017-10-03 14:10:24.609831
-https://xkcd.com/642/: xkcd: Creepy, 2017-10-03 14:10:24.680522
-https://xkcd.com/641/: xkcd: Free, 2017-10-03 14:10:24.685322
-https://xkcd.com/640/: xkcd: Tornado Hunter, 2017-10-03 14:10:24.688369
-https://xkcd.com/643/: xkcd: Ohm, 2017-10-03 14:10:24.691270
-https://xkcd.com/639/: xkcd: Lincoln-Douglas, 2017-10-03 14:10:24.694196
-https://xkcd.com/635/: xkcd: Locke and Demosthenes, 2017-10-03 14:10:24.729542
-https://xkcd.com/637/: xkcd: Scribblenauts, 2017-10-03 14:10:24.733591
-https://xkcd.com/634/: xkcd: Date, 2017-10-03 14:10:24.742742
-https://xkcd.com/638/: xkcd: The Search, 2017-10-03 14:10:24.746638
-https://xkcd.com/636/: xkcd: Brontosaurus, 2017-10-03 14:10:24.749484
-https://xkcd.com/632/: xkcd: Suspicion, 2017-10-03 14:10:24.755751
-https://xkcd.com/633/: xkcd: Blockbuster Mining, 2017-10-03 14:10:24.758164
-https://xkcd.com/631/: xkcd: Anatomy Text, 2017-10-03 14:10:24.769742
-https://xkcd.com/630/: xkcd: Time Travel, 2017-10-03 14:10:24.780963
-https://xkcd.com/627/: xkcd: Tech Support Cheat Sheet, 2017-10-03 14:10:24.784964
-https://xkcd.com/628/: xkcd: Psychic, 2017-10-03 14:10:24.787743
-https://xkcd.com/626/: xkcd: Newton and Leibniz, 2017-10-03 14:10:24.792178
-https://xkcd.com/629/: xkcd: Skins, 2017-10-03 14:10:24.795451
-https://xkcd.com/623/: xkcd: Oregon, 2017-10-03 14:10:24.809622
-https://xkcd.com/624/: xkcd: Branding, 2017-10-03 14:10:24.813624
-https://xkcd.com/625/: xkcd: Collections, 2017-10-03 14:10:24.818477
-https://xkcd.com/622/: xkcd: Haiku Proof, 2017-10-03 14:10:24.821058
-https://xkcd.com/621/: xkcd: Superlative, 2017-10-03 14:10:24.832142
-https://xkcd.com/620/: xkcd: Wings, 2017-10-03 14:10:24.836120
-https://xkcd.com/619/: xkcd: Supported Features, 2017-10-03 14:10:24.840110
-https://xkcd.com/618/: xkcd: Asteroid, 2017-10-03 14:10:24.844690
-https://xkcd.com/617/: xkcd: Understocked, 2017-10-03 14:10:24.849396
-https://xkcd.com/614/: xkcd: Woodpecker, 2017-10-03 14:10:24.858462
-https://xkcd.com/615/: xkcd: Avoidance, 2017-10-03 14:10:24.862044
-https://xkcd.com/616/: xkcd: Lease, 2017-10-03 14:10:24.865039
-https://xkcd.com/613/: xkcd: Threesome, 2017-10-03 14:10:24.868653
-https://xkcd.com/612/: xkcd: Estimation, 2017-10-03 14:10:24.887436
-https://xkcd.com/611/: xkcd: Disaster Voyeurism, 2017-10-03 14:10:24.892467
-https://xkcd.com/610/: xkcd: Sheeple, 2017-10-03 14:10:24.895138
-https://xkcd.com/608/: xkcd: Form, 2017-10-03 14:10:24.908766
-https://xkcd.com/609/: xkcd: Tab Explosion, 2017-10-03 14:10:24.912916
-https://xkcd.com/606/: xkcd: Cutting Edge, 2017-10-03 14:10:24.924488
-https://xkcd.com/605/: xkcd: Extrapolating, 2017-10-03 14:10:24.928258
-https://xkcd.com/607/: xkcd: 2038, 2017-10-03 14:10:24.931189
-https://xkcd.com/604/: xkcd: Qwertial Aphasia, 2017-10-03 14:10:24.935634
-https://xkcd.com/603/: xkcd: Idiocracy, 2017-10-03 14:10:24.942385
-https://xkcd.com/602/: xkcd: Overstimulated, 2017-10-03 14:10:24.948752
-https://xkcd.com/600/: xkcd: Android Boyfriend, 2017-10-03 14:10:24.956505
-https://xkcd.com/601/: xkcd: Game Theory, 2017-10-03 14:10:24.960391
-https://xkcd.com/599/: xkcd: Apocalypse, 2017-10-03 14:10:24.963934
-https://xkcd.com/598/: xkcd: Porn, 2017-10-03 14:10:24.967955
-https://xkcd.com/597/: xkcd: Addiction, 2017-10-03 14:10:24.972181
-https://xkcd.com/594/: xkcd: Period, 2017-10-03 14:10:25.001146
-https://xkcd.com/596/: xkcd: Latitude, 2017-10-03 14:10:25.005673
-https://xkcd.com/593/: xkcd: Voynich Manuscript, 2017-10-03 14:10:25.008473
-https://xkcd.com/592/: xkcd: Drama, 2017-10-03 14:10:25.010989
-https://xkcd.com/595/: xkcd: Android Girlfriend, 2017-10-03 14:10:25.014823
-https://xkcd.com/591/: xkcd: Troll Slayer, 2017-10-03 14:10:25.022492
-https://xkcd.com/588/: xkcd: Pep Rally, 2017-10-03 14:10:25.030816
-https://xkcd.com/590/: xkcd: Papyrus, 2017-10-03 14:10:25.034448
-https://xkcd.com/589/: xkcd: Designated Drivers, 2017-10-03 14:10:25.038168
-https://xkcd.com/586/: xkcd: Mission to Culture, 2017-10-03 14:10:25.041817
-https://xkcd.com/587/: xkcd: Crime Scene, 2017-10-03 14:10:25.044272
-https://xkcd.com/585/: xkcd: Outreach, 2017-10-03 14:10:25.059806
-https://xkcd.com/584/: xkcd: Unsatisfied, 2017-10-03 14:10:25.064222
-https://xkcd.com/583/: xkcd: CNR, 2017-10-03 14:10:25.067059
-https://xkcd.com/581/: xkcd: The Race: Part 5, 2017-10-03 14:10:25.071237
-https://xkcd.com/582/: xkcd: Brakes, 2017-10-03 14:10:25.073513
-https://xkcd.com/580/: xkcd: The Race: Part 4, 2017-10-03 14:10:25.089879
-https://xkcd.com/578/: xkcd: The Race: Part 2, 2017-10-03 14:10:25.094267
-https://xkcd.com/579/: xkcd: The Race: Part 3, 2017-10-03 14:10:25.096628
-https://xkcd.com/576/: xkcd: Packages, 2017-10-03 14:10:25.100609
-https://xkcd.com/577/: xkcd: The Race: Part 1, 2017-10-03 14:10:25.103061
-https://xkcd.com/575/: xkcd: Tag Combination, 2017-10-03 14:10:25.117702
-https://xkcd.com/573/: xkcd: Parental Trolling, 2017-10-03 14:10:25.121490
-https://xkcd.com/574/: xkcd: Swine Flu, 2017-10-03 14:10:25.125498
-https://xkcd.com/571/: xkcd: Can't Sleep, 2017-10-03 14:10:25.128919
-https://xkcd.com/572/: xkcd: Together, 2017-10-03 14:10:25.132177
-https://xkcd.com/570/: xkcd: New Car, 2017-10-03 14:10:25.137260
-https://xkcd.com/569/: xkcd: Borders, 2017-10-03 14:10:25.140897
-https://xkcd.com/567/: xkcd: Urgent Mission, 2017-10-03 14:10:25.147995
-https://xkcd.com/568/: xkcd: Well 2, 2017-10-03 14:10:25.151699
-https://xkcd.com/566/: xkcd: Matrix Revisited, 2017-10-03 14:10:25.157834
-https://xkcd.com/565/: xkcd: Security Question, 2017-10-03 14:10:25.161489
-https://xkcd.com/564/: xkcd: Crossbows, 2017-10-03 14:10:25.165362
-https://xkcd.com/563/: xkcd: Fermirotica, 2017-10-03 14:10:25.169036
-https://xkcd.com/562/: xkcd: Parking, 2017-10-03 14:10:25.178308
-https://xkcd.com/561/: xkcd: Well, 2017-10-03 14:10:25.183155
-https://xkcd.com/559/: xkcd: No Pun Intended, 2017-10-03 14:10:25.190434
-https://xkcd.com/560/: xkcd: Lithium Batteries, 2017-10-03 14:10:25.194632
-https://xkcd.com/558/: xkcd: 1000 Times, 2017-10-03 14:10:25.197404
-https://xkcd.com/557/: xkcd: Students, 2017-10-03 14:10:25.207274
-https://xkcd.com/556/: xkcd: Alternative Energy Revolution, 2017-10-03 14:10:25.215074
-https://xkcd.com/555/: xkcd: Two Mirrors, 2017-10-03 14:10:25.220359
-https://xkcd.com/553/: xkcd: Pirate Bay, 2017-10-03 14:10:25.223347
-https://xkcd.com/554/: xkcd: Not Enough Work, 2017-10-03 14:10:25.225897
-https://xkcd.com/552/: xkcd: Correlation, 2017-10-03 14:10:25.229803
-https://xkcd.com/551/: xkcd: Etch-a-Sketch, 2017-10-03 14:10:25.239380
-https://xkcd.com/549/: xkcd: Westley's a Dick, 2017-10-03 14:10:25.250787
-https://xkcd.com/548/: xkcd: Kindle, 2017-10-03 14:10:25.255672
-https://xkcd.com/550/: xkcd: Density, 2017-10-03 14:10:25.258544
-https://xkcd.com/547/: xkcd: Simple, 2017-10-03 14:10:25.262271
-https://xkcd.com/546/: xkcd: Music DRM, 2017-10-03 14:10:25.265377
-https://xkcd.com/545/: xkcd: Neutrality Schmeutrality, 2017-10-03 14:10:25.279397
-https://xkcd.com/543/: xkcd: Sierpinski Valentine, 2017-10-03 14:10:25.283387
-https://xkcd.com/544/: xkcd: Pep Talk, 2017-10-03 14:10:25.286663
-https://xkcd.com/541/: xkcd: TED Talk, 2017-10-03 14:10:25.292860
-https://xkcd.com/542/: xkcd: Cover-Up, 2017-10-03 14:10:25.295220
-https://xkcd.com/540/: xkcd: Base System, 2017-10-03 14:10:25.303322
-https://xkcd.com/539/: xkcd: Boyfriend, 2017-10-03 14:10:25.311375
-https://xkcd.com/538/: xkcd: Security, 2017-10-03 14:10:25.315817
-https://xkcd.com/537/: xkcd: Ducklings, 2017-10-03 14:10:25.319796
-https://xkcd.com/536/: xkcd: Space Elevators, 2017-10-03 14:10:25.323095
-https://xkcd.com/535/: xkcd: It Might Be Cool, 2017-10-03 14:10:25.328099
-https://xkcd.com/534/: xkcd: Genetic Algorithms, 2017-10-03 14:10:25.340336
-https://xkcd.com/533/: xkcd: Laptop Hell, 2017-10-03 14:10:25.344328
-https://xkcd.com/532/: xkcd: Piano, 2017-10-03 14:10:25.347974
-https://xkcd.com/530/: xkcd: I'm An Idiot, 2017-10-03 14:10:25.351950
-https://xkcd.com/531/: xkcd: Contingency Plan, 2017-10-03 14:10:25.354815
-https://xkcd.com/529/: xkcd: Sledding Discussion, 2017-10-03 14:10:25.366228
-https://xkcd.com/528/: xkcd: Windows 7, 2017-10-03 14:10:25.370169
-https://xkcd.com/527/: xkcd: Keynote, 2017-10-03 14:10:25.373972
-https://xkcd.com/526/: xkcd: Converting to Metric, 2017-10-03 14:10:25.377765
-https://xkcd.com/525/: xkcd: I Know You're Listening, 2017-10-03 14:10:25.380296
-https://xkcd.com/524/: xkcd: Party, 2017-10-03 14:10:25.386092
-https://xkcd.com/523/: xkcd: Decline, 2017-10-03 14:10:25.394921
-https://xkcd.com/520/: xkcd: Cuttlefish, 2017-10-03 14:10:25.407375
-https://xkcd.com/521/: xkcd: 2008 Christmas Special, 2017-10-03 14:10:25.411805
-https://xkcd.com/522/: xkcd: Google Trends, 2017-10-03 14:10:25.414647
-https://xkcd.com/519/: xkcd: 11th Grade, 2017-10-03 14:10:25.417422
-https://xkcd.com/518/: xkcd: Flow Charts, 2017-10-03 14:10:25.421717
-https://xkcd.com/517/: xkcd: Marshmallow Gun, 2017-10-03 14:10:25.430269
-https://xkcd.com/516/: xkcd: Wood Chips, 2017-10-03 14:10:25.440473
-https://xkcd.com/513/: xkcd: Friends, 2017-10-03 14:10:25.444159
-https://xkcd.com/514/: xkcd: Simultaneous, 2017-10-03 14:10:25.447783
-https://xkcd.com/515/: xkcd: No One Must Know, 2017-10-03 14:10:25.450284
-https://xkcd.com/512/: xkcd: Alternate Currency, 2017-10-03 14:10:25.455030
-https://xkcd.com/511/: xkcd: Sleet, 2017-10-03 14:10:25.466004
-https://xkcd.com/510/: xkcd: Egg Drop Failure, 2017-10-03 14:10:25.469879
-https://xkcd.com/507/: xkcd: Experimentation, 2017-10-03 14:10:25.476506
-https://xkcd.com/509/: xkcd: Induced Current, 2017-10-03 14:10:25.479154
-https://xkcd.com/508/: xkcd: Drapes, 2017-10-03 14:10:25.483073
-https://xkcd.com/506/: xkcd: Theft of the Magi, 2017-10-03 14:10:25.486332
-https://xkcd.com/505/: xkcd: A Bunch of Rocks, 2017-10-03 14:10:25.497553
-https://xkcd.com/503/: xkcd: Terminology, 2017-10-03 14:10:25.501869
-https://xkcd.com/504/: xkcd: Legal Hacks, 2017-10-03 14:10:25.505989
-https://xkcd.com/501/: xkcd: Faust 2.0, 2017-10-03 14:10:25.509464
-https://xkcd.com/502/: xkcd: Dark Flow, 2017-10-03 14:10:25.511885
-https://xkcd.com/500/: xkcd: Election, 2017-10-03 14:10:25.520862
-https://xkcd.com/499/: xkcd: Scantron, 2017-10-03 14:10:25.524561
-https://xkcd.com/498/: xkcd: Secretary: Part 5, 2017-10-03 14:10:25.532844
-https://xkcd.com/497/: xkcd: Secretary: Part 4, 2017-10-03 14:10:25.536483
-https://xkcd.com/496/: xkcd: Secretary: Part 3, 2017-10-03 14:10:25.540226
-https://xkcd.com/494/: xkcd: Secretary: Part 1, 2017-10-03 14:10:25.543586
-https://xkcd.com/495/: xkcd: Secretary: Part 2, 2017-10-03 14:10:25.546786
-https://xkcd.com/493/: xkcd: Actuarial, 2017-10-03 14:10:25.558747
-https://xkcd.com/492/: xkcd: Scrabble, 2017-10-03 14:10:25.563125
-https://xkcd.com/491/: xkcd: Twitter, 2017-10-03 14:10:25.566855
-https://xkcd.com/489/: xkcd: Going West, 2017-10-03 14:10:25.570633
-https://xkcd.com/490/: xkcd: Morning Routine, 2017-10-03 14:10:25.573891
-https://xkcd.com/488/: xkcd: Steal This Comic, 2017-10-03 14:10:25.582312
-https://xkcd.com/486/: xkcd: I am Not a Ninja, 2017-10-03 14:10:25.591194
-https://xkcd.com/487/: xkcd: Numerical Sex Positions, 2017-10-03 14:10:25.595149
-https://xkcd.com/485/: xkcd: Depth, 2017-10-03 14:10:25.600025
-https://xkcd.com/484/: xkcd: Flash Games, 2017-10-03 14:10:25.602609
-https://xkcd.com/483/: xkcd: Fiction Rule of Thumb, 2017-10-03 14:10:25.606612
-https://xkcd.com/482/: xkcd: Height, 2017-10-03 14:10:25.628967
-https://xkcd.com/481/: xkcd: Listen to Yourself, 2017-10-03 14:10:25.631863
-https://xkcd.com/478/: xkcd: The Staple Madness, 2017-10-03 14:10:25.636693
-https://xkcd.com/480/: xkcd: Spore, 2017-10-03 14:10:25.639313
-https://xkcd.com/479/: xkcd: Tones, 2017-10-03 14:10:25.641655
-https://xkcd.com/477/: xkcd: Typewriter, 2017-10-03 14:10:25.661357
-https://xkcd.com/476/: xkcd: One-Sided, 2017-10-03 14:10:25.666653
-https://xkcd.com/473/: xkcd: Still Raw, 2017-10-03 14:10:25.669221
-https://xkcd.com/474/: xkcd: Turn-On, 2017-10-03 14:10:25.671647
-https://xkcd.com/475/: xkcd: Further Boomerang Difficulties, 2017-10-03 14:10:25.673900
-https://xkcd.com/472/: xkcd: House of Pancakes, 2017-10-03 14:10:25.693623
-https://xkcd.com/469/: xkcd: Improvised, 2017-10-03 14:10:25.702695
-https://xkcd.com/471/: xkcd: Aversion Fads, 2017-10-03 14:10:25.706593
-https://xkcd.com/470/: xkcd: The End is Not for a While, 2017-10-03 14:10:25.709053
-https://xkcd.com/468/: xkcd: Fetishes, 2017-10-03 14:10:25.711896
-https://xkcd.com/467/: xkcd: X Girls Y Cups, 2017-10-03 14:10:25.716446
-https://xkcd.com/466/: xkcd: Moving, 2017-10-03 14:10:25.729324
-https://xkcd.com/463/: xkcd: Voting Machines, 2017-10-03 14:10:25.736985
-https://xkcd.com/464/: xkcd: RBA, 2017-10-03 14:10:25.739652
-https://xkcd.com/465/: xkcd: Quantum Teleportation, 2017-10-03 14:10:25.743359
-https://xkcd.com/462/: xkcd: Freemanic Paracusia, 2017-10-03 14:10:25.745610
-https://xkcd.com/461/: xkcd: Google Maps, 2017-10-03 14:10:25.762967
-https://xkcd.com/460/: xkcd: Paleontology, 2017-10-03 14:10:25.766958
-https://xkcd.com/459/: xkcd: Holy Ghost, 2017-10-03 14:10:25.769826
-https://xkcd.com/457/: xkcd: Frustration, 2017-10-03 14:10:25.773506
-https://xkcd.com/458/: xkcd: Regrets, 2017-10-03 14:10:25.776570
-https://xkcd.com/455/: xkcd: Hats, 2017-10-03 14:10:25.793227
-https://xkcd.com/454/: xkcd: Rewiring, 2017-10-03 14:10:25.797089
-https://xkcd.com/456/: xkcd: Cautionary, 2017-10-03 14:10:25.804055
-https://xkcd.com/453/: xkcd: Upcoming Hurricanes, 2017-10-03 14:10:25.807841
-https://xkcd.com/452/: xkcd: Mission, 2017-10-03 14:10:25.810442
-https://xkcd.com/451/: xkcd: Impostor, 2017-10-03 14:10:25.840014
-https://xkcd.com/450/: xkcd: The Sea, 2017-10-03 14:10:25.844397
-https://xkcd.com/449/: xkcd: Things Fall Apart, 2017-10-03 14:10:25.847013
-https://xkcd.com/448/: xkcd: Good Morning, 2017-10-03 14:10:25.849561
-https://xkcd.com/447/: xkcd: Too Old For This Shit, 2017-10-03 14:10:25.851946
-https://xkcd.com/446/: xkcd: In Popular Culture, 2017-10-03 14:10:25.882109
-https://xkcd.com/445/: xkcd: I Am Not Good with Boomerangs, 2017-10-03 14:10:25.887147
-https://xkcd.com/442/: xkcd: xkcd Loves the Discovery Channel, 2017-10-03 14:10:25.889698
-https://xkcd.com/443/: xkcd: Know Your Vines, 2017-10-03 14:10:25.892163
-https://xkcd.com/444/: xkcd: Macgyver Gets Lazy, 2017-10-03 14:10:25.894491
-https://xkcd.com/441/: xkcd: Babies, 2017-10-03 14:10:25.906880
-https://xkcd.com/439/: xkcd: Thinking Ahead, 2017-10-03 14:10:25.913951
-https://xkcd.com/437/: xkcd: SUV, 2017-10-03 14:10:25.917429
-https://xkcd.com/438/: xkcd: Internet Argument, 2017-10-03 14:10:25.920914
-https://xkcd.com/440/: xkcd: Road Rage, 2017-10-03 14:10:25.923564
-https://xkcd.com/436/: xkcd: How it Happened, 2017-10-03 14:10:25.929803
-https://xkcd.com/435/: xkcd: Purity, 2017-10-03 14:10:25.934310
-https://xkcd.com/432/: xkcd: Journal 4, 2017-10-03 14:10:25.947208
-https://xkcd.com/434/: xkcd: xkcd Goes to the Airport, 2017-10-03 14:10:25.952421
-https://xkcd.com/433/: xkcd: Journal 5, 2017-10-03 14:10:25.955149
-https://xkcd.com/431/: xkcd: Delivery, 2017-10-03 14:10:25.957817
-https://xkcd.com/430/: xkcd: Every Damn Morning, 2017-10-03 14:10:25.962187
-https://xkcd.com/429/: xkcd: Fantasy, 2017-10-03 14:10:25.970952
-https://xkcd.com/428/: xkcd: Starwatching, 2017-10-03 14:10:25.976620
-https://xkcd.com/427/: xkcd: Bad Timing, 2017-10-03 14:10:25.980290
-https://xkcd.com/426/: xkcd: Geohashing, 2017-10-03 14:10:25.983478
-https://xkcd.com/425/: xkcd: Fortune Cookies, 2017-10-03 14:10:25.985738
-https://xkcd.com/424/: xkcd: Security Holes, 2017-10-03 14:10:25.992334
-https://xkcd.com/423/: xkcd: Finish Line, 2017-10-03 14:10:25.995922
-https://xkcd.com/421/: xkcd: Making Hash Browns, 2017-10-03 14:10:26.010547
-https://xkcd.com/420/: xkcd: Jealousy, 2017-10-03 14:10:26.015787
-https://xkcd.com/422/: xkcd: A Better Idea, 2017-10-03 14:10:26.018537
-https://xkcd.com/418/: xkcd: Stove Ownership, 2017-10-03 14:10:26.021062
-https://xkcd.com/419/: xkcd: Forks and Spoons, 2017-10-03 14:10:26.023515
-https://xkcd.com/417/: xkcd: The Man Who Fell Sideways, 2017-10-03 14:10:26.033734
-https://xkcd.com/415/: xkcd: Restraining Order, 2017-10-03 14:10:26.044200
-https://xkcd.com/416/: xkcd: Zealous Autoconfig, 2017-10-03 14:10:26.048406
-https://xkcd.com/414/: xkcd: Mistranslations, 2017-10-03 14:10:26.052139
-https://xkcd.com/413/: xkcd: New Pet, 2017-10-03 14:10:26.055681
-https://xkcd.com/412/: xkcd: Startled, 2017-10-03 14:10:26.057926
-https://xkcd.com/411/: xkcd: Techno, 2017-10-03 14:10:26.064861
-https://xkcd.com/408/: xkcd: Overqualified, 2017-10-03 14:10:26.083824
-https://xkcd.com/407/: xkcd: Cheap GPS, 2017-10-03 14:10:26.088037
-https://xkcd.com/409/: xkcd: Electric Skateboard (Double Comic), 2017-10-03 14:10:26.090908
-https://xkcd.com/406/: xkcd: Venting, 2017-10-03 14:10:26.093527
-https://xkcd.com/410/: xkcd: Math Paper, 2017-10-03 14:10:26.098488
-https://xkcd.com/405/: xkcd: Journal 3, 2017-10-03 14:10:26.112533
-https://xkcd.com/403/: xkcd: Convincing Pickup Line, 2017-10-03 14:10:26.117816
-https://xkcd.com/402/: xkcd: 1,000 Miles North, 2017-10-03 14:10:26.120556
-https://xkcd.com/400/: xkcd: Important Life Lesson, 2017-10-03 14:10:26.124903
-https://xkcd.com/401/: xkcd: Large Hadron Collider, 2017-10-03 14:10:26.127430
-https://xkcd.com/399/: xkcd: Travelling Salesman Problem, 2017-10-03 14:10:26.139866
-https://xkcd.com/397/: xkcd: Unscientific, 2017-10-03 14:10:26.145624
-https://xkcd.com/395/: xkcd: Morning, 2017-10-03 14:10:26.153093
-https://xkcd.com/398/: xkcd: Tap That Ass, 2017-10-03 14:10:26.156870
-https://xkcd.com/396/: xkcd: The Ring, 2017-10-03 14:10:26.159837
-https://xkcd.com/394/: xkcd: Kilobyte, 2017-10-03 14:10:26.163612
-https://xkcd.com/393/: xkcd: Ultimate Game, 2017-10-03 14:10:26.168285
-https://xkcd.com/392/: xkcd: Making Rules, 2017-10-03 14:10:26.182740
-https://xkcd.com/390/: xkcd: Nightmares, 2017-10-03 14:10:26.192162
-https://xkcd.com/391/: xkcd: Anti-Mindvirus, 2017-10-03 14:10:26.194626
-https://xkcd.com/389/: xkcd: Keeping Time, 2017-10-03 14:10:26.197271
-https://xkcd.com/388/: xkcd: Fuck Grapefruit, 2017-10-03 14:10:26.201219
-https://xkcd.com/387/: xkcd: Advanced Technology, 2017-10-03 14:10:26.214831
-https://xkcd.com/386/: xkcd: Duty Calls, 2017-10-03 14:10:26.220413
-https://xkcd.com/384/: xkcd: The Drake Equation, 2017-10-03 14:10:26.225105
-https://xkcd.com/383/: xkcd: Helping, 2017-10-03 14:10:26.227511
-https://xkcd.com/385/: xkcd: How it Works, 2017-10-03 14:10:26.229747
-https://xkcd.com/382/: xkcd: Trebuchet, 2017-10-03 14:10:26.237330
-https://xkcd.com/381/: xkcd: Mobius Battle, 2017-10-03 14:10:26.241126
-https://xkcd.com/380/: xkcd: Emoticon, 2017-10-03 14:10:26.259128
-https://xkcd.com/378/: xkcd: Real Programmers, 2017-10-03 14:10:26.263279
-https://xkcd.com/379/: xkcd: Forgetting, 2017-10-03 14:10:26.266016
-https://xkcd.com/377/: xkcd: Journal 2, 2017-10-03 14:10:26.269768
-https://xkcd.com/376/: xkcd: Bug, 2017-10-03 14:10:26.273138
-https://xkcd.com/375/: xkcd: Pod Bay Doors, 2017-10-03 14:10:26.291562
-https://xkcd.com/374/: xkcd: Journal, 2017-10-03 14:10:26.295395
-https://xkcd.com/373/: xkcd: The Data So Far, 2017-10-03 14:10:26.299653
-https://xkcd.com/372/: xkcd: To Be Wanted, 2017-10-03 14:10:26.302311
-https://xkcd.com/371/: xkcd: Compiler Complaint, 2017-10-03 14:10:26.304720
-https://xkcd.com/370/: xkcd: Redwall, 2017-10-03 14:10:26.319547
-https://xkcd.com/368/: xkcd: Bass, 2017-10-03 14:10:26.325921
-https://xkcd.com/369/: xkcd: Dangers, 2017-10-03 14:10:26.329723
-https://xkcd.com/367/: xkcd: Fandom, 2017-10-03 14:10:26.333394
-https://xkcd.com/366/: xkcd: Your Mom, 2017-10-03 14:10:26.335782
-https://xkcd.com/365/: xkcd: Slides, 2017-10-03 14:10:26.342790
-https://xkcd.com/364/: xkcd: Responsible Behavior, 2017-10-03 14:10:26.357258
-https://xkcd.com/361/: xkcd: Christmas Back Home, 2017-10-03 14:10:26.361447
-https://xkcd.com/362/: xkcd: Blade Runner, 2017-10-03 14:10:26.364183
-https://xkcd.com/363/: xkcd: Reset, 2017-10-03 14:10:26.366661
-https://xkcd.com/360/: xkcd: Writers Strike, 2017-10-03 14:10:26.380890
-https://xkcd.com/359/: xkcd: Rock Band, 2017-10-03 14:10:26.393032
-https://xkcd.com/358/: xkcd: Loud Party, 2017-10-03 14:10:26.396862
-https://xkcd.com/356/: xkcd: Nerd Sniping, 2017-10-03 14:10:26.401381
-https://xkcd.com/357/: xkcd: Flies, 2017-10-03 14:10:26.404057
-https://xkcd.com/355/: xkcd: Couple, 2017-10-03 14:10:26.407592
-https://xkcd.com/354/: xkcd: Startling, 2017-10-03 14:10:26.419864
-https://xkcd.com/353/: xkcd: Python, 2017-10-03 14:10:26.424052
-https://xkcd.com/350/: xkcd: Network, 2017-10-03 14:10:26.428436
-https://xkcd.com/351/: xkcd: Trolling, 2017-10-03 14:10:26.432120
-https://xkcd.com/352/: xkcd: Far Away, 2017-10-03 14:10:26.434418
-https://xkcd.com/349/: xkcd: Success, 2017-10-03 14:10:26.443267
-https://xkcd.com/348/: xkcd: Close to You, 2017-10-03 14:10:26.447141
-https://xkcd.com/347/: xkcd: Brick Archway, 2017-10-03 14:10:26.450474
-https://xkcd.com/345/: xkcd: 1337: Part 5, 2017-10-03 14:10:26.455828
-https://xkcd.com/346/: xkcd: Diet Coke+Mentos, 2017-10-03 14:10:26.459003
-https://xkcd.com/344/: xkcd: 1337: Part 4, 2017-10-03 14:10:26.465029
-https://xkcd.com/342/: xkcd: 1337: Part 2, 2017-10-03 14:10:26.470217
-https://xkcd.com/343/: xkcd: 1337: Part 3, 2017-10-03 14:10:26.474804
-https://xkcd.com/341/: xkcd: 1337: Part 1, 2017-10-03 14:10:26.478179
-https://xkcd.com/340/: xkcd: Fight, 2017-10-03 14:10:26.483229
-https://xkcd.com/339/: xkcd: Classic, 2017-10-03 14:10:26.488307
-https://xkcd.com/338/: xkcd: Future, 2017-10-03 14:10:26.493762
-https://xkcd.com/336/: xkcd: Priorities, 2017-10-03 14:10:26.499805
-https://xkcd.com/337/: xkcd: Post Office Showdown, 2017-10-03 14:10:26.503359
-https://xkcd.com/334/: xkcd: Wasteland, 2017-10-03 14:10:26.507130
-https://xkcd.com/335/: xkcd: Mattress, 2017-10-03 14:10:26.510140
-https://xkcd.com/333/: xkcd: Getting Out of Hand, 2017-10-03 14:10:26.522423
-https://xkcd.com/332/: xkcd: Gyroscopes, 2017-10-03 14:10:26.526257
-https://xkcd.com/331/: xkcd: Photoshops, 2017-10-03 14:10:26.530072
-https://xkcd.com/330/: xkcd: Indecision, 2017-10-03 14:10:26.533537
-https://xkcd.com/329/: xkcd: Turing Test, 2017-10-03 14:10:26.536771
-https://xkcd.com/328/: xkcd: Eggs, 2017-10-03 14:10:26.549884
-https://xkcd.com/327/: xkcd: Exploits of a Mom, 2017-10-03 14:10:26.553792
-https://xkcd.com/326/: xkcd: Effect an Effect, 2017-10-03 14:10:26.557739
-https://xkcd.com/325/: xkcd: A-Minus-Minus, 2017-10-03 14:10:26.561134
-https://xkcd.com/324/: xkcd: Tapping, 2017-10-03 14:10:26.564370
-https://xkcd.com/323/: xkcd: Ballmer Peak, 2017-10-03 14:10:26.569225
-https://xkcd.com/322/: xkcd: Pix Plz, 2017-10-03 14:10:26.585515
-https://xkcd.com/319/: xkcd: Engineering Hubris, 2017-10-03 14:10:26.589729
-https://xkcd.com/320/: xkcd: 28-Hour Day, 2017-10-03 14:10:26.592548
-https://xkcd.com/321/: xkcd: Thighs, 2017-10-03 14:10:26.596405
-https://xkcd.com/318/: xkcd: Nostalgia, 2017-10-03 14:10:26.598698
-https://xkcd.com/317/: xkcd: That Lovin' Feelin', 2017-10-03 14:10:26.615551
-https://xkcd.com/316/: xkcd: Loud Sex, 2017-10-03 14:10:26.624116
-https://xkcd.com/313/: xkcd: Insomnia, 2017-10-03 14:10:26.627928
-https://xkcd.com/314/: xkcd: Dating Pools, 2017-10-03 14:10:26.630735
-https://xkcd.com/315/: xkcd: Braille, 2017-10-03 14:10:26.634670
-https://xkcd.com/312/: xkcd: With Apologies to Robert Frost, 2017-10-03 14:10:26.647230
-https://xkcd.com/311/: xkcd: Action Movies, 2017-10-03 14:10:26.651508
-https://xkcd.com/310/: xkcd: Commitment, 2017-10-03 14:10:26.655594
-https://xkcd.com/308/: xkcd: Interesting Life, 2017-10-03 14:10:26.659037
-https://xkcd.com/309/: xkcd: Shopping Teams, 2017-10-03 14:10:26.662468
-https://xkcd.com/306/: xkcd: Orphaned Projects, 2017-10-03 14:10:26.672242
-https://xkcd.com/307/: xkcd: Excessive Quotation, 2017-10-03 14:10:26.676064
-https://xkcd.com/305/: xkcd: Rule 34, 2017-10-03 14:10:26.686740
-https://xkcd.com/304/: xkcd: Nighttime Stories, 2017-10-03 14:10:26.692557
-https://xkcd.com/303/: xkcd: Compiling, 2017-10-03 14:10:26.695756
-https://xkcd.com/302/: xkcd: Names, 2017-10-03 14:10:26.698886
-https://xkcd.com/301/: xkcd: Limerick, 2017-10-03 14:10:26.706072
-https://xkcd.com/300/: xkcd: Facebook, 2017-10-03 14:10:26.713275
-https://xkcd.com/299/: xkcd: Aeris Dies, 2017-10-03 14:10:26.716951
-https://xkcd.com/297/: xkcd: Lisp Cycles, 2017-10-03 14:10:26.728150
-https://xkcd.com/298/: xkcd: Tesla Coil, 2017-10-03 14:10:26.732390
-https://xkcd.com/296/: xkcd: Tony Hawk, 2017-10-03 14:10:26.735399
-https://xkcd.com/295/: xkcd: DNE, 2017-10-03 14:10:26.739266
-https://xkcd.com/294/: xkcd: Bookstore, 2017-10-03 14:10:26.743044
-https://xkcd.com/293/: xkcd: RTFM, 2017-10-03 14:10:26.756040
-https://xkcd.com/292/: xkcd: goto, 2017-10-03 14:10:26.760695
-https://xkcd.com/290/: xkcd: Fucking Blue Shells, 2017-10-03 14:10:26.764733
-https://xkcd.com/291/: xkcd: Dignified, 2017-10-03 14:10:26.768143
-https://xkcd.com/289/: xkcd: Alone, 2017-10-03 14:10:26.771489
-https://xkcd.com/288/: xkcd: Elevator, 2017-10-03 14:10:26.775309
-https://xkcd.com/287/: xkcd: NP-Complete, 2017-10-03 14:10:26.782150
-https://xkcd.com/286/: xkcd: All Your Base, 2017-10-03 14:10:26.789684
-https://xkcd.com/284/: xkcd: Tape Measure, 2017-10-03 14:10:26.794797
-https://xkcd.com/283/: xkcd: Projection, 2017-10-03 14:10:26.798647
-https://xkcd.com/285/: xkcd: Wikipedian Protester, 2017-10-03 14:10:26.801969
-https://xkcd.com/282/: xkcd: Organic Fuel, 2017-10-03 14:10:26.805067
-https://xkcd.com/281/: xkcd: Online Package Tracking, 2017-10-03 14:10:26.808301
-https://xkcd.com/280/: xkcd: Librarians, 2017-10-03 14:10:26.812615
-https://xkcd.com/279/: xkcd: Pickup Lines, 2017-10-03 14:10:26.829566
-https://xkcd.com/278/: xkcd: Black Hat Support, 2017-10-03 14:10:26.833869
-https://xkcd.com/277/: xkcd: Long Light, 2017-10-03 14:10:26.836771
-https://xkcd.com/276/: xkcd: Fixed Width, 2017-10-03 14:10:26.839523
-https://xkcd.com/275/: xkcd: Thoughts, 2017-10-03 14:10:26.843726
-https://xkcd.com/274/: xkcd: With Apologies to The Who, 2017-10-03 14:10:26.857312
-https://xkcd.com/271/: xkcd: Powers of One, 2017-10-03 14:10:26.863988
-https://xkcd.com/273/: xkcd: Electromagnetic Spectrum, 2017-10-03 14:10:26.867731
-https://xkcd.com/272/: xkcd: Linux User at Best Buy, 2017-10-03 14:10:26.871330
-https://xkcd.com/270/: xkcd: Merlin, 2017-10-03 14:10:26.873603
-https://xkcd.com/269/: xkcd: TCMP, 2017-10-03 14:10:26.878648
-https://xkcd.com/268/: xkcd: Choices: Part 5, 2017-10-03 14:10:26.895106
-https://xkcd.com/265/: xkcd: Choices: Part 2, 2017-10-03 14:10:26.899809
-https://xkcd.com/267/: xkcd: Choices: Part 4, 2017-10-03 14:10:26.902799
-https://xkcd.com/266/: xkcd: Choices: Part 3, 2017-10-03 14:10:26.905536
-https://xkcd.com/264/: xkcd: Choices: Part 1, 2017-10-03 14:10:26.910615
-https://xkcd.com/263/: xkcd: Certainty, 2017-10-03 14:10:26.932007
-https://xkcd.com/260/: xkcd: The Glass Necklace, 2017-10-03 14:10:26.936646
-https://xkcd.com/262/: xkcd: IN UR REALITY, 2017-10-03 14:10:26.939257
-https://xkcd.com/261/: xkcd: Regarding Mussolini, 2017-10-03 14:10:26.941928
-https://xkcd.com/259/: xkcd: Clichd Exchanges, 2017-10-03 14:10:26.944214
-https://xkcd.com/258/: xkcd: Conspiracy Theories, 2017-10-03 14:10:26.978156
-https://xkcd.com/255/: xkcd: Subjectivity, 2017-10-03 14:10:26.982274
-https://xkcd.com/257/: xkcd: Code Talkers, 2017-10-03 14:10:26.986125
-https://xkcd.com/254/: xkcd: Comic Fragment, 2017-10-03 14:10:26.988429
-https://xkcd.com/256/: xkcd: Online Communities, 2017-10-03 14:10:26.990894
-https://xkcd.com/253/: xkcd: Highway Engineer Pranks, 2017-10-03 14:10:27.006637
-https://xkcd.com/251/: xkcd: CD Tray Fight, 2017-10-03 14:10:27.013281
-https://xkcd.com/249/: xkcd: Chess Photo, 2017-10-03 14:10:27.016073
-https://xkcd.com/250/: xkcd: Snopes, 2017-10-03 14:10:27.020276
-https://xkcd.com/252/: xkcd: Escalators, 2017-10-03 14:10:27.022734
-https://xkcd.com/248/: xkcd: Hypotheticals, 2017-10-03 14:10:27.034147
-https://xkcd.com/247/: xkcd: Factoring the Time, 2017-10-03 14:10:27.038041
-https://xkcd.com/246/: xkcd: Labyrinth Puzzle, 2017-10-03 14:10:27.040845
-https://xkcd.com/244/: xkcd: Tabletop Roleplaying, 2017-10-03 14:10:27.046535
-https://xkcd.com/245/: xkcd: Floor Tiles, 2017-10-03 14:10:27.049763
-https://xkcd.com/241/: xkcd: Battle Room, 2017-10-03 14:10:27.062463
-https://xkcd.com/242/: xkcd: The Difference, 2017-10-03 14:10:27.065339
-https://xkcd.com/243/: xkcd: Appropriate Term, 2017-10-03 14:10:27.069925
-https://xkcd.com/240/: xkcd: Dream Girl, 2017-10-03 14:10:27.072516
-https://xkcd.com/239/: xkcd: Blagofaire, 2017-10-03 14:10:27.076008
-https://xkcd.com/237/: xkcd: Keyboards are Disgusting, 2017-10-03 14:10:27.085046
-https://xkcd.com/238/: xkcd: Pet Peeve #114, 2017-10-03 14:10:27.088760
-https://xkcd.com/236/: xkcd: Collecting Double-Takes, 2017-10-03 14:10:27.099124
-https://xkcd.com/234/: xkcd: Escape Artist, 2017-10-03 14:10:27.103042
-https://xkcd.com/235/: xkcd: Kite, 2017-10-03 14:10:27.105966
-https://xkcd.com/233/: xkcd: A New CAPTCHA Approach, 2017-10-03 14:10:27.110164
-https://xkcd.com/232/: xkcd: Chess Enlightenment, 2017-10-03 14:10:27.112570
-https://xkcd.com/231/: xkcd: Cat Proximity, 2017-10-03 14:10:27.136669
-https://xkcd.com/229/: xkcd: Graffiti, 2017-10-03 14:10:27.141040
-https://xkcd.com/230/: xkcd: Hamiltonian, 2017-10-03 14:10:27.143699
-https://xkcd.com/227/: xkcd: Color Codes, 2017-10-03 14:10:27.146245
-https://xkcd.com/228/: xkcd: Resonance, 2017-10-03 14:10:27.148724
-https://xkcd.com/226/: xkcd: Swingset, 2017-10-03 14:10:27.167923
-https://xkcd.com/224/: xkcd: Lisp, 2017-10-03 14:10:27.172388
-https://xkcd.com/225/: xkcd: Open Source, 2017-10-03 14:10:27.175383
-https://xkcd.com/223/: xkcd: Valentine's Day, 2017-10-03 14:10:27.181083
-https://xkcd.com/222/: xkcd: Small Talk, 2017-10-03 14:10:27.183637
-https://xkcd.com/221/: xkcd: Random Number, 2017-10-03 14:10:27.187537
-https://xkcd.com/220/: xkcd: Philosophy, 2017-10-03 14:10:27.199799
-https://xkcd.com/219/: xkcd: Blanket Fort, 2017-10-03 14:10:27.203791
-https://xkcd.com/218/: xkcd: Nintendo Surgeon, 2017-10-03 14:10:27.207762
-https://xkcd.com/217/: xkcd: e to the pi Minus pi, 2017-10-03 14:10:27.211370
-https://xkcd.com/216/: xkcd: Romantic Drama Equation, 2017-10-03 14:10:27.214500
-https://xkcd.com/214/: xkcd: The Problem with Wikipedia, 2017-10-03 14:10:27.229369
-https://xkcd.com/215/: xkcd: Letting Go, 2017-10-03 14:10:27.233167
-https://xkcd.com/213/: xkcd: Ghostbusters Marathon, 2017-10-03 14:10:27.239214
-https://xkcd.com/212/: xkcd: Brain, 2017-10-03 14:10:27.243205
-https://xkcd.com/211/: xkcd: Hamster Ball Heist, 2017-10-03 14:10:27.246334
-https://xkcd.com/210/: xkcd: 90's Flowchart, 2017-10-03 14:10:27.251081
-https://xkcd.com/209/: xkcd: Kayak, 2017-10-03 14:10:27.254182
-https://xkcd.com/208/: xkcd: Regular Expressions, 2017-10-03 14:10:27.267449
-https://xkcd.com/205/: xkcd: Candy Button Paper, 2017-10-03 14:10:27.273646
-https://xkcd.com/207/: xkcd: What xkcd Means, 2017-10-03 14:10:27.276630
-https://xkcd.com/206/: xkcd: Reno Rhymes, 2017-10-03 14:10:27.279303
-https://xkcd.com/204/: xkcd: America, 2017-10-03 14:10:27.283303
-https://xkcd.com/203/: xkcd: Hallucinations, 2017-10-03 14:10:27.302291
-https://xkcd.com/200/: xkcd: Bill Nye, 2017-10-03 14:10:27.315445
-https://xkcd.com/199/: xkcd: Right-Hand Rule, 2017-10-03 14:10:27.319073
-https://xkcd.com/202/: xkcd: YouTube, 2017-10-03 14:10:27.323071
-https://xkcd.com/201/: xkcd: Christmas GPS, 2017-10-03 14:10:27.325624
-https://xkcd.com/198/: xkcd: Perspective, 2017-10-03 14:10:27.329143
-https://xkcd.com/197/: xkcd: Ninja Turtles, 2017-10-03 14:10:27.341406
-https://xkcd.com/196/: xkcd: Command Line Fu, 2017-10-03 14:10:27.359726
-https://xkcd.com/193/: xkcd: The Perfect Sound, 2017-10-03 14:10:27.367740
-https://xkcd.com/195/: xkcd: Map of the Internet, 2017-10-03 14:10:27.371753
-https://xkcd.com/194/: xkcd: Penises, 2017-10-03 14:10:27.374417
-https://xkcd.com/192/: xkcd: Working for Google, 2017-10-03 14:10:27.380610
-https://xkcd.com/191/: xkcd: Lojban, 2017-10-03 14:10:27.391571
-https://xkcd.com/188/: xkcd: Reload, 2017-10-03 14:10:27.399820
-https://xkcd.com/190/: xkcd: IPoD, 2017-10-03 14:10:27.403793
-https://xkcd.com/189/: xkcd: Exercise, 2017-10-03 14:10:27.406283
-https://xkcd.com/187/: xkcd: The Familiar, 2017-10-03 14:10:27.409883
-https://xkcd.com/186/: xkcd: Console Lines, 2017-10-03 14:10:27.427790
-https://xkcd.com/185/: xkcd: Wikifriends, 2017-10-03 14:10:27.448311
-https://xkcd.com/184/: xkcd: Matrix Transform, 2017-10-03 14:10:27.451941
-https://xkcd.com/183/: xkcd: Snacktime Rules, 2017-10-03 14:10:27.460577
-https://xkcd.com/182/: xkcd: Nash, 2017-10-03 14:10:27.464640
-https://xkcd.com/181/: xkcd: Interblag, 2017-10-03 14:10:27.468341
-https://xkcd.com/180/: xkcd: Canada, 2017-10-03 14:10:27.473016
-https://xkcd.com/179/: xkcd: e to the pi times i, 2017-10-03 14:10:27.477300
-https://xkcd.com/177/: xkcd: Alice and Bob, 2017-10-03 14:10:27.485974
-https://xkcd.com/178/: xkcd: Not Really Into Pokemon, 2017-10-03 14:10:27.491119
-https://xkcd.com/176/: xkcd: Before Sunrise, 2017-10-03 14:10:27.493952
-https://xkcd.com/175/: xkcd: Automatic Doors, 2017-10-03 14:10:27.499311
-https://xkcd.com/174/: xkcd: That's What SHE Said, 2017-10-03 14:10:27.503245
-https://xkcd.com/173/: xkcd: Movie Seating, 2017-10-03 14:10:27.507036
-https://xkcd.com/172/: xkcd: Skateboarding is Not a Crime, 2017-10-03 14:10:27.521562
-https://xkcd.com/171/: xkcd: String Theory, 2017-10-03 14:10:27.525669
-https://xkcd.com/170/: xkcd: Turn Back, 2017-10-03 14:10:27.529667
-https://xkcd.com/169/: xkcd: Words that End in GRY, 2017-10-03 14:10:27.532260
-https://xkcd.com/168/: xkcd: Reverse Euphemisms, 2017-10-03 14:10:27.536387
-https://xkcd.com/167/: xkcd: Nihilism, 2017-10-03 14:10:27.548049
-https://xkcd.com/166/: xkcd: Misusing Slang, 2017-10-03 14:10:27.559234
-https://xkcd.com/163/: xkcd: Donald Knuth, 2017-10-03 14:10:27.567771
-https://xkcd.com/164/: xkcd: Playing Devil's Advocate to Win, 2017-10-03 14:10:27.570665
-https://xkcd.com/165/: xkcd: Turn Signals, 2017-10-03 14:10:27.574887
-https://xkcd.com/162/: xkcd: Angular Momentum, 2017-10-03 14:10:27.578283
-https://xkcd.com/161/: xkcd: Accident, 2017-10-03 14:10:27.581464
-https://xkcd.com/159/: xkcd: Boombox, 2017-10-03 14:10:27.594049
-https://xkcd.com/160/: xkcd: Penny Arcade Parody, 2017-10-03 14:10:27.598374
-https://xkcd.com/157/: xkcd: Filler Art, 2017-10-03 14:10:27.602268
-https://xkcd.com/158/: xkcd: Six Months, 2017-10-03 14:10:27.605137
-https://xkcd.com/156/: xkcd: Commented, 2017-10-03 14:10:27.609039
-https://xkcd.com/155/: xkcd: Search History, 2017-10-03 14:10:27.619621
-https://xkcd.com/154/: xkcd: Beliefs, 2017-10-03 14:10:27.625970
-https://xkcd.com/152/: xkcd: Hamster Ball, 2017-10-03 14:10:27.631924
-https://xkcd.com/151/: xkcd: Mario, 2017-10-03 14:10:27.635932
-https://xkcd.com/153/: xkcd: Cryptography, 2017-10-03 14:10:27.638659
-https://xkcd.com/150/: xkcd: Grownups, 2017-10-03 14:10:27.648735
-https://xkcd.com/149/: xkcd: Sandwich, 2017-10-03 14:10:27.652846
-https://xkcd.com/148/: xkcd: Mispronouncing, 2017-10-03 14:10:27.656412
-https://xkcd.com/146/: xkcd: Join Myspace, 2017-10-03 14:10:27.662910
-https://xkcd.com/147/: xkcd: A Way So Familiar, 2017-10-03 14:10:27.666416
-https://xkcd.com/145/: xkcd: Parody Week: Dinosaur Comics, 2017-10-03 14:10:27.672564
-https://xkcd.com/143/: xkcd: Parody Week: TFD and Natalie Dee, 2017-10-03 14:10:27.676268
-https://xkcd.com/144/: xkcd: Parody Week: A Softer World, 2017-10-03 14:10:27.679261
-https://xkcd.com/142/: xkcd: Parody Week: Megatokyo, 2017-10-03 14:10:27.691154
-https://xkcd.com/141/: xkcd: Parody Week: Achewood, 2017-10-03 14:10:27.694125
-https://xkcd.com/140/: xkcd: Delicious, 2017-10-03 14:10:27.698000
-https://xkcd.com/139/: xkcd: I Have Owned Two Electric Skateboards, 2017-10-03 14:10:27.707625
-https://xkcd.com/138/: xkcd: Pointers, 2017-10-03 14:10:27.711267
-https://xkcd.com/135/: xkcd: Substitute, 2017-10-03 14:10:27.716794
-https://xkcd.com/137/: xkcd: Dreams, 2017-10-03 14:10:27.723224
-https://xkcd.com/136/: xkcd: Science Fair, 2017-10-03 14:10:27.726947
-https://xkcd.com/134/: xkcd: Myspace, 2017-10-03 14:10:27.732503
-https://xkcd.com/133/: xkcd: The Raven, 2017-10-03 14:10:27.736283
-https://xkcd.com/132/: xkcd: Music Knowledge, 2017-10-03 14:10:27.741163
-https://xkcd.com/131/: xkcd: Fans, 2017-10-03 14:10:27.749415
-https://xkcd.com/130/: xkcd: Julia Stiles, 2017-10-03 14:10:27.752887
-https://xkcd.com/129/: xkcd: Content Protection, 2017-10-03 14:10:27.756989
-https://xkcd.com/128/: xkcd: dPain over dt, 2017-10-03 14:10:27.762632
-https://xkcd.com/127/: xkcd: The Fast and the Furious, 2017-10-03 14:10:27.765799
-https://xkcd.com/126/: xkcd: Red Spiders Cometh, 2017-10-03 14:10:27.778417
-https://xkcd.com/125/: xkcd: Marketing Interview, 2017-10-03 14:10:27.782857
-https://xkcd.com/124/: xkcd: Blogofractal, 2017-10-03 14:10:27.785879
-https://xkcd.com/123/: xkcd: Centrifugal Force, 2017-10-03 14:10:27.789894
-https://xkcd.com/122/: xkcd: Quirky Girls, 2017-10-03 14:10:27.792492
-https://xkcd.com/121/: xkcd: Balloon, 2017-10-03 14:10:27.804691
-https://xkcd.com/120/: xkcd: Dating Service, 2017-10-03 14:10:27.808467
-https://xkcd.com/119/: xkcd: Worst Band Name Ever, 2017-10-03 14:10:27.812184
-https://xkcd.com/118/: xkcd: 50 Ways, 2017-10-03 14:10:27.816121
-https://xkcd.com/117/: xkcd: Pong, 2017-10-03 14:10:27.818397
-https://xkcd.com/115/: xkcd: Meerkat, 2017-10-03 14:10:27.826091
-https://xkcd.com/116/: xkcd: City, 2017-10-03 14:10:27.831275
-https://xkcd.com/114/: xkcd: Computational Linguists, 2017-10-03 14:10:27.835032
-https://xkcd.com/112/: xkcd: Baring My Heart, 2017-10-03 14:10:27.838744
-https://xkcd.com/113/: xkcd: Riemann-Zeta, 2017-10-03 14:10:27.841053
-https://xkcd.com/111/: xkcd: Firefox and Witchcraft - The Connection?, 2017-10-03 14:10:27.853359
-https://xkcd.com/110/: xkcd: Clark Gable, 2017-10-03 14:10:27.857865
-https://xkcd.com/109/: xkcd: Spoiler Alert, 2017-10-03 14:10:27.861947
-https://xkcd.com/107/: xkcd: Snakes on a Plane! 2, 2017-10-03 14:10:27.865742
-https://xkcd.com/108/: xkcd: M.C. Hammer Slide, 2017-10-03 14:10:27.868464
-https://xkcd.com/106/: xkcd: Wright Brothers, 2017-10-03 14:10:27.874090
-https://xkcd.com/105/: xkcd: Parallel Universe, 2017-10-03 14:10:27.880169
-https://xkcd.com/102/: xkcd: Back to the Future, 2017-10-03 14:10:27.889824
-https://xkcd.com/104/: xkcd: Find You, 2017-10-03 14:10:27.894045
-https://xkcd.com/103/: xkcd: Moral Relativity, 2017-10-03 14:10:27.896758
-https://xkcd.com/101/: xkcd: Laser Scope, 2017-10-03 14:10:27.899398
-https://xkcd.com/100/: xkcd: Family Circus, 2017-10-03 14:10:27.903265
-http://wiki.xkcd.com/geohashing/Main_Page: Geo Hashing, 2017-10-03 14:10:28.638998
-http://forums.xkcd.com/: xkcd - Index page, 2017-10-03 14:10:28.704435
-http://es.xkcd.com/: xkcd-es - Sesgo de supervivencia, 2017-10-03 14:10:28.716611
-https://store.xkcd.com/: The xkcd store, 2017-10-03 14:10:28.746637
-https://what-if.xkcd.com/feed.atom: , 2017-10-03 14:10:37.736264
-https://xkcd.com/asmarterplanet/: xkcd - A Webcomic -, 2017-10-03 14:10:45.303125
-https://xkcd.com/: xkcd: Self Driving, 2017-10-03 14:10:45.306668
-https://xkcd.com/chesscoaster/: , 2017-10-03 14:10:45.308701
-http://wiki.xkcd.com/geohashing/Xkcd: xkcd - Geo Hashing, 2017-10-03 14:10:45.531291
-http://wiki.xkcd.com/geohashing/Hauptseite: Hauptseite - Geo Hashing, 2017-10-03 14:10:45.639199
-http://wiki.xkcd.com/geohashing/Huvudsida: Huvudsida - Geo Hashing, 2017-10-03 14:10:45.660308
-http://wiki.xkcd.com/geohashing/P%C3%A1gina_Principal: Página Principal - Geo Hashing, 2017-10-03 14:10:45.676353
-http://wiki.xkcd.com/geohashing/Geo_Hashing:Community_Portal: Geo Hashing:Community Portal - Geo Hashing, 2017-10-03 14:10:45.688154
-http://wiki.xkcd.com/geohashing/Geohashing_Quotes: Geohashing Quotes - Geo Hashing, 2017-10-03 14:10:45.783650
-http://wiki.xkcd.com/geohashing/Page_d_Accueil: Accueil - Geo Hashing, 2017-10-03 14:10:45.800669
-http://wiki.xkcd.com/geohashing/User:OtherJack: User:OtherJack - Geo Hashing, 2017-10-03 14:10:45.911627
-http://wiki.xkcd.com/geohashing/Geohashing: Geohashing - Geo Hashing, 2017-10-03 14:10:45.941281
-http://wiki.xkcd.com/geohashing/Graticule: Graticule - Geo Hashing, 2017-10-03 14:10:45.945045
-http://wiki.xkcd.com/geohashing/Algorithm: The Algorithm - Geo Hashing, 2017-10-03 14:10:45.968954
-http://wiki.xkcd.com/geohashing/Expedition: Expedition - Geo Hashing, 2017-10-03 14:10:46.063515
-http://wiki.xkcd.com/geohashing/Globalhash: Globalhash - Geo Hashing, 2017-10-03 14:10:46.101075
-http://wiki.xkcd.com/geohashing/Water_Geohash: Water geohash achievement - Geo Hashing, 2017-10-03 14:10:46.119172
-http://wiki.xkcd.com/geohashing/Achievements: Achievements - Geo Hashing, 2017-10-03 14:10:46.166354
-http://wiki.xkcd.com/geohashing/A_beginner%27s_guide: A beginner's guide - Geo Hashing, 2017-10-03 14:10:46.183572
-http://wiki.xkcd.com/geohashing/How_it_works: How it works - Geo Hashing, 2017-10-03 14:10:46.225384
-http://wiki.xkcd.com/geohashing/FAQ: FAQ - Geo Hashing, 2017-10-03 14:10:46.234496
-http://wiki.xkcd.com/geohashing/Guidelines: Guidelines - Geo Hashing, 2017-10-03 14:10:46.288875
-http://wiki.xkcd.com/geohashing/Map_applications: Map applications - Geo Hashing, 2017-10-03 14:10:46.342085
-http://wiki.xkcd.com/geohashing/Maps_and_statistics: Maps and statistics - Geo Hashing, 2017-10-03 14:10:46.349891
-http://wiki.xkcd.com/geohashing/Hall_of_Amazingness: Hall of amazingness - Geo Hashing, 2017-10-03 14:10:46.374970
-http://wiki.xkcd.com/geohashing/Category:Geohashing_guide: Category:Geohashing guide - Geo Hashing, 2017-10-03 14:10:46.407970
-http://wiki.xkcd.com/geohashing/Why_go_geohashing: Why go geohashing - Geo Hashing, 2017-10-03 14:10:46.466008
-http://wiki.xkcd.com/geohashing/Geo_Hashing:Coordinate_calculators: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 14:10:46.476753
-http://wiki.xkcd.com/geohashing/Finding_your_graticule: Finding your graticule - Geo Hashing, 2017-10-03 14:10:46.497037
-http://wiki.xkcd.com/geohashing/Creating_a_User_Page: Creating a User Page - Geo Hashing, 2017-10-03 14:10:46.525742
-http://wiki.xkcd.com/geohashing/Template:New_on_the_wiki: Template:New on the wiki - Geo Hashing, 2017-10-03 14:10:46.601642
-http://wiki.xkcd.com/geohashing/User:Sourcerer: User:Sourcerer - Geo Hashing, 2017-10-03 14:10:46.617181
-http://wiki.xkcd.com/geohashing/User:Hijackal: User:Hijackal - Geo Hashing, 2017-10-03 14:10:46.655035
-http://wiki.xkcd.com/geohashing/Talk:Main_Page: Talk:Main Page - Geo Hashing, 2017-10-03 14:10:46.744115
-http://wiki.xkcd.com/geohashing/Meetup_graph: Meetup graph - Geo Hashing, 2017-10-03 14:10:46.763422
-http://wiki.xkcd.com/geohashing/Category:Needs_discussion: Category:Needs discussion - Geo Hashing, 2017-10-03 14:10:46.766760
-http://wiki.xkcd.com/geohashing/Category_talk:Important_geohashers: Category talk:Important geohashers - Geo Hashing, 2017-10-03 14:10:46.773077
-http://wiki.xkcd.com/geohashing/Geohashing_IRC_channel: Geohashing IRC channel - Geo Hashing, 2017-10-03 14:10:46.878293
-http://wiki.xkcd.com/geohashing/Category:Meetup_on_2018-05-21: Category:Meetup on 2018-05-21 - Geo Hashing, 2017-10-03 14:10:46.883666
-http://wiki.xkcd.com/geohashing/User:Robyn: User:Robyn - Geo Hashing, 2017-10-03 14:10:46.900898
-http://wiki.xkcd.com/geohashing/User:Wade: User:Wade - Geo Hashing, 2017-10-03 14:10:46.923257
-http://wiki.xkcd.com/geohashing/Xkcd_centurion_achievement: xkcd centurion achievement - Geo Hashing, 2017-10-03 14:10:47.030635
-http://wiki.xkcd.com/geohashing/Saturday_meetup: Saturday meetup - Geo Hashing, 2017-10-03 14:10:47.039291
-http://wiki.xkcd.com/geohashing/Active_Graticules: Category:Active graticules - Geo Hashing, 2017-10-03 14:10:47.140832
-http://wiki.xkcd.com/geohashing/Eastern_Time: Eastern Time - Geo Hashing, 2017-10-03 14:10:47.156686
-http://wiki.xkcd.com/geohashing/2017-09-26: 2017-09-26 - Geo Hashing, 2017-10-03 14:10:47.163556
-http://wiki.xkcd.com/geohashing/Dow: Dow Jones Industrial Average - Geo Hashing, 2017-10-03 14:10:47.222056
-http://wiki.xkcd.com/geohashing/2017-09-25: 2017-09-25 - Geo Hashing, 2017-10-03 14:10:47.271374
-http://wiki.xkcd.com/geohashing/2017-09-24: 2017-09-24 - Geo Hashing, 2017-10-03 14:10:47.276264
-http://wiki.xkcd.com/geohashing/2017-09-23: 2017-09-23 - Geo Hashing, 2017-10-03 14:10:47.282910
-http://wiki.xkcd.com/geohashing/2017-09-22: 2017-09-22 - Geo Hashing, 2017-10-03 14:10:47.336729
-http://wiki.xkcd.com/geohashing/2017-09-21: 2017-09-21 - Geo Hashing, 2017-10-03 14:10:47.386498
-http://wiki.xkcd.com/geohashing/2017-09-20: 2017-09-20 - Geo Hashing, 2017-10-03 14:10:47.391931
-http://wiki.xkcd.com/geohashing/2017-09-19: 2017-09-19 - Geo Hashing, 2017-10-03 14:10:47.397144
-http://wiki.xkcd.com/geohashing/2017-09: 2017-09 - Geo Hashing, 2017-10-03 14:10:47.524145
-http://wiki.xkcd.com/geohashing/2017-08: 2017-08 - Geo Hashing, 2017-10-03 14:10:47.555842
-http://wiki.xkcd.com/geohashing/30W: 30W Time Zone Rule - Geo Hashing, 2017-10-03 14:10:47.566057
-http://wiki.xkcd.com/geohashing/2017-07: 2017-07 - Geo Hashing, 2017-10-03 14:10:47.577244
-http://wiki.xkcd.com/geohashing/Expedition_Archives: Expedition Archives - Geo Hashing, 2017-10-03 14:10:47.657246
-http://wiki.xkcd.com/geohashing/Template:Expedition_Images2/How-to: Template:Expedition Images2/How-to - Geo Hashing, 2017-10-03 14:10:47.696563
-http://wiki.xkcd.com/geohashing/Geo_Hashing:Current_events: Geo Hashing:Current events - Geo Hashing, 2017-10-03 14:10:47.703948
-http://wiki.xkcd.com/wgh/index.php?title=Main_Page&amp;action=purge: Geo Hashing, 2017-10-03 14:10:47.761967
-http://wiki.xkcd.com/wgh/index.php?title=Template:Expedition_Images2/2017-09-25&amp;action=edit: Template:Expedition Images2/2017-09-25 - Geo Hashing, 2017-10-03 14:10:47.838695
-http://wiki.xkcd.com/wgh/index.php?title=Template:Expedition_Images2/2017-09-23&amp;action=edit: Template:Expedition Images2/2017-09-23 - Geo Hashing, 2017-10-03 14:10:47.871182
-http://wiki.xkcd.com/wgh/index.php?title=Template:Expedition_Images2/2017-09-22&amp;action=edit: Template:Expedition Images2/2017-09-22 - Geo Hashing, 2017-10-03 14:10:48.229535
-http://wiki.xkcd.com/wgh/index.php?title=Template:Expedition_Images2/2017-09-19&amp;action=edit: Template:Expedition Images2/2017-09-19 - Geo Hashing, 2017-10-03 14:10:49.284090
-http://wiki.xkcd.com/geohashing/2017-09-22_39_-104: 2017-09-22 39 -104 - Geo Hashing, 2017-10-03 14:10:49.389136
-http://wiki.xkcd.com/geohashing/2017-09-18: 2017-09-18 - Geo Hashing, 2017-10-03 14:10:49.401251
-http://wiki.xkcd.com/geohashing/2017-09-17: 2017-09-17 - Geo Hashing, 2017-10-03 14:10:49.428983
-http://wiki.xkcd.com/geohashing/2017-09-16: 2017-09-16 - Geo Hashing, 2017-10-03 14:10:49.528050
-http://wiki.xkcd.com/wgh/index.php?title=Template:Expedition_Images2/2017-09-16&amp;action=edit: Template:Expedition Images2/2017-09-16 - Geo Hashing, 2017-10-03 14:10:49.610787
-http://wiki.xkcd.com/geohashing/2017-09-15: 2017-09-15 - Geo Hashing, 2017-10-03 14:10:49.741758
-http://wiki.xkcd.com/geohashing/2017-09-14: 2017-09-14 - Geo Hashing, 2017-10-03 14:10:50.122881
-http://wiki.xkcd.com/geohashing/2017-09-19_49_8: 2017-09-19 49 8 - Geo Hashing, 2017-10-03 14:10:50.324029
-http://wiki.xkcd.com/geohashing/2017-09-13: 2017-09-13 - Geo Hashing, 2017-10-03 14:10:50.432055
-http://wiki.xkcd.com/wgh/index.php?title=Template:Expedition_Images2/2017-09-13&amp;action=edit: Template:Expedition Images2/2017-09-13 - Geo Hashing, 2017-10-03 14:10:50.505302
-http://wiki.xkcd.com/geohashing/2017-09-12: 2017-09-12 - Geo Hashing, 2017-10-03 14:10:50.624532
-http://wiki.xkcd.com/geohashing/2017-09-16_51_10: 2017-09-16 51 10 - Geo Hashing, 2017-10-03 14:10:50.723928
-http://wiki.xkcd.com/geohashing/2017-09-16_39_-105: 2017-09-16 39 -105 - Geo Hashing, 2017-10-03 14:10:50.759746
-http://wiki.xkcd.com/geohashing/2017-09-16_50_11: 2017-09-16 50 11 - Geo Hashing, 2017-10-03 14:10:50.791136
-http://wiki.xkcd.com/geohashing/2017-09-11: 2017-09-11 - Geo Hashing, 2017-10-03 14:10:50.844657
-http://wiki.xkcd.com/geohashing/Recent_non-expeditions: Recent non-expeditions - Geo Hashing, 2017-10-03 14:10:50.923964
-http://wiki.xkcd.com/wgh/index.php?title=Main_Page&amp;oldid=497023: Geo Hashing, 2017-10-03 14:10:51.001512
-http://wiki.xkcd.com/geohashing/Category:Definitions: Category:Definitions - Geo Hashing, 2017-10-03 14:10:51.044718
-http://wiki.xkcd.com/geohashing/Category:Meetup: Category:Meetup - Geo Hashing, 2017-10-03 14:10:51.050511
-http://wiki.xkcd.com/geohashing/Special:Categories: Categories - Geo Hashing, 2017-10-03 14:10:51.061188
-http://wiki.xkcd.com/wgh/index.php?title=Main_Page&amp;action=edit: Geo Hashing, 2017-10-03 14:10:51.190810
-http://wiki.xkcd.com/wgh/index.php?title=Main_Page&amp;action=history: Geo Hashing, 2017-10-03 14:10:51.222438
-http://wiki.xkcd.com/wgh/index.php?title=Special:UserLogin&amp;returnto=Main+Page&amp;type=signup: Log in - Geo Hashing, 2017-10-03 14:10:51.228042
-http://wiki.xkcd.com/wgh/index.php?title=Special:UserLogin&amp;returnto=Main+Page: Log in - Geo Hashing, 2017-10-03 14:10:51.231153
-http://wiki.xkcd.com/geohashing/Geo_Hashing:Community_portal: Geo Hashing:Community Portal - Geo Hashing, 2017-10-03 14:10:51.400541
-http://wiki.xkcd.com/geohashing/Special:WhatLinksHere/Main_Page: Pages that link to "Main Page" - Geo Hashing, 2017-10-03 14:10:51.445535
-http://wiki.xkcd.com/geohashing/Special:RecentChanges: Recent changes - Geo Hashing, 2017-10-03 14:10:51.600590
-http://wiki.xkcd.com/geohashing/Special:RecentChangesLinked/Main_Page: Changes related to "Main Page" - Geo Hashing, 2017-10-03 14:10:51.618446
+https://xkcd.com: xkcd: Self Driving, 2017-10-03 15:09:57.414319
+https://xkcd.com/1896/: xkcd: Active Ingredients Only, 2017-10-03 15:09:57.590548
+https://xkcd.com/1897/: xkcd: Self Driving, 2017-10-03 15:09:57.616057
+https://xkcd.com/atom.xml: xkcd.com, 2017-10-03 15:09:57.669357
+https://xkcd.com/license.html: xkcd - A Webcomic - License, 2017-10-03 15:09:57.679207
+https://what-if.xkcd.com/: Electrofishing for Whales, 2017-10-03 15:09:57.698189
+https://xkcd.com/1895/: xkcd: Worrying Scientist Interviews, 2017-10-03 15:09:57.707716
+https://xkcd.com/1894/: xkcd: Real Estate, 2017-10-03 15:09:57.827158
+https://xkcd.com/: xkcd: Self Driving, 2017-10-03 15:09:57.877315
+https://what-if.xkcd.com/156/: Electrofishing for Whales, 2017-10-03 15:09:57.880197
+https://xkcd.com/about/: xkcd - A webcomic, 2017-10-03 15:09:57.945558
+https://xkcd.com/1256/: xkcd: Questions, 2017-10-03 15:09:57.977587
+https://xkcd.com/1893/: xkcd: Thread, 2017-10-03 15:09:57.981204
+https://what-if.xkcd.com/155/: Toaster vs. Freezer, 2017-10-03 15:09:58.061245
+https://store.xkcd.com/: The xkcd store, 2017-10-03 15:09:58.097131
+https://blog.xkcd.com/: xkcd | The blag of the webcomic, 2017-10-03 15:09:58.111072
+https://what-if.xkcd.com/feed.atom: , 2017-10-03 15:10:06.295366
+https://xkcd.com/1892/: xkcd: USB Cables, 2017-10-03 15:10:06.455735
+https://xkcd.com/asmarterplanet/: xkcd - A Webcomic -, 2017-10-03 15:10:06.459906
+https://what-if.xkcd.com/154/: Coast-to-Coast Coasting, 2017-10-03 15:10:06.659503
+https://store.xkcd.com/pages/if-you-re-looking-for-the-what-if-book: What If?: Serious Scientific Answers to Absurd Hypothetical Questions | The xkcd store, 2017-10-03 15:10:06.873036
+https://store.xkcd.com/collections/featured: new things | The xkcd store, 2017-10-03 15:10:06.908016
+https://store.xkcd.com/pages/about-us: store faq | The xkcd store, 2017-10-03 15:10:06.929167
+https://store.xkcd.com/cart: Your Shopping Cart | The xkcd store, 2017-10-03 15:10:07.041681
+https://store.xkcd.com/pages/thing-explainer-book: thing explainer book | The xkcd store, 2017-10-03 15:10:07.045167
+https://store.xkcd.com/products/exoplanets-shirt: Exoplanets Shirt | The xkcd store, 2017-10-03 15:10:07.099426
+https://store.xkcd.com/products/switch-and-button-stickers: Switch and Button Stickers | The xkcd store, 2017-10-03 15:10:07.131566
+https://store.xkcd.com/products/opinions-bumper-sticker: Opinions Bumper Sticker | The xkcd store, 2017-10-03 15:10:07.153100
+https://store.xkcd.com/products/citation-needed-sticker-pack: Citation Needed Sticker Pack | The xkcd store, 2017-10-03 15:10:07.187565
+https://store.xkcd.com/products/doughnut-mug: Doughnut Mug | The xkcd store, 2017-10-03 15:10:07.214167
+https://store.xkcd.com/collections/everything: all the things | The xkcd store, 2017-10-03 15:10:07.222935
+https://store.xkcd.com/products/rover-shirt: Rover Shirt | The xkcd store, 2017-10-03 15:10:07.256812
+https://store.xkcd.com/products/overthinking-shirt: Overthinking Shirt | The xkcd store, 2017-10-03 15:10:07.261209
+https://store.xkcd.com/products/formal-logic-bumper-sticker: Formal Logic Bumper Sticker | The xkcd store, 2017-10-03 15:10:07.311262
+https://store.xkcd.com/products/move-fast-and-break-things: Move Fast and Break Things | The xkcd store, 2017-10-03 15:10:07.329863
+https://store.xkcd.com/products/actual-size-stickers: Actual Size Stickers | The xkcd store, 2017-10-03 15:10:07.364642
+https://store.xkcd.com/products/xkcd-store-gift-card: xkcd store gift card | The xkcd store, 2017-10-03 15:10:07.419307
+https://store.xkcd.com/products/height-poster: Height Poster | The xkcd store, 2017-10-03 15:10:07.464823
+https://store.xkcd.com/products/online-communities-2007-poster: Online Communities (2007) Poster | The xkcd store, 2017-10-03 15:10:07.484304
+https://store.xkcd.com/products/gravity-wells-poster: Gravity Wells Poster | The xkcd store, 2017-10-03 15:10:07.493793
+https://store.xkcd.com/products/online-communities-poster: Online Communities Poster | The xkcd store, 2017-10-03 15:10:07.523182
+https://store.xkcd.com/products/movie-narrative-charts-poster: Movie Narrative Charts Poster | The xkcd store, 2017-10-03 15:10:07.527504
+https://store.xkcd.com/products/lakes-oceans-poster: Lakes &amp; Oceans Poster | The xkcd store, 2017-10-03 15:10:07.562397
+https://store.xkcd.com/products/money-poster: Money Poster | The xkcd store, 2017-10-03 15:10:07.565879
+https://store.xkcd.com/products/united-shapes-poster: United Shapes Poster | The xkcd store, 2017-10-03 15:10:07.613406
+https://store.xkcd.com/products/7-button-pack: 7 Button Pack | The xkcd store, 2017-10-03 15:10:07.623315
+https://store.xkcd.com/products/congress-poster: Congress Poster | The xkcd store, 2017-10-03 15:10:07.675583
+https://store.xkcd.com/products/up-goer-five-poster: Up Goer Five Poster | The xkcd store, 2017-10-03 15:10:07.706619
+https://store.xkcd.com/products/subways: Subways | The xkcd store, 2017-10-03 15:10:07.719996
+https://store.xkcd.com/products/exoplanet-neighborhood-poster: Exoplanet Neighborhood Poster | The xkcd store, 2017-10-03 15:10:07.750661
+https://store.xkcd.com/products/xkcd-volume-0: xkcd: volume 0 | The xkcd store, 2017-10-03 15:10:07.771650
+https://store.xkcd.com/products/signed-prints: Signed Prints | The xkcd store, 2017-10-03 15:10:07.817404
+https://store.xkcd.com/products/useless: Useless | The xkcd store, 2017-10-03 15:10:07.824807
+https://store.xkcd.com/products/no-raptors: No Raptors | The xkcd store, 2017-10-03 15:10:07.847819
+https://store.xkcd.com/products/sudo: Sudo | The xkcd store, 2017-10-03 15:10:07.865754
+https://store.xkcd.com/products/witty: Witty | The xkcd store, 2017-10-03 15:10:07.905225
+https://store.xkcd.com/products/i-know-regular-expressions: I Know Regular Expressions | The xkcd store, 2017-10-03 15:10:07.912026
+https://store.xkcd.com/products/just-shy: Just Shy | The xkcd store, 2017-10-03 15:10:07.942628
+https://store.xkcd.com/products/try-science: Try Science | The xkcd store, 2017-10-03 15:10:07.961024
+https://store.xkcd.com/products/linux-cheat-shirt: Linux Cheat Shirt | The xkcd store, 2017-10-03 15:10:08.005155
+https://store.xkcd.com/products/xkcd-college-style-shirt: XKCD College-Style Shirt | The xkcd store, 2017-10-03 15:10:08.022902
+https://store.xkcd.com/products/compiling: Compiling | The xkcd store, 2017-10-03 15:10:08.107520
+https://store.xkcd.com/products/woodpecker: Woodpecker | The xkcd store, 2017-10-03 15:10:08.111492
+https://store.xkcd.com/products/correlation: Correlation | The xkcd store, 2017-10-03 15:10:08.114078
+https://store.xkcd.com/products/shark: Shark | The xkcd store, 2017-10-03 15:10:08.117712
+https://store.xkcd.com/products/tech-support: Tech Support | The xkcd store, 2017-10-03 15:10:08.187831
+https://store.xkcd.com/products/centrifuge: Centrifuge | The xkcd store, 2017-10-03 15:10:08.219635
+https://store.xkcd.com/products/qr-code: QR Code | The xkcd store, 2017-10-03 15:10:08.224416
+https://store.xkcd.com/products/sysadmin: Sysadmin | The xkcd store, 2017-10-03 15:10:08.259495
+https://store.xkcd.com/products/collatz-conjecture: Collatz Conjecture | The xkcd store, 2017-10-03 15:10:08.285968
+https://store.xkcd.com/products/self-reference: Self Reference | The xkcd store, 2017-10-03 15:10:08.321238
+https://store.xkcd.com/collections/posters: things for walls | The xkcd store, 2017-10-03 15:10:08.365662
+https://store.xkcd.com/products/xkcd-figures-shirt: XKCD Figures Shirt | The xkcd store, 2017-10-03 15:10:08.369440
+https://store.xkcd.com/products/greek-letter-shirt: Greek Letter Shirt | The xkcd store, 2017-10-03 15:10:08.373166
+https://store.xkcd.com/products/issues-shirt: Issues Shirt | The xkcd store, 2017-10-03 15:10:08.383340
+https://store.xkcd.com/collections/things-to-go-on-things: things to go on things | The xkcd store, 2017-10-03 15:10:08.393057
+https://store.xkcd.com/products/flying-ferret-tank-top: Flying Ferret Tank Top | The xkcd store, 2017-10-03 15:10:08.399534
+https://blog.xkcd.com/page/2/: xkcd | The blag of the webcomic | Page 2, 2017-10-03 15:10:08.463227
+https://blog.xkcd.com/2015/11/24/a-puzzle-for-the-uk/: A puzzle for the UK | xkcd, 2017-10-03 15:10:08.518304
+https://store.xkcd.com/collections/apparel: things for torsos | The xkcd store, 2017-10-03 15:10:08.588139
+https://blog.xkcd.com/author/randallpmunroe/: randallpmunroe | xkcd, 2017-10-03 15:10:08.643558
+https://blog.xkcd.com/2015/09/22/a-thing-explainer-word-checker/: A Thing Explainer word checker | xkcd, 2017-10-03 15:10:08.660141
+https://blog.xkcd.com/2015/09/22/im-going-on-a-book-trip/: I&#8217;m going on a book trip! | xkcd, 2017-10-03 15:10:08.668667
+https://blog.xkcd.com/2014/05/30/isee-3/: ISEE-3 | xkcd, 2017-10-03 15:10:08.696486
+https://blog.xkcd.com/2014/07/22/what-if-book-tour/: What If book tour! | xkcd, 2017-10-03 15:10:08.703762
+https://blog.xkcd.com/category/uncategorized/: Uncategorized | xkcd, 2017-10-03 15:10:08.716371
+https://blog.xkcd.com/author/davean/: davean | xkcd, 2017-10-03 15:10:08.737127
+https://blog.xkcd.com/2015/05/13/new-book-thing-explainer/: New book: Thing Explainer | xkcd, 2017-10-03 15:10:08.805438
+https://blog.xkcd.com/2013/09/30/asteroid-4942-munroe/: Asteroid 4942 Munroe | xkcd, 2017-10-03 15:10:08.813986
+https://xkcd.com/426/: xkcd: Geohashing, 2017-10-03 15:10:08.817849
+https://xkcd.com/chesscoaster/: , 2017-10-03 15:10:08.825233
+https://blog.xkcd.com/2014/03/12/what-if-i-wrote-a-book/: What if I wrote a book? | xkcd, 2017-10-03 15:10:08.844946
+https://xkcd.com/150/: xkcd: Grownups, 2017-10-03 15:10:08.850637
+https://blog.xkcd.com/2014/01/31/the-baby-name-wizard/: The Baby Name Wizard | xkcd, 2017-10-03 15:10:08.862413
+https://xkcd.com/1891/: xkcd: Obsolete Technology, 2017-10-03 15:10:08.870098
+https://blog.xkcd.com/2013/07/29/1190-time/: 1190: Time | xkcd, 2017-10-03 15:10:08.883401
+https://xkcd.com/rss.xml: xkcd.com, 2017-10-03 15:10:08.888099
+https://xkcd.com/123/: xkcd: Centrifugal Force, 2017-10-03 15:10:08.917348
+https://xkcd.com/162/: xkcd: Angular Momentum, 2017-10-03 15:10:08.938672
+https://what-if.xkcd.com/archive/: index, 2017-10-03 15:10:09.041823
+https://what-if.xkcd.com/153/: Hide the Atmosphere, 2017-10-03 15:10:09.163410
+https://store.xkcd.com/collections/featured/products/exoplanets-shirt: Exoplanets Shirt | The xkcd store, 2017-10-03 15:10:09.167263
+https://store.xkcd.com/collections/featured/products/rover-shirt: Rover Shirt | The xkcd store, 2017-10-03 15:10:09.170887
+https://store.xkcd.com/collections/featured/products/overthinking-shirt: Overthinking Shirt | The xkcd store, 2017-10-03 15:10:09.179532
+https://store.xkcd.com/collections/featured/products/xkcd-store-gift-card: xkcd store gift card | The xkcd store, 2017-10-03 15:10:09.182861
+https://store.xkcd.com/collections/featured/products/xkcd-figures-shirt: XKCD Figures Shirt | The xkcd store, 2017-10-03 15:10:09.186314
+https://store.xkcd.com/collections/everything/products/actual-size-stickers: Actual Size Stickers | The xkcd store, 2017-10-03 15:10:09.261926
+https://store.xkcd.com/collections/everything/products/switch-and-button-stickers: Switch and Button Stickers | The xkcd store, 2017-10-03 15:10:09.266177
+https://store.xkcd.com/collections/everything/products/opinions-bumper-sticker: Opinions Bumper Sticker | The xkcd store, 2017-10-03 15:10:09.296088
+https://store.xkcd.com/collections/everything/products/citation-needed-sticker-pack: Citation Needed Sticker Pack | The xkcd store, 2017-10-03 15:10:09.299782
+https://store.xkcd.com/collections/everything/products/doughnut-mug: Doughnut Mug | The xkcd store, 2017-10-03 15:10:09.338085
+https://store.xkcd.com/collections/everything/products/xkcd-store-gift-card: xkcd store gift card | The xkcd store, 2017-10-03 15:10:09.366226
+https://store.xkcd.com/collections/everything/products/move-fast-and-break-things: Move Fast and Break Things | The xkcd store, 2017-10-03 15:10:09.412516
+https://store.xkcd.com/collections/everything/products/7-button-pack: 7 Button Pack | The xkcd store, 2017-10-03 15:10:09.432294
+https://store.xkcd.com/collections/everything/products/formal-logic-bumper-sticker: Formal Logic Bumper Sticker | The xkcd store, 2017-10-03 15:10:09.436309
+https://store.xkcd.com/collections/everything/products/movie-narrative-charts-poster: Movie Narrative Charts Poster | The xkcd store, 2017-10-03 15:10:09.485681
+https://store.xkcd.com/collections/everything/products/online-communities-2007-poster: Online Communities (2007) Poster | The xkcd store, 2017-10-03 15:10:09.490188
+https://store.xkcd.com/collections/everything/products/height-poster: Height Poster | The xkcd store, 2017-10-03 15:10:09.503074
+https://store.xkcd.com/collections/everything/products/online-communities-poster: Online Communities Poster | The xkcd store, 2017-10-03 15:10:09.536529
+https://store.xkcd.com/collections/everything/products/money-poster: Money Poster | The xkcd store, 2017-10-03 15:10:09.577106
+https://store.xkcd.com/collections/everything/products/lakes-oceans-poster: Lakes &amp; Oceans Poster | The xkcd store, 2017-10-03 15:10:09.615849
+https://store.xkcd.com/collections/everything/products/congress-poster: Congress Poster | The xkcd store, 2017-10-03 15:10:09.643433
+https://store.xkcd.com/collections/everything/products/united-shapes-poster: United Shapes Poster | The xkcd store, 2017-10-03 15:10:09.667436
+https://store.xkcd.com/collections/everything/products/subways: Subways | The xkcd store, 2017-10-03 15:10:09.739206
+https://store.xkcd.com/collections/everything/products/exoplanet-neighborhood-poster: Exoplanet Neighborhood Poster | The xkcd store, 2017-10-03 15:10:09.742676
+https://store.xkcd.com/collections/everything/products/up-goer-five-poster: Up Goer Five Poster | The xkcd store, 2017-10-03 15:10:09.760789
+https://store.xkcd.com/collections/everything/products/signed-prints: Signed Prints | The xkcd store, 2017-10-03 15:10:09.764415
+https://store.xkcd.com/collections/everything/products/xkcd-volume-0: xkcd: volume 0 | The xkcd store, 2017-10-03 15:10:09.774061
+https://store.xkcd.com/collections/everything/products/useless: Useless | The xkcd store, 2017-10-03 15:10:09.835391
+https://store.xkcd.com/collections/everything/products/no-raptors: No Raptors | The xkcd store, 2017-10-03 15:10:09.859603
+https://store.xkcd.com/collections/everything/products/sudo: Sudo | The xkcd store, 2017-10-03 15:10:09.896273
+https://store.xkcd.com/collections/everything/products/witty: Witty | The xkcd store, 2017-10-03 15:10:09.925063
+https://store.xkcd.com/collections/everything/products/just-shy: Just Shy | The xkcd store, 2017-10-03 15:10:09.990529
+https://store.xkcd.com/collections/everything/products/compiling: Compiling | The xkcd store, 2017-10-03 15:10:10.013207
+https://store.xkcd.com/collections/everything/products/i-know-regular-expressions: I Know Regular Expressions | The xkcd store, 2017-10-03 15:10:10.026050
+https://store.xkcd.com/collections/everything/products/xkcd-college-style-shirt: XKCD College-Style Shirt | The xkcd store, 2017-10-03 15:10:10.029739
+https://store.xkcd.com/collections/everything/products/try-science: Try Science | The xkcd store, 2017-10-03 15:10:10.039309
+https://store.xkcd.com/collections/everything/products/woodpecker: Woodpecker | The xkcd store, 2017-10-03 15:10:10.053546
+https://store.xkcd.com/collections/everything/products/correlation: Correlation | The xkcd store, 2017-10-03 15:10:10.077070
+https://store.xkcd.com/collections/everything/products/shark: Shark | The xkcd store, 2017-10-03 15:10:10.177881
+https://store.xkcd.com/collections/everything/products/linux-cheat-shirt: Linux Cheat Shirt | The xkcd store, 2017-10-03 15:10:10.209917
+https://store.xkcd.com/collections/everything/products/tech-support: Tech Support | The xkcd store, 2017-10-03 15:10:10.245064
+https://store.xkcd.com/collections/everything/products/gravity-wells-poster: Gravity Wells Poster | The xkcd store, 2017-10-03 15:10:10.247606
+https://store.xkcd.com/collections/everything/products/qr-code: QR Code | The xkcd store, 2017-10-03 15:10:10.258610
+https://store.xkcd.com/collections/everything/products/centrifuge: Centrifuge | The xkcd store, 2017-10-03 15:10:10.289996
+https://store.xkcd.com/collections/everything/products/sysadmin: Sysadmin | The xkcd store, 2017-10-03 15:10:10.293701
+https://store.xkcd.com/collections/everything/products/self-reference: Self Reference | The xkcd store, 2017-10-03 15:10:10.302623
+https://store.xkcd.com/collections/everything/products/collatz-conjecture: Collatz Conjecture | The xkcd store, 2017-10-03 15:10:10.306522
+https://store.xkcd.com/collections/everything/products/issues-shirt: Issues Shirt | The xkcd store, 2017-10-03 15:10:10.438946
+https://store.xkcd.com/collections/everything/products/flying-ferret-tank-top: Flying Ferret Tank Top | The xkcd store, 2017-10-03 15:10:10.457500
+https://store.xkcd.com/collections/everything?page=2: all the things | The xkcd store, 2017-10-03 15:10:10.468645
+https://store.xkcd.com/collections/everything/products/rover-shirt: Rover Shirt | The xkcd store, 2017-10-03 15:10:10.505621
+https://store.xkcd.com/collections/everything/products/xkcd-figures-shirt: XKCD Figures Shirt | The xkcd store, 2017-10-03 15:10:10.513785
+https://store.xkcd.com/collections/everything/products/greek-letter-shirt: Greek Letter Shirt | The xkcd store, 2017-10-03 15:10:10.524163
+https://store.xkcd.com/collections/everything/products/exoplanets-shirt: Exoplanets Shirt | The xkcd store, 2017-10-03 15:10:10.529349
+https://store.xkcd.com/collections/everything/products/overthinking-shirt: Overthinking Shirt | The xkcd store, 2017-10-03 15:10:10.532176
+https://store.xkcd.com/collections/everything/products/xkcd-tie: xkcd tie | The xkcd store, 2017-10-03 15:10:10.540396
+https://store.xkcd.com/collections/posters/products/gravity-wells-poster: Gravity Wells Poster | The xkcd store, 2017-10-03 15:10:10.924384
+https://store.xkcd.com/collections/posters/products/exoplanet-neighborhood-poster: Exoplanet Neighborhood Poster | The xkcd store, 2017-10-03 15:10:10.927876
+https://store.xkcd.com/collections/posters/products/online-communities-poster: Online Communities Poster | The xkcd store, 2017-10-03 15:10:10.931770
+https://store.xkcd.com/collections/posters/products/money-poster: Money Poster | The xkcd store, 2017-10-03 15:10:10.935537
+https://store.xkcd.com/collections/posters/products/lakes-oceans-poster: Lakes &amp; Oceans Poster | The xkcd store, 2017-10-03 15:10:10.945584
+https://store.xkcd.com/collections/posters/products/movie-narrative-charts-poster: Movie Narrative Charts Poster | The xkcd store, 2017-10-03 15:10:10.949425
+https://store.xkcd.com/collections/posters/products/congress-poster: Congress Poster | The xkcd store, 2017-10-03 15:10:10.960476
+https://store.xkcd.com/collections/posters/products/online-communities-2007-poster: Online Communities (2007) Poster | The xkcd store, 2017-10-03 15:10:10.964024
+https://store.xkcd.com/collections/posters/products/subways: Subways | The xkcd store, 2017-10-03 15:10:10.997487
+https://store.xkcd.com/collections/posters/products/height-poster: Height Poster | The xkcd store, 2017-10-03 15:10:11.049815
+https://store.xkcd.com/collections/things-to-go-on-things/products/formal-logic-bumper-sticker: Formal Logic Bumper Sticker | The xkcd store, 2017-10-03 15:10:11.123095
+https://store.xkcd.com/collections/things-to-go-on-things/products/opinions-bumper-sticker: Opinions Bumper Sticker | The xkcd store, 2017-10-03 15:10:11.135817
+https://store.xkcd.com/collections/things-to-go-on-things/products/switch-and-button-stickers: Switch and Button Stickers | The xkcd store, 2017-10-03 15:10:11.152766
+https://blog.xkcd.com/2013/05/15/dictionary-of-numbers/: Dictionary of Numbers | xkcd, 2017-10-03 15:10:11.170260
+https://store.xkcd.com/collections/posters/products/united-shapes-poster: United Shapes Poster | The xkcd store, 2017-10-03 15:10:11.173871
+https://store.xkcd.com/collections/things-to-go-on-things/products/citation-needed-sticker-pack: Citation Needed Sticker Pack | The xkcd store, 2017-10-03 15:10:11.176937
+https://blog.xkcd.com/page/3/: xkcd | The blag of the webcomic | Page 3, 2017-10-03 15:10:11.191255
+https://store.xkcd.com/collections/things-to-go-on-things/products/actual-size-stickers: Actual Size Stickers | The xkcd store, 2017-10-03 15:10:11.215110
+https://blog.xkcd.com/2012/09/29/odd-temporal-milestones/: Odd Temporal Milestones | xkcd, 2017-10-03 15:10:11.250463
+https://blog.xkcd.com/2012/07/12/a-morbid-python-script/: A morbid Python script | xkcd, 2017-10-03 15:10:11.315615
+https://store.xkcd.com/collections/posters/products/up-goer-five-poster: Up Goer Five Poster | The xkcd store, 2017-10-03 15:10:11.392401
+https://blog.xkcd.com/2012/03/22/im-visiting-cnu-on-april-4th/: I&#8217;m visiting CNU on April 4th | xkcd, 2017-10-03 15:10:11.410206
+https://blog.xkcd.com/2012/07/02/groundhog-day-correction/: Groundhog Day correction | xkcd, 2017-10-03 15:10:11.433328
+https://blog.xkcd.com/2012/02/27/geohashing-2/: Geohashing | xkcd, 2017-10-03 15:10:11.446586
+http://wiki.xkcd.com/geohashing/Globalhash: Globalhash - Geo Hashing, 2017-10-03 15:10:11.455728
+https://blog.xkcd.com/2012/01/31/tsunami-photos-and-videos/: Tsunami photos and videos | xkcd, 2017-10-03 15:10:11.492688
+http://wiki.xkcd.com/geohashing/Geo_Hashing:Coordinate_calculators: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:11.519177
+http://wiki.xkcd.com/geohashing/Achievements: Achievements - Geo Hashing, 2017-10-03 15:10:11.541223
+http://wiki.xkcd.com/geohashing/User:Cjk: User:Cjk - Geo Hashing, 2017-10-03 15:10:11.569645
+https://xkcd.com/thing-explainer/: xkcd: Thing Explainer, 2017-10-03 15:10:11.582512
+https://blog.xkcd.com/2011/12/31/godaddy/: GoDaddy | xkcd, 2017-10-03 15:10:11.590480
+https://blog.xkcd.com/2011/09/12/672/: xkcd, 2017-10-03 15:10:11.600136
+https://xkcd.com/simplewriter/: , 2017-10-03 15:10:11.601988
+https://blog.xkcd.com/2011/11/24/money-chart/: Money chart | xkcd, 2017-10-03 15:10:11.613608
+https://xkcd.com/1133/: xkcd: Up Goer Five, 2017-10-03 15:10:11.680738
+https://store.xkcd.com/collections/apparel/products/compiling: Compiling | The xkcd store, 2017-10-03 15:10:11.812986
+https://store.xkcd.com/collections/apparel/products/centrifuge: Centrifuge | The xkcd store, 2017-10-03 15:10:11.867632
+https://store.xkcd.com/collections/apparel/products/correlation: Correlation | The xkcd store, 2017-10-03 15:10:11.872654
+https://store.xkcd.com/collections/apparel/products/collatz-conjecture: Collatz Conjecture | The xkcd store, 2017-10-03 15:10:11.882498
+https://store.xkcd.com/collections/apparel/products/flying-ferret-tank-top: Flying Ferret Tank Top | The xkcd store, 2017-10-03 15:10:11.887404
+https://store.xkcd.com/collections/apparel/products/hoodie: Hoodie | The xkcd store, 2017-10-03 15:10:11.935745
+https://store.xkcd.com/collections/apparel/products/hat-guy-polo: Hat Guy Polo | The xkcd store, 2017-10-03 15:10:11.941022
+https://store.xkcd.com/collections/apparel/products/greek-letter-shirt: Greek Letter Shirt | The xkcd store, 2017-10-03 15:10:12.056323
+https://store.xkcd.com/collections/apparel/products/exoplanets-shirt: Exoplanets Shirt | The xkcd store, 2017-10-03 15:10:12.108394
+https://store.xkcd.com/collections/apparel/products/i-know-regular-expressions: I Know Regular Expressions | The xkcd store, 2017-10-03 15:10:12.111934
+https://store.xkcd.com/collections/apparel/products/issues-shirt: Issues Shirt | The xkcd store, 2017-10-03 15:10:12.134208
+https://store.xkcd.com/collections/apparel/products/linux-cheat-shirt: Linux Cheat Shirt | The xkcd store, 2017-10-03 15:10:12.140039
+https://store.xkcd.com/collections/apparel/products/just-shy: Just Shy | The xkcd store, 2017-10-03 15:10:12.144159
+https://store.xkcd.com/collections/apparel/products/no-raptors: No Raptors | The xkcd store, 2017-10-03 15:10:12.169919
+http://wiki.xkcd.com/geohashing/2012-02-26_global: 2012-02-26 global - Geo Hashing, 2017-10-03 15:10:12.193974
+https://store.xkcd.com/collections/apparel/products/overthinking-shirt: Overthinking Shirt | The xkcd store, 2017-10-03 15:10:12.205631
+https://store.xkcd.com/collections/apparel/products/qr-code: QR Code | The xkcd store, 2017-10-03 15:10:12.209440
+https://store.xkcd.com/collections/apparel/products/raptor-polo: Raptor Polo | The xkcd store, 2017-10-03 15:10:12.330347
+https://store.xkcd.com/collections/apparel/products/rover-shirt: Rover Shirt | The xkcd store, 2017-10-03 15:10:12.364623
+https://store.xkcd.com/collections/apparel/products/shark: Shark | The xkcd store, 2017-10-03 15:10:12.387002
+https://store.xkcd.com/collections/apparel/products/sudo: Sudo | The xkcd store, 2017-10-03 15:10:12.400574
+https://store.xkcd.com/collections/apparel/products/sysadmin: Sysadmin | The xkcd store, 2017-10-03 15:10:12.430839
+https://store.xkcd.com/collections/apparel/products/tech-support: Tech Support | The xkcd store, 2017-10-03 15:10:12.440620
+https://store.xkcd.com/collections/apparel/products/self-reference: Self Reference | The xkcd store, 2017-10-03 15:10:12.478081
+https://store.xkcd.com/collections/apparel/products/try-science: Try Science | The xkcd store, 2017-10-03 15:10:12.482164
+https://store.xkcd.com/collections/apparel/products/useless: Useless | The xkcd store, 2017-10-03 15:10:12.486257
+https://xkcd.com/1337/: xkcd: Hack, 2017-10-03 15:10:12.524992
+https://store.xkcd.com/collections/apparel/products/witty: Witty | The xkcd store, 2017-10-03 15:10:12.542108
+https://store.xkcd.com/collections/apparel/products/woodpecker: Woodpecker | The xkcd store, 2017-10-03 15:10:12.603295
+https://blog.xkcd.com/author/randallpmunroe/page/2/: randallpmunroe | xkcd | Page 2, 2017-10-03 15:10:12.619436
+https://store.xkcd.com/collections/apparel/products/xkcd-college-style-shirt: XKCD College-Style Shirt | The xkcd store, 2017-10-03 15:10:12.631596
+https://store.xkcd.com/collections/apparel/products/xkcd-tie: xkcd tie | The xkcd store, 2017-10-03 15:10:12.641803
+https://store.xkcd.com/collections/apparel/products/xkcd-figures-shirt: XKCD Figures Shirt | The xkcd store, 2017-10-03 15:10:12.667676
+https://blog.xkcd.com/2014/05/30/isee-3/comment-page-2/: ISEE-3 | xkcd, 2017-10-03 15:10:12.833545
+https://blog.xkcd.com/2014/05/30/isee-3/comment-page-1/: ISEE-3 | xkcd, 2017-10-03 15:10:12.952043
+https://blog.xkcd.com/2014/07/22/what-if-book-tour/comment-page-23/: What If book tour! | xkcd, 2017-10-03 15:10:13.077994
+https://xkcd.com/1011/: xkcd: Baby Names, 2017-10-03 15:10:13.138430
+https://blog.xkcd.com/2014/07/22/what-if-book-tour/comment-page-22/: What If book tour! | xkcd, 2017-10-03 15:10:13.164926
+https://xkcd.com/1190/: xkcd: Time, 2017-10-03 15:10:13.171414
+https://blog.xkcd.com/category/uncategorized/page/2/: Uncategorized | xkcd | Page 2, 2017-10-03 15:10:13.190551
+https://blog.xkcd.com/2015/05/13/new-book-thing-explainer/comment-page-2/: New book: Thing Explainer | xkcd, 2017-10-03 15:10:13.336668
+https://blog.xkcd.com/2015/05/13/new-book-thing-explainer/comment-page-1/: New book: Thing Explainer | xkcd, 2017-10-03 15:10:13.351693
+https://xkcd.com/1420/: xkcd: Watches, 2017-10-03 15:10:13.560114
+https://blog.xkcd.com/2013/09/30/asteroid-4942-munroe/comment-page-6/: Asteroid 4942 Munroe | xkcd, 2017-10-03 15:10:13.730345
+https://xkcd.com/427/: xkcd: Bad Timing, 2017-10-03 15:10:13.797704
+https://xkcd.com/803/: xkcd: Airfoil, 2017-10-03 15:10:13.803999
+https://blog.xkcd.com/2013/09/30/asteroid-4942-munroe/comment-page-5/: Asteroid 4942 Munroe | xkcd, 2017-10-03 15:10:13.883229
+https://blog.xkcd.com/2014/03/12/what-if-i-wrote-a-book/comment-page-23/: What if I wrote a book? | xkcd, 2017-10-03 15:10:13.891509
+https://blog.xkcd.com/2014/03/12/what-if-i-wrote-a-book/comment-page-22/: What if I wrote a book? | xkcd, 2017-10-03 15:10:13.977114
+https://xkcd.com/151/: xkcd: Mario, 2017-10-03 15:10:13.996582
+https://xkcd.com/149/: xkcd: Sandwich, 2017-10-03 15:10:14.000135
+https://blog.xkcd.com/2014/01/31/the-baby-name-wizard/comment-page-2/: The Baby Name Wizard | xkcd, 2017-10-03 15:10:14.221263
+https://blog.xkcd.com/2014/01/31/the-baby-name-wizard/comment-page-1/: The Baby Name Wizard | xkcd, 2017-10-03 15:10:14.249085
+https://xkcd.com/1890/: xkcd: What to Bring, 2017-10-03 15:10:14.412474
+https://blog.xkcd.com/2013/07/29/1190-time/comment-page-8/: 1190: Time | xkcd, 2017-10-03 15:10:14.525158
+https://blog.xkcd.com/2013/07/29/1190-time/comment-page-7/: 1190: Time | xkcd, 2017-10-03 15:10:14.601552
+https://xkcd.com/124/: xkcd: Blogofractal, 2017-10-03 15:10:14.695819
+https://xkcd.com/122/: xkcd: Quirky Girls, 2017-10-03 15:10:14.699552
+https://xkcd.com/161/: xkcd: Accident, 2017-10-03 15:10:14.706084
+https://what-if.xkcd.com/8/: Everybody Jump, 2017-10-03 15:10:14.892709
+https://what-if.xkcd.com/1/: Relativistic Baseball, 2017-10-03 15:10:14.913079
+https://what-if.xkcd.com/2/: SAT Guessing, 2017-10-03 15:10:14.923105
+https://xkcd.com/163/: xkcd: Donald Knuth, 2017-10-03 15:10:14.945483
+https://what-if.xkcd.com/10/: Cassini, 2017-10-03 15:10:14.985584
+https://what-if.xkcd.com/12/: Raindrop, 2017-10-03 15:10:15.009487
+https://what-if.xkcd.com/3/: Yoda, 2017-10-03 15:10:15.037329
+https://what-if.xkcd.com/5/: Robot Apocalypse, 2017-10-03 15:10:15.077537
+https://what-if.xkcd.com/4/: A Mole of Moles, 2017-10-03 15:10:15.080419
+https://what-if.xkcd.com/6/: Glass Half Empty, 2017-10-03 15:10:15.082782
+https://what-if.xkcd.com/7/: Everybody Out, 2017-10-03 15:10:15.084918
+https://what-if.xkcd.com/9/: Soul Mates, 2017-10-03 15:10:15.117313
+https://what-if.xkcd.com/16/: Today's topic: Lightning, 2017-10-03 15:10:15.134503
+https://what-if.xkcd.com/17/: Green Cows, 2017-10-03 15:10:15.162110
+https://what-if.xkcd.com/19/: Tie Vote, 2017-10-03 15:10:15.172310
+https://what-if.xkcd.com/20/: Diamond, 2017-10-03 15:10:15.174853
+https://what-if.xkcd.com/11/: Droppings, 2017-10-03 15:10:15.202486
+https://what-if.xkcd.com/22/: Cost of Pennies, 2017-10-03 15:10:15.226513
+https://what-if.xkcd.com/14/: Short Answer Section, 2017-10-03 15:10:15.281388
+https://what-if.xkcd.com/26/: Leap Seconds, 2017-10-03 15:10:15.289535
+https://what-if.xkcd.com/15/: Mariana Trench Explosion, 2017-10-03 15:10:15.366432
+https://what-if.xkcd.com/13/: Laser Pointer, 2017-10-03 15:10:15.369360
+https://what-if.xkcd.com/28/: Steak Drop, 2017-10-03 15:10:15.372353
+https://what-if.xkcd.com/18/: BB Gun, 2017-10-03 15:10:15.374825
+https://what-if.xkcd.com/21/: Machine Gun Jetpack, 2017-10-03 15:10:15.409340
+https://what-if.xkcd.com/31/: FedEx Bandwidth, 2017-10-03 15:10:15.465114
+https://what-if.xkcd.com/25/: Three Wise Men, 2017-10-03 15:10:15.468014
+https://what-if.xkcd.com/33/: Ships, 2017-10-03 15:10:15.469483
+https://what-if.xkcd.com/32/: Hubble, 2017-10-03 15:10:15.472736
+https://what-if.xkcd.com/24/: Model Rockets, 2017-10-03 15:10:15.474824
+https://what-if.xkcd.com/23/: Short Answer Section II, 2017-10-03 15:10:15.487329
+https://what-if.xkcd.com/34/: Twitter, 2017-10-03 15:10:15.497321
+https://what-if.xkcd.com/35/: Hair Dryer, 2017-10-03 15:10:15.557467
+https://what-if.xkcd.com/38/: Voyager, 2017-10-03 15:10:15.567652
+https://what-if.xkcd.com/39/: Hockey Puck, 2017-10-03 15:10:15.570518
+https://what-if.xkcd.com/40/: Pressure Cooker, 2017-10-03 15:10:15.573225
+https://what-if.xkcd.com/27/: Death Rates, 2017-10-03 15:10:15.576017
+https://what-if.xkcd.com/29/: Spent Fuel Pool, 2017-10-03 15:10:15.577903
+https://what-if.xkcd.com/41/: Go West, 2017-10-03 15:10:15.581925
+https://what-if.xkcd.com/42/: Longest Sunset, 2017-10-03 15:10:15.649964
+https://what-if.xkcd.com/46/: Bowling Ball, 2017-10-03 15:10:15.670769
+https://what-if.xkcd.com/45/: ISS Music Video, 2017-10-03 15:10:15.675284
+https://what-if.xkcd.com/47/: Alien Astronomers, 2017-10-03 15:10:15.677220
+https://what-if.xkcd.com/48/: Sunset on the British Empire, 2017-10-03 15:10:15.678840
+https://what-if.xkcd.com/30/: Interplanetary Cessna, 2017-10-03 15:10:15.680249
+https://what-if.xkcd.com/49/: Sunless Earth, 2017-10-03 15:10:15.740162
+https://what-if.xkcd.com/37/: Supersonic Stereo, 2017-10-03 15:10:15.759868
+https://what-if.xkcd.com/51/: Free Fall, 2017-10-03 15:10:15.773124
+https://what-if.xkcd.com/50/: Extreme Boating, 2017-10-03 15:10:15.776867
+https://what-if.xkcd.com/54/: Drain the Oceans: Part II, 2017-10-03 15:10:15.778404
+https://what-if.xkcd.com/53/: Drain the Oceans, 2017-10-03 15:10:15.779757
+https://what-if.xkcd.com/36/: Cornstarch, 2017-10-03 15:10:15.796553
+https://what-if.xkcd.com/55/: Random Sneeze Call, 2017-10-03 15:10:15.826142
+https://what-if.xkcd.com/43/: Train Loop, 2017-10-03 15:10:15.875297
+https://what-if.xkcd.com/57/: Dropping a Mountain, 2017-10-03 15:10:15.882703
+https://what-if.xkcd.com/59/: Updating a Printed Wikipedia, 2017-10-03 15:10:15.886057
+https://what-if.xkcd.com/60/: Signs of Life, 2017-10-03 15:10:15.887716
+https://what-if.xkcd.com/58/: Orbital Speed, 2017-10-03 15:10:15.890206
+https://what-if.xkcd.com/44/: High Throw, 2017-10-03 15:10:15.910254
+https://what-if.xkcd.com/62/: Falling With Helium, 2017-10-03 15:10:15.913743
+https://what-if.xkcd.com/52/: Bouncy Balls, 2017-10-03 15:10:15.994044
+https://what-if.xkcd.com/66/: 500 MPH, 2017-10-03 15:10:15.997788
+https://what-if.xkcd.com/65/: Twitter Timeline Height, 2017-10-03 15:10:15.999880
+https://what-if.xkcd.com/63/: Google's Datacenters on Punch Cards, 2017-10-03 15:10:16.002418
+https://what-if.xkcd.com/69/: Facebook of the Dead, 2017-10-03 15:10:16.006168
+https://what-if.xkcd.com/56/: Restraining an Airplane, 2017-10-03 15:10:16.053332
+https://what-if.xkcd.com/61/: Speed Bump, 2017-10-03 15:10:16.086215
+https://what-if.xkcd.com/74/: Soda Planet, 2017-10-03 15:10:16.089883
+https://what-if.xkcd.com/70/: The Constant Groundskeeper, 2017-10-03 15:10:16.092341
+https://what-if.xkcd.com/71/: Stirring Tea, 2017-10-03 15:10:16.094936
+https://what-if.xkcd.com/73/: Lethal Neutrinos, 2017-10-03 15:10:16.096070
+https://what-if.xkcd.com/75/: Phone Keypad, 2017-10-03 15:10:16.143134
+https://what-if.xkcd.com/76/: Reading Every Book, 2017-10-03 15:10:16.170778
+https://what-if.xkcd.com/78/: T-rex Calories, 2017-10-03 15:10:16.182286
+https://what-if.xkcd.com/77/: Growth Rate, 2017-10-03 15:10:16.185245
+https://what-if.xkcd.com/80/: Pile of Viruses, 2017-10-03 15:10:16.186484
+https://what-if.xkcd.com/79/: Lake Tea, 2017-10-03 15:10:16.189614
+https://what-if.xkcd.com/67/: Expanding Earth, 2017-10-03 15:10:16.195555
+https://what-if.xkcd.com/64/: Rising Steadily, 2017-10-03 15:10:16.223955
+https://what-if.xkcd.com/68/: Little Planet, 2017-10-03 15:10:16.236014
+https://what-if.xkcd.com/82/: Hitting a comet, 2017-10-03 15:10:16.256513
+https://what-if.xkcd.com/84/: Paint the Earth, 2017-10-03 15:10:16.273161
+https://what-if.xkcd.com/83/: Star Sand, 2017-10-03 15:10:16.275922
+https://what-if.xkcd.com/85/: Rocket Golf, 2017-10-03 15:10:16.288816
+https://what-if.xkcd.com/86/: Far-Traveling Objects, 2017-10-03 15:10:16.291966
+https://what-if.xkcd.com/87/: Enforced by Radar, 2017-10-03 15:10:16.293229
+https://what-if.xkcd.com/88/: Soda Sequestration, 2017-10-03 15:10:16.307718
+https://what-if.xkcd.com/89/: Tungsten Countertop, 2017-10-03 15:10:16.320686
+https://what-if.xkcd.com/72/: Loneliest Human, 2017-10-03 15:10:16.333904
+https://what-if.xkcd.com/91/: Faucet Power, 2017-10-03 15:10:16.367248
+https://what-if.xkcd.com/92/: One-Second Day, 2017-10-03 15:10:16.373604
+https://what-if.xkcd.com/95/: Pyramid Energy, 2017-10-03 15:10:16.386827
+https://what-if.xkcd.com/93/: Windshield Raindrops, 2017-10-03 15:10:16.389456
+https://what-if.xkcd.com/96/: $2 Undecillion Lawsuit, 2017-10-03 15:10:16.397179
+https://what-if.xkcd.com/97/: Burning Pollen, 2017-10-03 15:10:16.413290
+https://what-if.xkcd.com/98/: Blood Alcohol, 2017-10-03 15:10:16.423001
+https://what-if.xkcd.com/99/: Starlings, 2017-10-03 15:10:16.459212
+https://what-if.xkcd.com/100/: WWII Films, 2017-10-03 15:10:16.462679
+https://what-if.xkcd.com/81/: Catch!, 2017-10-03 15:10:16.470110
+https://what-if.xkcd.com/102/: Keyboard Power, 2017-10-03 15:10:16.478500
+https://what-if.xkcd.com/103/: Vanishing Water, 2017-10-03 15:10:16.489589
+https://what-if.xkcd.com/104/: Global Snow, 2017-10-03 15:10:16.501451
+https://what-if.xkcd.com/105/: Cannibalism, 2017-10-03 15:10:16.518303
+https://what-if.xkcd.com/106/: Ink Molecules, 2017-10-03 15:10:16.549242
+https://what-if.xkcd.com/107/: Letter to Mom, 2017-10-03 15:10:16.555224
+https://what-if.xkcd.com/108/: Expensive Shoebox, 2017-10-03 15:10:16.558080
+https://what-if.xkcd.com/109/: Into the Blue, 2017-10-03 15:10:16.572051
+https://what-if.xkcd.com/110/: Walking New York, 2017-10-03 15:10:16.577342
+https://what-if.xkcd.com/90/: Great Tree, Great Axe, 2017-10-03 15:10:16.580162
+https://what-if.xkcd.com/111/: All the Money, 2017-10-03 15:10:16.592676
+https://what-if.xkcd.com/112/: Balloon Car, 2017-10-03 15:10:16.613554
+https://what-if.xkcd.com/94/: Billion-Story Building, 2017-10-03 15:10:16.620297
+https://what-if.xkcd.com/114/: Antimatter, 2017-10-03 15:10:16.646982
+https://what-if.xkcd.com/115/: Into the Sun, 2017-10-03 15:10:16.654885
+https://what-if.xkcd.com/116/: No-Rules NASCAR, 2017-10-03 15:10:16.663783
+https://what-if.xkcd.com/118/: Physical Salary, 2017-10-03 15:10:16.670903
+https://what-if.xkcd.com/117/: Distant Death, 2017-10-03 15:10:16.673980
+https://what-if.xkcd.com/119/: Laser Umbrella, 2017-10-03 15:10:16.681767
+https://what-if.xkcd.com/120/: Alternate Universe What Ifs, 2017-10-03 15:10:16.699683
+https://what-if.xkcd.com/101/: Plastic Dinosaurs, 2017-10-03 15:10:16.716542
+https://what-if.xkcd.com/123/: Fairy Demographics, 2017-10-03 15:10:16.752097
+https://what-if.xkcd.com/124/: Lunar Swimming, 2017-10-03 15:10:16.755599
+https://what-if.xkcd.com/125/: Bowling Ball, 2017-10-03 15:10:16.763190
+https://what-if.xkcd.com/126/: Stairs, 2017-10-03 15:10:16.766487
+https://what-if.xkcd.com/127/: Tug of War, 2017-10-03 15:10:16.769083
+https://what-if.xkcd.com/128/: Zippo Phone, 2017-10-03 15:10:16.784956
+https://what-if.xkcd.com/129/: Black Hole Moon, 2017-10-03 15:10:16.803600
+https://what-if.xkcd.com/131/: Microwaves, 2017-10-03 15:10:16.844806
+https://what-if.xkcd.com/132/: Hotter than Average, 2017-10-03 15:10:16.850256
+https://what-if.xkcd.com/133/: Flagpole, 2017-10-03 15:10:16.853536
+https://what-if.xkcd.com/134/: Space Burial, 2017-10-03 15:10:16.855843
+https://what-if.xkcd.com/135/: Digging Downward, 2017-10-03 15:10:16.870599
+https://what-if.xkcd.com/113/: Visit Every State, 2017-10-03 15:10:16.875357
+https://what-if.xkcd.com/136/: Spiders vs. the Sun, 2017-10-03 15:10:16.899420
+https://what-if.xkcd.com/137/: New Horizons, 2017-10-03 15:10:16.932340
+https://what-if.xkcd.com/138/: Jupiter Submarine, 2017-10-03 15:10:16.935013
+https://what-if.xkcd.com/139/: Jupiter Descending, 2017-10-03 15:10:16.943256
+https://what-if.xkcd.com/140/: Proton Earth, Electron Moon, 2017-10-03 15:10:16.945816
+https://what-if.xkcd.com/121/: Frozen Rivers, 2017-10-03 15:10:16.953218
+https://what-if.xkcd.com/141/: Sunbeam, 2017-10-03 15:10:16.955887
+https://what-if.xkcd.com/142/: Space Jetta, 2017-10-03 15:10:16.961383
+https://what-if.xkcd.com/122/: Lava Lamp, 2017-10-03 15:10:16.971682
+https://what-if.xkcd.com/143/: Europa Water Siphon, 2017-10-03 15:10:16.986156
+https://what-if.xkcd.com/144/: Saliva Pool, 2017-10-03 15:10:17.017245
+https://what-if.xkcd.com/145/: Fire From Moonlight, 2017-10-03 15:10:17.021677
+https://what-if.xkcd.com/146/: Stop Jupiter, 2017-10-03 15:10:17.039458
+https://what-if.xkcd.com/147/: Niagara Straw, 2017-10-03 15:10:17.042677
+https://what-if.xkcd.com/148/: Eat the Sun, 2017-10-03 15:10:17.045541
+https://what-if.xkcd.com/149/: Pizza Bird, 2017-10-03 15:10:17.048311
+https://what-if.xkcd.com/150/: Tatooine Rainbow, 2017-10-03 15:10:17.051046
+https://what-if.xkcd.com/151/: Sun Bug, 2017-10-03 15:10:17.057583
+https://what-if.xkcd.com/152/: Flood Death Valley, 2017-10-03 15:10:17.074660
+https://what-if.xkcd.com/130/: Snow Removal, 2017-10-03 15:10:17.077702
+https://xkcd.com/482/: xkcd: Height, 2017-10-03 15:10:17.096395
+https://xkcd.com/256/: xkcd: Online Communities, 2017-10-03 15:10:17.160037
+https://xkcd.com/681/: xkcd: Gravity Wells, 2017-10-03 15:10:17.188462
+https://xkcd.com/802/: xkcd: Online Communities 2, 2017-10-03 15:10:17.194682
+https://xkcd.com/657/: xkcd: Movie Narrative Charts, 2017-10-03 15:10:17.233512
+https://xkcd.com/1040/: xkcd: Lakes and Oceans, 2017-10-03 15:10:17.275126
+https://xkcd.com/1079/: xkcd: United Shapes, 2017-10-03 15:10:17.281954
+https://store.xkcd.com/collections/everything/products/hoodie: Hoodie | The xkcd store, 2017-10-03 15:10:17.310083
+https://xkcd.com/55/: xkcd: Useless, 2017-10-03 15:10:17.312918
+https://store.xkcd.com/collections/everything/products/hat-guy-polo: Hat Guy Polo | The xkcd store, 2017-10-03 15:10:17.329616
+https://xkcd.com/1298/: xkcd: Exoplanet Neighborhood, 2017-10-03 15:10:17.363909
+https://store.xkcd.com/collections/everything/products/raptor-polo: Raptor Polo | The xkcd store, 2017-10-03 15:10:17.383101
+https://store.xkcd.com/collections/everything?page=1: all the things | The xkcd store, 2017-10-03 15:10:17.430264
+https://xkcd.com/980/: xkcd: Money, 2017-10-03 15:10:17.490832
+https://xkcd.com/1127/: xkcd: Congress, 2017-10-03 15:10:17.517122
+https://blog.xkcd.com/2013/05/15/dictionary-of-numbers/comment-page-6/: Dictionary of Numbers | xkcd, 2017-10-03 15:10:17.641226
+https://blog.xkcd.com/2013/05/15/dictionary-of-numbers/comment-page-5/: Dictionary of Numbers | xkcd, 2017-10-03 15:10:17.756172
+https://blog.xkcd.com/2011/06/30/family-illness/: Family Illness | xkcd, 2017-10-03 15:10:17.773740
+https://blog.xkcd.com/2011/07/04/oops/: Oops! | xkcd, 2017-10-03 15:10:17.796576
+https://blog.xkcd.com/2011/05/18/answering-ben-steins-question/: Answering Ben Stein&#039;s Question | xkcd, 2017-10-03 15:10:17.837222
+https://blog.xkcd.com/2010/05/03/color-survey-results/: Color Survey Results | xkcd, 2017-10-03 15:10:17.869811
+https://blog.xkcd.com/2011/05/08/michael-bays-scenario/: Michael Bay&#039;s Scenario | xkcd, 2017-10-03 15:10:17.877623
+https://blog.xkcd.com/page/4/: xkcd | The blag of the webcomic | Page 4, 2017-10-03 15:10:17.886479
+https://blog.xkcd.com/2011/08/29/for-the-small-handful-of-hurricane-geeks-out-there/: For the handful of hurricane geeks out there | xkcd, 2017-10-03 15:10:17.896766
+https://blog.xkcd.com/2011/08/24/earthquakes/: Earthquakes | xkcd, 2017-10-03 15:10:17.904756
+https://blog.xkcd.com/2011/04/26/radiation-chart-update/: Radiation Chart Update | xkcd, 2017-10-03 15:10:17.928689
+https://blog.xkcd.com/2011/03/19/radiation-chart/: Radiation Chart | xkcd, 2017-10-03 15:10:17.988455
+https://xkcd.com/493/: xkcd: Actuarial, 2017-10-03 15:10:17.992979
+https://xkcd.com/893/: xkcd: 65 Years, 2017-10-03 15:10:18.013927
+https://blog.xkcd.com/2011/02/18/distraction-affliction-correction-extensio/: Distraction Affliction Correction Extension | xkcd, 2017-10-03 15:10:18.040744
+https://blog.xkcd.com/2011/03/08/parentheses/: Parentheses | xkcd, 2017-10-03 15:10:18.056910
+https://xkcd.com/1076/: xkcd: Groundhog Day, 2017-10-03 15:10:18.075803
+https://xkcd.com/1070/: xkcd: Words for Small Sets, 2017-10-03 15:10:18.080193
+https://blog.xkcd.com/2012/09/29/odd-temporal-milestones/comment-page-8/: Odd Temporal Milestones | xkcd, 2017-10-03 15:10:18.228707
+https://blog.xkcd.com/2012/09/29/odd-temporal-milestones/comment-page-7/: Odd Temporal Milestones | xkcd, 2017-10-03 15:10:18.312611
+https://blog.xkcd.com/2012/07/12/a-morbid-python-script/comment-page-8/: A morbid Python script | xkcd, 2017-10-03 15:10:18.524802
+https://blog.xkcd.com/2012/07/12/a-morbid-python-script/comment-page-7/: A morbid Python script | xkcd, 2017-10-03 15:10:18.550794
+https://blog.xkcd.com/2012/03/22/im-visiting-cnu-on-april-4th/comment-page-7/: I&#8217;m visiting CNU on April 4th | xkcd, 2017-10-03 15:10:18.785971
+https://blog.xkcd.com/2012/03/22/im-visiting-cnu-on-april-4th/comment-page-6/: I&#8217;m visiting CNU on April 4th | xkcd, 2017-10-03 15:10:18.813706
+https://blog.xkcd.com/2012/07/02/groundhog-day-correction/comment-page-6/: Groundhog Day correction | xkcd, 2017-10-03 15:10:19.104137
+https://blog.xkcd.com/2012/07/02/groundhog-day-correction/comment-page-7/: Groundhog Day correction | xkcd, 2017-10-03 15:10:19.131306
+https://blog.xkcd.com/2012/02/27/geohashing-2/comment-page-5/: Geohashing | xkcd, 2017-10-03 15:10:19.414924
+https://blog.xkcd.com/2012/02/27/geohashing-2/comment-page-4/: Geohashing | xkcd, 2017-10-03 15:10:19.532404
+http://wiki.xkcd.com/geohashing/30W_Time_Zone_Rule: 30W Time Zone Rule - Geo Hashing, 2017-10-03 15:10:19.870685
+http://wiki.xkcd.com/geohashing/Template:Globalhash: Template:Globalhash - Geo Hashing, 2017-10-03 15:10:19.875615
+http://wiki.xkcd.com/geohashing/Graticule: Graticule - Geo Hashing, 2017-10-03 15:10:19.879766
+http://wiki.xkcd.com/geohashing/User:Ekorren/Hash_Inquiry_Tool: User:Ekorren/Hash Inquiry Tool - Geo Hashing, 2017-10-03 15:10:19.883490
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;action=edit&amp;section=2: Globalhash - Geo Hashing, 2017-10-03 15:10:19.912123
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;action=edit&amp;section=1: Globalhash - Geo Hashing, 2017-10-03 15:10:19.920755
+http://wiki.xkcd.com/geohashing/User:LuxMundi: User:LuxMundi - Geo Hashing, 2017-10-03 15:10:19.926777
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;action=edit&amp;section=3: Globalhash - Geo Hashing, 2017-10-03 15:10:19.944783
+http://wiki.xkcd.com/geohashing/User:Wade: User:Wade - Geo Hashing, 2017-10-03 15:10:20.011121
+http://wiki.xkcd.com/geohashing/User:LoneTech: User:LoneTech - Geo Hashing, 2017-10-03 15:10:20.032221
+http://wiki.xkcd.com/geohashing/User:Gnitset: User:Gnitset - Geo Hashing, 2017-10-03 15:10:20.041001
+http://wiki.xkcd.com/geohashing/User:B_cereus: User:B cereus - Geo Hashing, 2017-10-03 15:10:20.060498
+http://wiki.xkcd.com/geohashing/User:Danatar: User:Danatar - Geo Hashing, 2017-10-03 15:10:20.119940
+http://wiki.xkcd.com/geohashing/User:Robyn: User:Robyn - Geo Hashing, 2017-10-03 15:10:20.164641
+http://wiki.xkcd.com/geohashing/User:NWoodruff: User:NWoodruff - Geo Hashing, 2017-10-03 15:10:20.212131
+http://wiki.xkcd.com/geohashing/User:Per_S: User:Per S - Geo Hashing, 2017-10-03 15:10:20.244269
+http://wiki.xkcd.com/geohashing/2011-11-30_global: 2011-11-30 global - Geo Hashing, 2017-10-03 15:10:20.253274
+http://wiki.xkcd.com/geohashing/Puppet_Master_Geohash: Puppet Master Geohash - Geo Hashing, 2017-10-03 15:10:20.266864
+http://wiki.xkcd.com/geohashing/User:HicSuntLaganum: User:HicSuntLaganum - Geo Hashing, 2017-10-03 15:10:20.282234
+http://wiki.xkcd.com/geohashing/User:Tilley: User:Tilley - Geo Hashing, 2017-10-03 15:10:20.383002
+http://wiki.xkcd.com/geohashing/User:Wijnland: User:Wijnland - Geo Hashing, 2017-10-03 15:10:20.402728
+http://wiki.xkcd.com/geohashing/User:Rex_Wolf: User:Rex Wolf - Geo Hashing, 2017-10-03 15:10:20.417984
+http://wiki.xkcd.com/geohashing/User:OtherJack: User:OtherJack - Geo Hashing, 2017-10-03 15:10:20.531699
+http://wiki.xkcd.com/geohashing/2011-08-29_global: 2011-08-29 global - Geo Hashing, 2017-10-03 15:10:20.634826
+http://wiki.xkcd.com/geohashing/User:Micsnare: User:Micsnare - Geo Hashing, 2017-10-03 15:10:20.678396
+http://wiki.xkcd.com/geohashing/2011-11-10_global: 2011-11-10 global - Geo Hashing, 2017-10-03 15:10:20.795088
+http://wiki.xkcd.com/geohashing/User:Crankl: User:Crankl - Geo Hashing, 2017-10-03 15:10:20.819368
+http://wiki.xkcd.com/geohashing/2010-03-28_global: 2010-03-28 global - Geo Hashing, 2017-10-03 15:10:20.972748
+http://wiki.xkcd.com/geohashing/2012-10-10_global: 2012-10-10 global - Geo Hashing, 2017-10-03 15:10:20.988595
+http://wiki.xkcd.com/geohashing/User:Codae: User:Codae - Geo Hashing, 2017-10-03 15:10:21.089979
+http://wiki.xkcd.com/geohashing/2013-11-30_global: 2013-11-30 global - Geo Hashing, 2017-10-03 15:10:21.163110
+http://wiki.xkcd.com/geohashing/User:Thomcat: User:Thomcat - Geo Hashing, 2017-10-03 15:10:21.237171
+http://wiki.xkcd.com/geohashing/User:Jiml: User:Jiml - Geo Hashing, 2017-10-03 15:10:21.335462
+http://wiki.xkcd.com/geohashing/User:Thunk: User:Thunk - Geo Hashing, 2017-10-03 15:10:21.473262
+http://wiki.xkcd.com/geohashing/2015-04-19_global: 2015-04-19 global - Geo Hashing, 2017-10-03 15:10:21.545405
+http://wiki.xkcd.com/geohashing/2015-07-21_global: 2015-07-21 global - Geo Hashing, 2017-10-03 15:10:21.801724
+http://wiki.xkcd.com/geohashing/2014-07-10_global: 2014-07-10 global - Geo Hashing, 2017-10-03 15:10:21.851278
+http://wiki.xkcd.com/geohashing/User:Patrizius: User:Patrizius - Geo Hashing, 2017-10-03 15:10:21.867666
+http://wiki.xkcd.com/geohashing/2015-12-05_global: 2015-12-05 global - Geo Hashing, 2017-10-03 15:10:21.913254
+http://wiki.xkcd.com/geohashing/User:Million_zillion: User:Million zillion - Geo Hashing, 2017-10-03 15:10:21.923785
+http://wiki.xkcd.com/geohashing/2016-02-03_global: 2016-02-03 global - Geo Hashing, 2017-10-03 15:10:21.958840
+http://wiki.xkcd.com/geohashing/User:David_Souther: User:David Souther - Geo Hashing, 2017-10-03 15:10:22.029212
+http://wiki.xkcd.com/geohashing/2016-05-01_global: 2016-05-01 global - Geo Hashing, 2017-10-03 15:10:22.047477
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;action=edit&amp;section=4: Globalhash - Geo Hashing, 2017-10-03 15:10:22.057536
+http://wiki.xkcd.com/geohashing/User:Dvdllr: User:Dvdllr - Geo Hashing, 2017-10-03 15:10:22.089945
+http://wiki.xkcd.com/geohashing/Category:Geohashing_guide: Category:Geohashing guide - Geo Hashing, 2017-10-03 15:10:22.207694
+http://wiki.xkcd.com/geohashing/2016-06-12_global: 2016-06-12 global - Geo Hashing, 2017-10-03 15:10:22.226083
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;oldid=488849: Globalhash - Geo Hashing, 2017-10-03 15:10:22.233783
+http://wiki.xkcd.com/geohashing/Special:Categories: Categories - Geo Hashing, 2017-10-03 15:10:22.283596
+http://wiki.xkcd.com/geohashing/Category:Globalhash_achievement: Category:Globalhash achievement - Geo Hashing, 2017-10-03 15:10:22.316823
+http://wiki.xkcd.com/geohashing/Talk:Globalhash: Talk:Globalhash - Geo Hashing, 2017-10-03 15:10:22.336991
+http://wiki.xkcd.com/geohashing/2016-06-28_global: 2016-06-28 global - Geo Hashing, 2017-10-03 15:10:22.353339
+http://wiki.xkcd.com/geohashing/Category:Achievements: Category:Achievements - Geo Hashing, 2017-10-03 15:10:22.364206
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;action=history: Globalhash - Geo Hashing, 2017-10-03 15:10:22.434402
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;action=edit: Globalhash - Geo Hashing, 2017-10-03 15:10:22.441788
+http://wiki.xkcd.com/geohashing/Geo_Hashing:Current_events: Geo Hashing:Current events - Geo Hashing, 2017-10-03 15:10:22.474146
+http://wiki.xkcd.com/wgh/index.php?title=Special:UserLogin&amp;returnto=Globalhash&amp;type=signup: Log in - Geo Hashing, 2017-10-03 15:10:22.479739
+http://wiki.xkcd.com/wgh/index.php?title=Special:UserLogin&amp;returnto=Globalhash: Log in - Geo Hashing, 2017-10-03 15:10:22.545079
+http://wiki.xkcd.com/geohashing/Geo_Hashing:Community_portal: Geo Hashing:Community Portal - Geo Hashing, 2017-10-03 15:10:22.595952
+http://wiki.xkcd.com/geohashing/Special:WhatLinksHere/Globalhash: Pages that link to "Globalhash" - Geo Hashing, 2017-10-03 15:10:22.749895
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;action=info: Globalhash - Geo Hashing, 2017-10-03 15:10:22.843320
+http://wiki.xkcd.com/geohashing/Special:RecentChangesLinked/Globalhash: Changes related to "Globalhash" - Geo Hashing, 2017-10-03 15:10:22.856179
+http://wiki.xkcd.com/geohashing/Geo_Hashing:Privacy_policy: Geo Hashing:Privacy policy - Geo Hashing, 2017-10-03 15:10:22.860688
+http://wiki.xkcd.com/geohashing/2009-03-04_global: 2009-03-04 global - Geo Hashing, 2017-10-03 15:10:22.879559
+http://wiki.xkcd.com/geohashing/2010-09-08_global: 2010-09-08 global - Geo Hashing, 2017-10-03 15:10:22.934585
+http://wiki.xkcd.com/geohashing/Special:SpecialPages: Special pages - Geo Hashing, 2017-10-03 15:10:22.968678
+http://wiki.xkcd.com/geohashing/Geo_Hashing:About: Geohashing - Geo Hashing, 2017-10-03 15:10:22.982629
+http://wiki.xkcd.com/wgh/index.php?title=Globalhash&amp;printable=yes: Globalhash - Geo Hashing, 2017-10-03 15:10:23.116035
+http://wiki.xkcd.com/geohashing/Geo_Hashing:General_disclaimer: Template:Disclaimer - Geo Hashing, 2017-10-03 15:10:23.126763
+http://wiki.xkcd.com/geohashing/Special:RecentChanges: Recent changes - Geo Hashing, 2017-10-03 15:10:23.145401
+https://blog.xkcd.com/2012/01/31/tsunami-photos-and-videos/comment-page-5/: Tsunami photos and videos | xkcd, 2017-10-03 15:10:23.500097
+https://blog.xkcd.com/2012/01/31/tsunami-photos-and-videos/comment-page-4/: Tsunami photos and videos | xkcd, 2017-10-03 15:10:23.512749
+http://wiki.xkcd.com/geohashing/User:Ekorren: User:Ekorren - Geo Hashing, 2017-10-03 15:10:23.866634
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=2: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:23.885607
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=3: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:23.920114
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=4: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:23.994486
+http://wiki.xkcd.com/geohashing/User:Eupeodes: User:Eupeodes - Geo Hashing, 2017-10-03 15:10:24.026964
+http://wiki.xkcd.com/geohashing/Implementations: Implementations - Geo Hashing, 2017-10-03 15:10:24.112581
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=5: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:24.124071
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=1: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:24.203750
+http://wiki.xkcd.com/geohashing/Lizard_Point,_United_Kingdom: Lizard Point, United Kingdom - Geo Hashing, 2017-10-03 15:10:24.926113
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=8: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:24.934229
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=9: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:24.979359
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=10: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.052350
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=11: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.219239
+http://wiki.xkcd.com/geohashing/User_talk:Sourcerer: User talk:Sourcerer - Geo Hashing, 2017-10-03 15:10:25.384351
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=15: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.469344
+http://wiki.xkcd.com/geohashing/User:Sourcerer: User:Sourcerer - Geo Hashing, 2017-10-03 15:10:25.482715
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=14: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.553876
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=12: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.628748
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=17: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.702864
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=16: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.777281
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=20: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.850029
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=13: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.916509
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=18: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:25.997537
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=19: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:26.071477
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=22: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:26.136316
+http://wiki.xkcd.com/geohashing/User:Klaus: User:Klaus - Geo Hashing, 2017-10-03 15:10:26.154490
+http://wiki.xkcd.com/geohashing/Geo_Hashing_talk:Coordinate_calculators: Geo Hashing talk:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:26.165475
+http://wiki.xkcd.com/geohashing/Category:Implementations: Category:Implementations - Geo Hashing, 2017-10-03 15:10:26.171877
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=history: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:26.246804
+http://wiki.xkcd.com/geohashing/User:Klaus/Nearest_Geohash_Calculator: User:Klaus/Nearest Geohash Calculator - Geo Hashing, 2017-10-03 15:10:26.261381
+http://wiki.xkcd.com/wgh/index.php?title=Special:UserLogin&amp;returnto=Geo+Hashing%3ACoordinate+calculators&amp;type=signup: Log in - Geo Hashing, 2017-10-03 15:10:26.375269
+http://wiki.xkcd.com/wgh/index.php?title=Special:UserLogin&amp;returnto=Geo+Hashing%3ACoordinate+calculators: Log in - Geo Hashing, 2017-10-03 15:10:26.435223
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit&amp;section=21: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:26.502764
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=edit: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:26.578025
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;oldid=470937: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:26.653049
+http://wiki.xkcd.com/geohashing/Category:Proposed_achievements: Category:Proposed achievements - Geo Hashing, 2017-10-03 15:10:26.668921
+http://wiki.xkcd.com/geohashing/Proposed_achievements: Proposed achievements - Geo Hashing, 2017-10-03 15:10:26.676840
+http://wiki.xkcd.com/wgh/index.php?title=Geo_Hashing:Coordinate_calculators&amp;action=info: Geo Hashing:Coordinate calculators - Geo Hashing, 2017-10-03 15:10:26.829440
+http://wiki.xkcd.com/wgh/index.php?title=Achievements&amp;action=edit&amp;section=1: Achievements - Geo Hashing, 2017-10-03 15:10:26.880845

@@ -1,17 +1,28 @@
 ## MyCrawler
-An async web crawler using coroutines.
 
-### Project Structure
+MyCrawler is an async web crawler using coroutines. It minized the wait for I/O operations in URL requests and result persistance. It is able to crawl the content of around 1800 pages of xkcd.com in 30 seconds, with a 2.5GHz i5 macbook and public WIFI.
 
-- Single thread for each process, async/await for coroutine. No GIL, no fetcher class and callbacks of callbacks.
-- Use (url, redirect_left) to avoid multiple URLs redirecting to the same end URL, if the redirecs are handled by web server.
+
+### Project Description
+
+Features:
+- Single thread for each process, async/await for coroutine. No GIL, no callbacks of callbacks.
+- Use (url, redirect_left, depth) to avoid multiple URLs redirecting to the same end URL, if the redirects are handled by web server.
 - Use set or Bloom Filter for URL filtering.
 
-Fetcher, Parser Saver not necessarily needed, since a coroutines triggered is able to store its state in local variables like a function does. In fact, function is a special case of coroutine.
+Structure:
+- The ```crawler.py``` is the main class, which will take Fetcher, Parser and Saver and manage the high-level crawling logic.
+- The ```workers``` directory contains the classes that do their own tasks.
+- The ```utils``` directory contains utitily functions that is relatively stable and orthogonal to the logic of their own class.
 
-Fetcher: I/O bound, one process, many coroutines
-Parser: CPU bound, number of process depending on the workload of parsing
-Saver: I/O bound, one process, many coroutines
+Constraints:
+- Fetcher: I/O bound, one process, many coroutines.
+- Parser: CPU bound, number of process depending on the workload of parsing.
+- Saver: I/O bound, one process, many coroutines.
+
+The Fetcher, Parser Saver classes are not necessarily needed, since a coroutines triggered is able to store its state in local variables like a function does. In fact, function is a special case of coroutine. But for the more separated code, those functions are wrapped into classes.
+
+There's still much room for improvement, since there's no HTML queue for Parser and item queue for Save, which allows parsers and savers to work independently without switching context.
 
 #### How coroutines are used to minimize wait on I/O 
 
@@ -23,7 +34,7 @@ tasks_list = [asyncio.Task(self._work(index + 1), loop=self._loop)
 
 2. inside of _work(), fetch() is called, that coroutine will be suspended on the line below
 ```
-fetch_result, content = await self._fetcher.fetch(url, max_redirect)
+fetch_status, fetch_result = await self._fetcher.fetch(url, redirects, depth)
 ```
 
 3. inside of fetch(), use the session provided by aiohttp to get response, similarly, that coroutine will be suspended on the line below
@@ -31,6 +42,17 @@ fetch_result, content = await self._fetcher.fetch(url, max_redirect)
 response = await self._session.get(
     url, allow_redirect=False, timeout=5
 )
+```
+
+4. after fetch_result is retrieved, it will be passed to parser, and the task will be suspended until .parse() finishes
+```
+# fetch_result => (response status, url, response_text)
+parse_status, url_list, item = await self._parser.parse(url, depth, fetch_result[-1])
+```
+
+5. after item is parsed, it will be passed to saver and the task will be suspended until .save() finishes
+```
+await self._saver.save(url, item)
 ```
 
 #### Tests

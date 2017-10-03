@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import sys
+import time
 import logging
 import asyncio
 
@@ -27,6 +28,11 @@ class Crawler(object):
         self._loop = loop or asyncio.get_event_loop
 
         self._num_tasks = num_tasks
+        self._stats = {
+            'sent_requests': 0,
+            'finished_tasks': 0,
+            't0': time.time()
+        }
         return
 
 
@@ -39,7 +45,10 @@ class Crawler(object):
         except KeyboardInterrupt:
             # sys.stderr.flush()
             print('\nInterrupted by user\n')
+            logging.info('statistics: %r', self._stats)
+            logging.info('time elapsed: %r seconds', time.time() - self._stats['t0'])
         finally:
+            self._fetcher.close_session()
             # next two lines are required for actual aiohttp resource cleanup
             self._loop.stop()
             self._loop.run_forever()
@@ -62,9 +71,6 @@ class Crawler(object):
         await self._fetcher.queue_join()
         for task in tasks_list:
             task.cancel()
-
-        # close fetcher session
-        self._fetcher.close_session()
         return
 
 
@@ -80,7 +86,8 @@ class Crawler(object):
                 # fetch the content of a url
                 # fetch_result => (response status, url, response_text)
                 fetch_status, fetch_result = await self._fetcher.fetch(url, redirects, depth)
-                
+                self._stats['sent_requests'] += 1
+
                 # if fetch result is html and not an error page
                 if fetch_status == 0 and (fetch_result[0] not in (404, 500)):
                     # parse the content of a url
@@ -94,6 +101,7 @@ class Crawler(object):
                             self._fetcher.add_a_task(_url, 0, depth + 1)
                         # save the item of a url
                         await self._saver.save(url, item)
+                        self._stats['finished_tasks'] += 1
 
         except asyncio.CancelledError as e:
         # except Exception as e:

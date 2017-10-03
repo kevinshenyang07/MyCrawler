@@ -2,7 +2,6 @@
 
 import sys
 import json
-import time
 import logging
 import asyncio
 from my_crawler import UrlFilter, Fetcher, Parser, Saver, Crawler
@@ -50,16 +49,6 @@ def test_crawler(config_path):
     crawler.start_work_and_wait()
 
 
-def count_lines(fpath):
-    cnt = 0
-    for line in open(fpath, 'r'):
-        cnt += 1
-    return cnt
-
 if __name__ == '__main__':
-    t0 = time.time()
     test_crawler(config_path='./config.json')
-    t1 = time.time()
-    lines = count_lines('crawl_result.txt')
-    print("{} seconds spent, successfully get {} pages.".format(t1 - t0, lines))
     exit()
