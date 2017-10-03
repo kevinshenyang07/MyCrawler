@@ -43,6 +43,7 @@ class Crawler(object):
             # next two lines are required for actual aiohttp resource cleanup
             self._loop.stop()
             self._loop.run_forever()
+
             self._loop.close()
         return
 
@@ -72,32 +73,33 @@ class Crawler(object):
         working process, fetching -> parsing -> saving
         """
         logging.warning("%r[worker-%r] start...", self.__class__.__name__, index)
-
-        while True:
-            try:
+        
+        try:
+            while True:
                 url, redirects, depth = await self._fetcher.get_a_task()
-                
                 # fetch the content of a url
-                status, fetch_result = await self._fetcher.fetch(url, redirects, depth)
+                # fetch_result => (response status, url, response_text)
+                fetch_status, fetch_result = await self._fetcher.fetch(url, redirects, depth)
                 
                 # if fetch result is html
-                if status == 0:
+                if fetch_status == 0:
                     # parse the content of a url
-                    parse_result, url_list, item = await self._parser.parse(url, fetch_result)
+                    # item => (title, timestamp)
+                    parse_status, url_list, item = await self._parser.parse(url, depth, fetch_result[-1])
 
-                    if parse_result == 1:
-
+                    # if parsing successful
+                    if parse_status == 0:
                         # add new task to self._queue
                         for url in url_list:
                             self._fetcher.add_a_task(url, 0, depth + 1)
-
                         # save the item of a url
                         await self._saver.save(url, item)
-                
-                self._fetcher.finish_a_task()
 
-            except asyncio.CancelledError as e:
-                logging.error("%r[worker-%r] error: %r", self.__class__.__name__, index, e)
+                self._fetcher.finish_a_task()
+                
+        # except asyncio.CancelledError as e:
+        except Exception as e:
+            logging.error("%r[worker-%r] error: %r", self.__class__.__name__, index, e)
         # end of while True
 
         logging.warning("%r[worker-%r] end...", self.__class__.__name__, index)

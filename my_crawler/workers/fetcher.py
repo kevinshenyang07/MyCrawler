@@ -17,10 +17,12 @@ from ..utils import UrlFilter, make_random_useragent, is_redirect
 
 
 class Fetcher(object):
+    """
+    get url from URL queue, fetch the response, then add it to HTML queue
+    """
     
     def __init__(self, loop, root_urls, max_tries=4, max_redirects=10, sleep_interval=0):
         self._loop = loop
-        self._root_urls = root_urls
         self._max_tries = max_tries
         self._max_redirects = max_redirects
         self._sleep_interval = sleep_interval
@@ -31,7 +33,7 @@ class Fetcher(object):
         # get queue ready
         self._url_queue = Queue(loop=loop)
         # add root URLs to URL queue
-        for url in self._root_urls:
+        for url in root_urls:
             self.add_a_task(url, 0, 0)
 
     def init_session(self):
@@ -88,7 +90,7 @@ class Fetcher(object):
                 tries += 1
         # end of while loop
 
-        if tries > self._max_tries:
+        if tries >= self._max_tries:
             logging.error('%r failed after %r tries', url, self._max_tries)
             return -1, None
 
@@ -111,7 +113,6 @@ class Fetcher(object):
             else:
                 result = (response.status, response.url, await response.text())
         finally:
-            status = -1
             await response.release()
         
         return status, result

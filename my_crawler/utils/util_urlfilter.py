@@ -10,7 +10,7 @@ class UrlFilter(object):
     """
 
     def __init__(self, black_patterns=(CONFIG_URL_FILTER_PATTERN,), 
-                 white_patterns=(r"^http",), capacity=None):
+                 white_patterns=(r"^http[s]{0,1}://",), capacity=None):
         """
         constructor, use variable of BloomFilter if capacity else variable of set
         """

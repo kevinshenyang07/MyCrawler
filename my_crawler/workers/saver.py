@@ -10,23 +10,25 @@ class InvalidSaveConfigsError(Exception):
         super(InvalidSaveConfigsError, self).__init__(message)
 
 
-
 class Saver(object):
+    """
+    get task from item queue, then save item to local storage
+    """
 
     def __init__(self, save_configs=None):
         self._save_configs = save_configs
         return
 
-    def attempt_save(self, url, item):
+    async def save(self, url, item):
         """
         try to save result according to save configs
         """
         try:
             configs = self._save_configs
             if configs['type'] == 'file':
-                self.save_to_file(url, item)
+                await self.save_to_file(url, item)
             elif configs['type'] == 'db':
-                self.save_to_db()
+                await self.save_to_db()
             else:
                 raise InvalidSaveConfigsError
         except InvalidSaveConfigsError:
@@ -40,14 +42,14 @@ class Saver(object):
         :return status:
         """
         logging.debug("%r start: url=%r", self.__class__.__name__, url)
+        status = 0
 
         try:
-            configs = self._save_configs['save']
-            write_path = configs['path']
+            write_path = self._save_configs['path']
             with open(write_path, 'a') as f:
-                line = url + ": " + ", ".join(item) + '\n'
+                item_str = ", ".join(str(x) for x in item)
+                line = url + ": " + item_str + '\n'
                 f.write(line)
-            status = 0
 
         # TODO: substitute to more specific exception
         except Exception as e:

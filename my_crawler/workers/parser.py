@@ -7,12 +7,15 @@ from ..utils import get_url_legal
 
 
 class Parser(object):
+    """
+    get page content from HTML queue, parse the content then add to item queue
+    """
 
     def __init__(self, max_depth=-1):
         self._max_depth = max_depth  # no depth if set to -1 
         return
 
-    async def parse(self, url, depth, content):
+    async def parse(self, url, depth, html_text):
         """
         entrance function of Parser
         :return (status, url_list, item):
@@ -22,8 +25,6 @@ class Parser(object):
         status, url_list = 0, []
 
         try:
-            html_text = content[-1]
-
             if self._max_depth < 0 or depth < self._max_depth:
                 
                 # find all href in the page
@@ -37,7 +38,7 @@ class Parser(object):
 
         # TODO: substitute to more specific exception
         except Exception as e:
-            parse_result, url_list, item = -1, [], ()
+            status, url_list, item = -1, [], ()
             logging.error("%r error: %r, url=%r, depth=%r",
                           self.__class__.__name__, e, url, depth)
 
@@ -51,12 +52,16 @@ class Parser(object):
         """
         based on the fields needed, return the corresponding data
         """
+        # initialize variables
+        title = ''
+        timestamp = datetime.datetime.now()
+
         # find the title of the page
-        title = re.search(
+        title_match = re.search(
             r"<title>(?P<title>[\w\W]+?)</title>", 
             html_text, flags=re.IGNORECASE)
 
-        title = title.group("title").strip()
-        timestamp = datetime.datetime.now()
+        if title_match:
+            title = title_match.group("title").strip()
 
         return (title, timestamp)

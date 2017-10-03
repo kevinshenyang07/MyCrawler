@@ -1,13 +1,13 @@
 {
-    "num_tasks": 10,
+    "num_tasks": 5,
     "max_redirects": 10,
     "max_tries": 4,
     "sleep_interval": 0,
     "max_depth": -1,
-    "root_urls": ["http://xkcd.com"],
+    "root_urls": ["https://xkcd.com"],
     "logging_level": 2,
     "save": {
         "type": "file",
-        "path": "./crwal_result.txt"
+        "path": "./crawl_result.txt"
     }
 }
